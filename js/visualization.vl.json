@@ -2,88 +2,44 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 800,
   "height": 600,
-  "title": "COVID-19 Cases per Country (13 Oct 2020)",
+  "title": "Population vs Density",
   "data": {
-    "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/4_interactive_scatter_plot/data/COVID_19_10_Oct_2020.csv"
+    "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/population_by_country_2020.csv"
   },
   "params": [
     {
-      "name": "Population_Above",
+      "name": "Population (2020)",
       "value": 0,
       "bind": {
         "input": "range",
         "min": 0,
         "max": 100000000,
         "step": 1000000,
-        "name": "Minimum Population: "
+        "name": "Population: "
       }
-    },
-    {
-      "name": "Continent_selection",
-      "bind": {
-        "input": "select",
-        "options": [
-          null,
-          "North America",
-          "South America",
-          "Europe",
-          "Africa",
-          "Asia",
-          "Oceania"
-        ],
-        "labels": [
-          "Show All",
-          "North America",
-          "South America",
-          "Europe",
-          "Africa",
-          "Asia",
-          "Oceania"
-        ],
-        "name": "Continent Selection: "
-      }
-    }
-  ],
-  "transform": [
-    {"filter": "datum.Active > 0"},
-    {"filter": "datum.Deaths > 0"},
-    {"filter": "datum.Population > Population_Above"},
-    {
-      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
-    },
-    {
-      "calculate": "datum.Confirmed/datum.Population * 10000",
-      "as": "Cases per 10,000 Population"
     }
   ],
   "encoding": {
     "x": {
-      "field": "Confirmed",
+      "field": "Density (P/Km²)",
       "type": "quantitative",
-      "title": "Confirmed Cases",
+      "title": "Density (P/Km²)",
       "axis": {"tickCount": 7},
-      "scale": {"type": "log", "domain": [1, 10000000]}
+      "scale": {"type": "log", "domain": [1, 100000]}
     },
     "y": {
-      "field": "Deaths",
+      "field": "Population (2020)",
       "type": "quantitative",
       "axis": {"tickCount": 6},
-      "scale": {"type": "log", "domain": [1, 1000000]}
+      "scale": {"type": "log", "domain": [1, 10000000000]}
     }
   },
   "layer": [
     {
-      "selection": {
-        "continent_highlight": {
-          "type": "multi",
-          "fields": ["Continent"],
-          "bind": "legend"
-        }
-      },
       "mark": "circle",
       "encoding": {
         "size": {
-          "field": "Population",
+          "field": "Population (2020)",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
@@ -92,44 +48,7 @@
           },
           "legend": {"format": ".1s"}
         },
-        "color": {
-          "field": "Continent",
-          "type": "nominal",
-          "scale": {
-            "domain": [
-              "North America",
-              "South America",
-              "Europe",
-              "Africa",
-              "Asia",
-              "Oceania"
-            ],
-            "range": [
-              "#e41a1c",
-              "#984ea3",
-              "#ff7f00",
-              "#a6cee3",
-              "#377eb8",
-              "#a65628"
-            ]
-          }
-        },
-        "opacity": {
-          "condition": {"selection": "continent_highlight", "value": 0.6},
-          "value": 0.2
-        },
-        "tooltip": [
-          {"field": "Country", "type": "nominal"},
-          {"field": "Confirmed", "type": "quantitative", "format": ","},
-          {"field": "Active", "type": "quantitative", "format": ","},
-          {"field": "Deaths", "type": "quantitative", "format": ","},
-          {"field": "Recovered", "type": "quantitative", "format": ","},
-          {
-            "field": "Cases per 10,000 Population",
-            "type": "quantitative",
-            "format": ".2f"
-          }
-        ]
+        "color": {"field": "Country (or dependency)", "type": "nominal"}
       }
     },
     {
@@ -144,24 +63,11 @@
       "encoding": {
         "text": {"field": "Country", "type": "nominal"},
         "color": {"value": "black"},
-        "opacity": {
-          "condition": {
-            "test": "datum['Country'] == 'China' || datum['Country'] == 'Singapore' || datum['Country'] == 'Australia' || datum['Country'] == 'New Zealand' || datum['Country'] == 'Italy' || datum['Country'] == 'Yemen' ||  datum['Country'] == 'United States'",
-            "value": 1
-          },
-          "value": 0
-        },
+        "opacity": {"value": 0},
         "tooltip": [
-          {"field": "Country", "type": "nominal"},
-          {"field": "Confirmed", "type": "quantitative", "format": ","},
-          {"field": "Active", "type": "quantitative", "format": ","},
-          {"field": "Deaths", "type": "quantitative", "format": ","},
-          {"field": "Recovered", "type": "quantitative", "format": ","},
-          {
-            "field": "Cases per 10,000 Population",
-            "type": "quantitative",
-            "format": ".2f"
-          }
+          {"field": "Country (or dependency)", "type": "nominal"},
+          {"field": "Population (2020)", "type": "quantitative", "format": ","},
+          {"field": "Density (P/Km²)", "type": "quantitative", "format": ","}
         ]
       }
     }
