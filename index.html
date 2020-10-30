@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
-  <!-- Import vega-embed -->
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  
-  <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
-  
-</head>
+  <head>
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    
+    <!-- CSS file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+  </head>
+
 <body>
-
-<h1>An Example of Multiple Visualisations</h1>
-
-<h2>This is the first visualisation</h2>
-<div id="choropleth_map"></div>
-
-<h2>This is the second visualisation</h2>
-<div id="scatter_plot"></div>
-
-<script type="text/javascript">
+  <div class = "container">
+    <div class = "box-1">
+      <h1>Happiness and Life Satisfaction</h1>
+    </div>
+  </div>
   
-  var vis1 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/global_population_density.vl.json";
   
-  vegaEmbed('#choropleth_map', vis1).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
+<div class = "box-2">
+  <h2>Happiness Across The World</h2>
+  <div id="choropleth_map"></div>
+  <p>Figure 1: Map showing countries with their respective happiness level.</p>
+</div>
   
-  var vis2 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/visualization.vl.json";
+
+  <h2>Happiest Country in the World</h2>
+  <div id="horizontal_bar_chart"></div>
+  <p>Figure 2: Finland has the highest happiness score in 2019.</p>
+
+  <script type="text/javascript">
+    var vis1 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/chloropleth_map_happiness_level.vl.json";
+    vegaEmbed('#choropleth_map', vis1).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+    
+    var vis2 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/horizontal_bar_20_happiest_countries.vl.json";
+    vegaEmbed('#horizontal_bar_chart', vis2).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+
   
-  vegaEmbed('#scatter_plot', vis2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
 
 </body>
 </html>
