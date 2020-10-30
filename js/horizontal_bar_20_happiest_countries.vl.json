@@ -21,8 +21,8 @@
     }
   ],
   "encoding": {
-    "x": {"aggregate": "sum", "field": "Score"},
-    "y": {"field": "Country or region", "sort": "-x"},
+    "x": {"aggregate": "sum", "field": "Score", "title": "Happiness Score"},
+    "y": {"field": "Country or region", "sort": "-x", "title": "Countries"},
     "color": {
       "field": "Score",
       "type": "quantitative",
@@ -31,7 +31,7 @@
   },
   "config": {
     "axisY": {
-      "titleColor": "white",
+      "titleColor": "black",
       "titleFontSize": 15,
       "labelAlign": "right",
       "labelExpr": "datum.label",
