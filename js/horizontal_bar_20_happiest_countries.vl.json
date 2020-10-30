@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "20 Happiest Countries in the World",
+  "width": 400,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2019.csv"
+  },
+  "transform": [
+    {
+      "window": [{"op": "rank", "as": "rank"}],
+      "sort": [{"field": "Score", "order": "descending"}]
+    },
+    {"filter": "datum.rank <= 20"}
+  ],
+  "layer": [
+    {"mark": "bar"},
+    {
+      "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 4},
+      "encoding": {"text": {"field": "Score", "type": "quantitative"}}
+    }
+  ],
+  "encoding": {
+    "x": {"aggregate": "sum", "field": "Score"},
+    "y": {"field": "Country or region", "sort": "-x"},
+    "color": {
+      "field": "Score",
+      "type": "quantitative",
+      "scale": {"scheme": "redpurple"}
+    }
+  },
+  "config": {
+    "axisY": {
+      "titleColor": "white",
+      "titleFontSize": 15,
+      "labelAlign": "right",
+      "labelExpr": "datum.label",
+      "minExtent": 20
+    },
+    "axisX": {
+      "titleColor": "black",
+      "titleFontSize": 15,
+      "labelColor": "black"
+    },
+    "legend": {"labelColor": "black"},
+    "title": {"fontSize": 20, "color": "rebeccapurple"}
+  },
+  "params": [{"name": "country_selection"}]
+}
