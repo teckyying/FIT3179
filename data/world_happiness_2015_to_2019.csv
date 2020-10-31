@@ -45,7 +45,7 @@ Guatemala,Latin America and Caribbean,6.123,2015,North America,43
 Uzbekistan,Central and Eastern Europe,6.003,2015,Asia,44
 Slovakia,Central and Eastern Europe,5.995,2015,Europe,45
 Japan,Eastern Asia,5.987,2015,Asia,46
-South Korea,Eastern Asia,5.984,2015,Africa,47
+South Korea,Eastern Asia,5.984,2015,Asia,47
 Ecuador,Latin America and Caribbean,5.975,2015,South America,48
 Bahrain,Middle East and Northern Africa,5.96,2015,Asia,49
 Italy,Western Europe,5.948,2015,Europe,50
@@ -214,7 +214,7 @@ Kazakhstan,Central and Eastern Europe,5.919,2016,Asia,54
 Moldova,Central and Eastern Europe,5.897,2016,Europe,55
 Russia,Central and Eastern Europe,5.856,2016,Europe,56
 Poland,Central and Eastern Europe,5.835,2016,Europe,57
-South Korea,Eastern Asia,5.835,2016,Africa,57
+South Korea,Eastern Asia,5.835,2016,Asia,57
 Bolivia,Latin America and Caribbean,5.822,2016,South America,59
 Lithuania,Central and Eastern Europe,5.813,2016,Europe,60
 Belarus,Central and Eastern Europe,5.802,2016,Europe,61
@@ -368,7 +368,7 @@ Japan,Eastern Asia,5.920000076,2017,Asia,51
 Lithuania,Central and Eastern Europe,5.90199995,2017,Europe,52
 Algeria,Middle East and Northern Africa,5.872000217,2017,Africa,53
 Latvia,Central and Eastern Europe,5.849999905,2017,Europe,54
-South Korea,Eastern Asia,5.837999821,2017,Africa,55
+South Korea,Eastern Asia,5.837999821,2017,Asia,55
 Moldova,Central and Eastern Europe,5.837999821,2017,Europe,56
 Romania,Central and Eastern Europe,5.824999809,2017,Europe,57
 Bolivia,Latin America and Caribbean,5.822999954,2017,South America,58
@@ -525,7 +525,7 @@ Latvia,Central and Eastern Europe,5.933,2018,Europe,53
 Japan,Eastern Asia,5.915,2018,Asia,54
 Mauritius,Sub-Saharan Africa,5.891,2018,Africa,55
 Jamaica,Latin America and Caribbean,5.89,2018,North America,56
-South Korea,Eastern Asia,5.875,2018,Africa,57
+South Korea,Eastern Asia,5.875,2018,Asia,57
 N. Cyprus,Western Europe,5.835,2018,Africa,58
 Russia,Central and Eastern Europe,5.81,2018,Europe,59
 Kazakhstan,Central and Eastern Europe,5.79,2018,Asia,60
@@ -678,7 +678,7 @@ Ecuador,Latin America and Caribbean,6.028,2019,South America,50
 Kuwait,Middle East and Northern Africa,6.021,2019,Asia,51
 Thailand,Southeastern Asia,6.008,2019,Asia,52
 Latvia,Central and Eastern Europe,5.94,2019,Europe,53
-South Korea,Eastern Asia,5.895,2019,Africa,54
+South Korea,Eastern Asia,5.895,2019,Asia,54
 Estonia,Central and Eastern Europe,5.893,2019,Europe,55
 Jamaica,Latin America and Caribbean,5.89,2019,North America,56
 Mauritius,Sub-Saharan Africa,5.888,2019,Africa,57
