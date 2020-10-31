@@ -9,7 +9,7 @@
   "transform": [
     {
       "window": [{"op": "rank", "as": "rank"}],
-      "sort": [{"field": "Score", "order": "descending"}]
+      "sort": [{"field": "Happiness_Score", "order": "descending"}]
     },
     {"filter": "datum.rank <= 20"}
   ],
@@ -17,16 +17,21 @@
     {"mark": "bar"},
     {
       "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 4},
-      "encoding": {"text": {"field": "Score", "type": "quantitative"}}
+      "encoding": {"text": {"field": "Happiness_Score", "type": "quantitative"}}
     }
   ],
   "encoding": {
-    "x": {"aggregate": "sum", "field": "Score", "title": "Happiness Score"},
-    "y": {"field": "Country or region", "sort": "-x", "title": "Countries"},
+    "x": {
+      "aggregate": "sum",
+      "field": "Happiness_Score",
+      "title": "Happiness Score"
+    },
+    "y": {"field": "Country", "sort": "-x", "title": "Countries"},
     "color": {
-      "field": "Score",
+      "field": "Happiness_Score",
       "type": "quantitative",
-      "scale": {"scheme": "redpurple"}
+      "scale": {"scheme": "redpurple"},
+      "legend": {"title": "Happiness Score"}
     }
   },
   "config": {
