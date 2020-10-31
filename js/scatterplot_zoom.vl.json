@@ -1,0 +1,552 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "background": "whitesmoke",
+  "width": 400,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2019.csv"
+  },
+  "params": [
+    {
+      "name": "Population_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 300000000,
+        "step": 10000,
+        "name": "Population: "
+      }
+    },
+    {
+      "name": "factor",
+      "bind": {
+        "input": "select",
+        "options": [
+          "SocialSupport",
+          "GDP_per_capita",
+          "HealthyLifeExpectancy",
+          "FreedomToMakeLifeChoices",
+          "Generosity",
+          "PerceptionsOfCorruption"
+        ],
+        "labels": [
+          "Social Support",
+          "GDP Per Capita",
+          "Healthy Life Expentancy",
+          "Freedom To Make Life Choices",
+          "Generosity",
+          "Perceptions Of Corruption"
+        ],
+        "name": "Explained by: "
+      }
+    },
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "labels": [
+          "All",
+          "Africa",
+          "Asia",
+          "Europe",
+          "North America",
+          "Oceania",
+          "South America"
+        ],
+        "name": "Continent: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Happiness_Score > 0"},
+    {"filter": "datum.SocialSupport > 0"},
+    {"filter": "datum.Population >= Population_Above"},
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "SocialSupport",
+      "type": "quantitative",
+      "title": "Social Support",
+      "axis": {"tickCount": 4},
+      "scale": {"type": "linear", "domain": [-0.5, 2]}
+    },
+    "y": {
+      "field": "Happiness_Score",
+      "type": "quantitative",
+      "axis": {"tickCount": 8},
+      "scale": {"type": "linear", "domain": [0, 8]}
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "continent_highlight": {
+          "type": "multi",
+          "fields": ["Continent"],
+          "bind": "legend"
+        },
+        "hover": {
+          "type": "single",
+          "on": "mouseover",
+          "empty": "none",
+          "fields": ["Country"]
+        },
+        "grid": {"type": "interval", "bind": "scales"}
+      },
+      "transform": [{"filter": "factor=='SocialSupport'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.65},
+          "value": 0.15
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "SocialSupport",
+            "type": "quantitative",
+            "title": "Social Support"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "factor=='GDP_per_capita'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {
+          "field": "GDP_per_capita",
+          "type": "quantitative",
+          "title": "GDP Per Capita",
+          "axis": {"tickCount": 4},
+          "scale": {"type": "linear", "domain": [0, 2]}
+        },
+        "y": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "axis": {"tickCount": 8},
+          "scale": {"type": "linear", "domain": [0, 8]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.65},
+          "value": 0.15
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "GDP_per_capita",
+            "type": "quantitative",
+            "title": "GDP Per Capita"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "factor=='HealthyLifeExpectancy'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {
+          "field": "HealthyLifeExpectancy",
+          "type": "quantitative",
+          "title": "Healthy Life Expentancy",
+          "axis": {"tickCount": 4},
+          "scale": {"type": "linear", "domain": [0, 2]}
+        },
+        "y": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "axis": {"tickCount": 8},
+          "scale": {"type": "linear", "domain": [0, 8]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "HealthyLifeExpectancy",
+            "type": "quantitative",
+            "title": "Healthy Life Expentancy"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "factor=='FreedomToMakeLifeChoices'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {
+          "field": "FreedomToMakeLifeChoices",
+          "type": "quantitative",
+          "title": "Freedom To Make Life Choices",
+          "axis": {"tickCount": 4},
+          "scale": {"type": "linear", "domain": [0, 2]}
+        },
+        "y": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "axis": {"tickCount": 8},
+          "scale": {"type": "linear", "domain": [0, 8]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "FreedomToMakeLifeChoices",
+            "type": "quantitative",
+            "title": "Freedom To Make Life Choices"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "factor=='Generosity'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {
+          "field": "Generosity",
+          "type": "quantitative",
+          "title": "Generosity",
+          "axis": {"tickCount": 4},
+          "scale": {"type": "linear", "domain": [0, 2]}
+        },
+        "y": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "axis": {"tickCount": 8},
+          "scale": {"type": "linear", "domain": [0, 8]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "Generosity",
+            "type": "quantitative",
+            "title": "Generosity"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "factor=='PerceptionsOfCorruption'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {
+          "field": "PerceptionsOfCorruption",
+          "type": "quantitative",
+          "title": "Perceptions Of Corruption",
+          "axis": {"tickCount": 4},
+          "scale": {"type": "linear", "domain": [0, 2]}
+        },
+        "y": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "axis": {"tickCount": 8},
+          "scale": {"type": "linear", "domain": [0, 8]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "PerceptionsOfCorruption",
+            "type": "quantitative",
+            "title": "Perceptions Of Corruption"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 12,
+        "fontStyle": "italic"
+      },
+      "encoding": {
+        "text": {"field": "Country", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+          "condition": {
+            "test": "datum['Country'] == 'China' || datum['Country'] == 'Finland' || datum['Country'] == 'Australia' || datum['Country'] == 'Japan' || datum['Country'] == 'S. Sudan' || datum['Country'] == 'Syria' ||  datum['Country'] == 'United States of America' ||  datum['Country'] == 'Malaysia' ||  datum['Country'] == 'South Korea'",
+            "value": 1
+          },
+          "value": 0
+        }
+      }
+    }
+  ],
+  "config": {}
+}
