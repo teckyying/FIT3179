@@ -1,0 +1,5476 @@
+[
+ {
+   "Country": "Switzerland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.587,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iceland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.561,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Denmark",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.527,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Norway",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.522,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Canada",
+   "Region": "North America",
+   "Happiness_Score": 7.427,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Finland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.406,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Netherlands",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.378,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Sweden",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.364,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "New Zealand",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.286,
+   "Year": 2015,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Australia",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.284,
+   "Year": 2015,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Israel",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 7.278,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Costa Rica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.226,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Austria",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.2,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mexico",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.187,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "United States of America",
+   "Region": "North America",
+   "Happiness_Score": 7.119,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Brazil",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.983,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Luxembourg",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.946,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ireland",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.94,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belgium",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.937,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.901,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "United Kingdom",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.867,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Oman",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.853,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Venezuela",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.81,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Singapore",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.798,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Panama",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.786,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Germany",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.75,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Chile",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.67,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Qatar",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.611,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "France",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.575,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Argentina",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.574,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Czech Republic",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.505,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Uruguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.485,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Colombia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.477,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Thailand",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.455,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.411,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Spain",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.329,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Malta",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.302,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Taiwan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 6.298,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kuwait",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.295,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Suriname",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.269,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.168,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "El Salvador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.13,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Guatemala",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.123,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.003,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Slovakia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.995,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Japan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.987,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "South Korea",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.984,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ecuador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.975,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Bahrain",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.96,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Italy",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.948,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bolivia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.89,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Moldova",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.889,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Paraguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.878,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.855,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Slovenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.848,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Lithuania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.833,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Nicaragua",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.828,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Peru",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.824,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Belarus",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.813,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Poland",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.791,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Malaysia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.77,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Croatia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.759,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Libya",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.754,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Russia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.716,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Jamaica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.709,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "N. Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.695,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.689,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Algeria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.605,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kosovo",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.589,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.548,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mauritius",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.477,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Hong Kong",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.474,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Estonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.429,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Indonesia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.399,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Vietnam",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.36,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Turkey",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.332,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.286,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nigeria",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.268,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bhutan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.253,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.212,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Pakistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.194,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Jordan",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.192,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Montenegro",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.192,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "China",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.14,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Zambia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.129,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Romania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.124,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Serbia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.123,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Portugal",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.102,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Latvia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.098,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Philippines",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.073,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Somaliland region",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.057,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Morocco",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.013,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Macedonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.007,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mozambique",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.971,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Albania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.959,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.949,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Lesotho",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.898,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Dominican Rep.",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.885,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Laos",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.876,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mongolia",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 4.874,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Swaziland",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.867,
+   "Year": 2015,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Greece",
+   "Region": "Western Europe",
+   "Happiness_Score": 4.857,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Lebanon",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.839,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Hungary",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.8,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Honduras",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.788,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Tajikistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.786,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Tunisia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.739,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Palestinian Territories",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.715,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bangladesh",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.694,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Iran",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.686,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Ukraine",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.681,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iraq",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.677,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "South Africa",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.642,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ghana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.633,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.61,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Liberia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.571,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "India",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.565,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.55,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Haiti",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.518,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Dem. Rep. Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.517,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Nepal",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.514,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Ethiopia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.512,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.507,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mauritania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.436,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kenya",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.419,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Djibouti",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.369,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Armenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.35,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Botswana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.332,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Myanmar",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.307,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Georgia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.297,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Malawi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.292,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.271,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Cameroon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.252,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bulgaria",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.218,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Egypt",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.194,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Yemen",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.077,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Angola",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.033,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mali",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.995,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.989,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Comoros",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.956,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Uganda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.931,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Senegal",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.904,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Gabon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.896,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Niger",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.845,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cambodia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 3.819,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Tanzania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.781,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Madagascar",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.681,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Central African Rep.",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.678,
+   "Year": 2015,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Chad",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.667,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Guinea",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.656,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.655,
+   "Year": 2015,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.587,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Afghanistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 3.575,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Rwanda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.465,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Benin",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.34,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Syria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.006,
+   "Year": 2015,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Burundi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.905,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Togo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.839,
+   "Year": 2015,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Denmark",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.526,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Switzerland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.509,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iceland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.501,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Norway",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.498,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Finland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.413,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Canada",
+   "Region": "North America",
+   "Happiness_Score": 7.404,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Netherlands",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.339,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "New Zealand",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.334,
+   "Year": 2016,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Australia",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.313,
+   "Year": 2016,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Sweden",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.291,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Israel",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 7.267,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Austria",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.119,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United States of America",
+   "Region": "North America",
+   "Happiness_Score": 7.104,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Costa Rica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.087,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Puerto Rico",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.039,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Germany",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.994,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Brazil",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.952,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Belgium",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.929,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ireland",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.907,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Luxembourg",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.871,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mexico",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.778,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Singapore",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.739,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "United Kingdom",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.725,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Chile",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.705,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Panama",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.701,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Argentina",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.65,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Czech Republic",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.596,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.573,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Uruguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.545,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Malta",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.488,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Colombia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.481,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "France",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.478,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Thailand",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.474,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.379,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Taiwan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 6.379,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Qatar",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.375,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Spain",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.361,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Algeria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.355,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Guatemala",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.324,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Suriname",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.269,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Kuwait",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.239,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bahrain",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.218,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.168,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Venezuela",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.084,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Slovakia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.078,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "El Salvador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.068,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Malaysia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.005,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nicaragua",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.992,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.987,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Italy",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.977,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ecuador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.976,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Belize",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.956,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Japan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.921,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.919,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Moldova",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.897,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Russia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.856,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Poland",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.835,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "South Korea",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.835,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bolivia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.822,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Lithuania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.813,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belarus",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.802,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "N. Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.771,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Slovenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.768,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Peru",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.743,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.658,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mauritius",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.648,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Libya",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.615,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Latvia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.56,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.546,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Paraguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.538,
+   "Year": 2016,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Romania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.528,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Estonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.517,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Jamaica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.51,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Croatia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.488,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Hong Kong",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.458,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Somalia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.44,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kosovo",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.401,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Turkey",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.389,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Indonesia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.314,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Jordan",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.303,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.291,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Philippines",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.279,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "China",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.245,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bhutan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.196,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.185,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Serbia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.177,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.163,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Montenegro",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.161,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Dominican Rep.",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.155,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Morocco",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.151,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Hungary",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.145,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Pakistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.132,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Lebanon",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.129,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Portugal",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.123,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Macedonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.121,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Vietnam",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.061,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Somaliland Region",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.057,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Tunisia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.045,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Greece",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.033,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Tajikistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.996,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mongolia",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 4.907,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Laos",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.876,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nigeria",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.875,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Honduras",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.871,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Iran",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.813,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Zambia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.795,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Nepal",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.793,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Palestinian Territories",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.754,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Albania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.655,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bangladesh",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.643,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.635,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Iraq",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.575,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Namibia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.574,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cameroon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.513,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ethiopia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.508,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "South Africa",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.459,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.415,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "India",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.404,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Myanmar",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.395,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Egypt",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.362,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Armenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.36,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Kenya",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.356,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ukraine",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.324,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ghana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.276,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Dem. Rep. Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.272,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Georgia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.252,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.236,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Senegal",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.219,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bulgaria",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.217,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mauritania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.201,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.193,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Malawi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.156,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.139,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Gabon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.121,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mali",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.073,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Haiti",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.028,
+   "Year": 2016,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Botswana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.974,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Comoros",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.956,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.916,
+   "Year": 2016,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Cambodia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 3.907,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Angola",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.866,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Niger",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.856,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "S. Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.832,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Chad",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.763,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.739,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Uganda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.739,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Yemen",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.724,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Madagascar",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.695,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Tanzania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.666,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Liberia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.622,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Guinea",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.607,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Rwanda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.515,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Benin",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.484,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Afghanistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 3.36,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Togo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.303,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Syria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.069,
+   "Year": 2016,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Burundi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.905,
+   "Year": 2016,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Norway",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.537000179,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Denmark",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.521999836,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iceland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.504000187,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Switzerland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.493999958,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Finland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.468999863,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Netherlands",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.376999855,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Canada",
+   "Region": "North America",
+   "Happiness_Score": 7.315999985,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "New Zealand",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.31400013,
+   "Year": 2017,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Sweden",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.28399992,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Australia",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.28399992,
+   "Year": 2017,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Israel",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 7.212999821,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Costa Rica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.078999996,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Austria",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.006000042,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United States of America",
+   "Region": "North America",
+   "Happiness_Score": 6.993000031,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Ireland",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.977000237,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Germany",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.951000214,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belgium",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.890999794,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Luxembourg",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.862999916,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United Kingdom",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.714000225,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Chile",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.65199995,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.647999763,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Brazil",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.635000229,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Czech Republic",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.609000206,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Argentina",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.598999977,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Mexico",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.578000069,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Singapore",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.572000027,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Malta",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.52699995,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Uruguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.453999996,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Guatemala",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.453999996,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Panama",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.452000141,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "France",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.441999912,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Thailand",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.423999786,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Taiwan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 6.421999931,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Spain",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.402999878,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Qatar",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.375,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Colombia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.356999874,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.343999863,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.168000221,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Kuwait",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.105000019,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Slovakia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.09800005,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bahrain",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.086999893,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Malaysia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.084000111,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nicaragua",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.071000099,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Ecuador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.007999897,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "El Salvador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.002999783,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Poland",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.97300005,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.971000195,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Italy",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.964000225,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Russia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.962999821,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belize",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.955999851,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Japan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.920000076,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Lithuania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.90199995,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Algeria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.872000217,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Latvia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.849999905,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "South Korea",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.837999821,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Moldova",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.837999821,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Romania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.824999809,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bolivia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.822999954,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.822000027,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.818999767,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "N. Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.809999943,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Slovenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.757999897,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Peru",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.715000153,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Mauritius",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.629000187,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.620999813,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Estonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.611000061,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belarus",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.568999767,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Libya",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.525000095,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Turkey",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.5,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Paraguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.493000031,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Hong Kong",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.472000122,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Philippines",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.429999828,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Serbia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.394999981,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Jordan",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.335999966,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Hungary",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.323999882,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Jamaica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.31099987,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Croatia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.293000221,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Kosovo",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.278999805,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "China",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.272999763,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Pakistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.269000053,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Indonesia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.262000084,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Venezuela",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.25,
+   "Year": 2017,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Montenegro",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.236999989,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Morocco",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.235000134,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.234000206,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Dominican Rep.",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.230000019,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Greece",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.227000237,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Lebanon",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.224999905,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Portugal",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.195000172,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.18200016,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Honduras",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.181000233,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Macedonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.175000191,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Somalia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.151000023,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Vietnam",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.073999882,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nigeria",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.073999882,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Tajikistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.040999889,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bhutan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.011000156,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.004000187,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nepal",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.961999893,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mongolia",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 4.954999924,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "South Africa",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.828999996,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Tunisia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.804999828,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Palestinian Territories",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.775000095,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Egypt",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.735000134,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bulgaria",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.714000225,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.709000111,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cameroon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.695000172,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Iran",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.691999912,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Albania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.644000053,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bangladesh",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.607999802,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Namibia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.573999882,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kenya",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.552999973,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mozambique",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.550000191,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Myanmar",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.545000076,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Senegal",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.534999847,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zambia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.513999939,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Iraq",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.497000217,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Gabon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.465000153,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ethiopia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.460000038,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.440000057,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Armenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.375999928,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "India",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.315000057,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mauritania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.291999817,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.290999889,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Georgia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.285999775,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Dem. Rep. Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.28000021,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mali",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.190000057,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.179999828,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Cambodia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.168000221,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.138999939,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ghana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.119999886,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ukraine",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.096000195,
+   "Year": 2017,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Uganda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.080999851,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.032000065,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Niger",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.027999878,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Malawi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.970000029,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Chad",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.936000109,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.875,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Lesotho",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.808000088,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Angola",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.795000076,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Afghanistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 3.79399991,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Botswana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.766000032,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Benin",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.657000065,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Madagascar",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.644000053,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Haiti",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 3.602999926,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Yemen",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.592999935,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "S. Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.59100008,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Liberia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.532999992,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Guinea",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.506999969,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Togo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.494999886,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Rwanda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.470999956,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Syria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.461999893,
+   "Year": 2017,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Tanzania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.348999977,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Burundi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.904999971,
+   "Year": 2017,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Central African Rep.",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.693000078,
+   "Year": 2017,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Finland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.632,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Norway",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.594,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Denmark",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.555,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iceland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.495,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Switzerland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.487,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Netherlands",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.441,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Canada",
+   "Region": "North America",
+   "Happiness_Score": 7.328,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "New Zealand",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.324,
+   "Year": 2018,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Sweden",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.314,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Australia",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.272,
+   "Year": 2018,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "United Kingdom",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.19,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Austria",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.139,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Costa Rica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.072,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Ireland",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.977,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Germany",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.965,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belgium",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.927,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Luxembourg",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.91,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United States of America",
+   "Region": "North America",
+   "Happiness_Score": 6.886,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Israel",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.814,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.774,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Czech Republic",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.711,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Malta",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.627,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "France",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.489,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mexico",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.488,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Chile",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.476,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Taiwan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 6.441,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Panama",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.43,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Brazil",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.419,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Argentina",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.388,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Guatemala",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.382,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Uruguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.379,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Qatar",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.374,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.371,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Singapore",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.343,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Malaysia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.322,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Spain",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.31,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Colombia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.26,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.192,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Slovakia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.173,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "El Salvador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.167,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Nicaragua",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.141,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Poland",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.123,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bahrain",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.105,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.096,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Kuwait",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.083,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Thailand",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.072,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Italy",
+   "Region": "Western Europe",
+   "Happiness_Score": 6,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ecuador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.973,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Belize",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.956,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Lithuania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.952,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Slovenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.948,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Romania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.945,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Latvia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.933,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Japan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.915,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mauritius",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.891,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Jamaica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.89,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "South Korea",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.875,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "N. Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.835,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Russia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.81,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.79,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.762,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bolivia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.752,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Estonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.739,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Paraguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.681,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Peru",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.663,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Kosovo",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.662,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Moldova",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.64,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.636,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Hungary",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.62,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Libya",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.566,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Philippines",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.524,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Honduras",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.504,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Belarus",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.483,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Turkey",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.483,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Pakistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.472,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Hong Kong",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.43,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Portugal",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.41,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Serbia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.398,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Greece",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.358,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Lebanon",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.358,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Montenegro",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.347,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Croatia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.321,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Dominican Rep.",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.302,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Algeria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.295,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Morocco",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.254,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "China",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.246,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.201,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Tajikistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.199,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Macedonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.185,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Jordan",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.161,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Nigeria",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.155,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.131,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.129,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mongolia",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.125,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Vietnam",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.103,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Indonesia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.093,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bhutan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.082,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Somalia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.982,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cameroon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.975,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bulgaria",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.933,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Nepal",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.88,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Venezuela",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.806,
+   "Year": 2018,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Gabon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.758,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Palestinian Territories",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.743,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "South Africa",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.724,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Iran",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.707,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.671,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ghana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.657,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Senegal",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.631,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Laos",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.623,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Tunisia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.592,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Albania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.586,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.571,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.559,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bangladesh",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.5,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.471,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Iraq",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.456,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Mali",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.447,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Namibia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.441,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Cambodia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.433,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.424,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Egypt",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.419,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mozambique",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.417,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kenya",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.41,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zambia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.377,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mauritania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.356,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ethiopia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.35,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Georgia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.34,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Armenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.321,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Myanmar",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.308,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Chad",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.301,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Dem. Rep. Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.245,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "India",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.19,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Niger",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.166,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Uganda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.161,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Benin",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.141,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.139,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ukraine",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.103,
+   "Year": 2018,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Togo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.999,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Guinea",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.964,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Lesotho",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.808,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Angola",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.795,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Madagascar",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.774,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.692,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Afghanistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 3.632,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Botswana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.59,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Malawi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.587,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Haiti",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 3.582,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Liberia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.495,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Syria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.462,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Rwanda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.408,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Yemen",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.355,
+   "Year": 2018,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Tanzania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.303,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "S. Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.254,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Central African Rep.",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.083,
+   "Year": 2018,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Burundi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.905,
+   "Year": 2018,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Finland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.769,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Denmark",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.6,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Norway",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.554,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iceland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.494,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Netherlands",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.488,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Switzerland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.48,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Sweden",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.343,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "New Zealand",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.307,
+   "Year": 2019,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Canada",
+   "Region": "North America",
+   "Happiness_Score": 7.278,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Austria",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.246,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Australia",
+   "Region": "Australia and New Zealand",
+   "Happiness_Score": 7.228,
+   "Year": 2019,
+   "Continent": "Oceania"
+ },
+ {
+   "Country": "Costa Rica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 7.167,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Israel",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 7.139,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Luxembourg",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.09,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United Kingdom",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.054,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ireland",
+   "Region": "Western Europe",
+   "Happiness_Score": 7.021,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Germany",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.985,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Belgium",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.923,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United States of America",
+   "Region": "North America",
+   "Happiness_Score": 6.892,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Czech Republic",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.852,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.825,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Malta",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.726,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mexico",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.595,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "France",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.592,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Taiwan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 6.446,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Chile",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.444,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Guatemala",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.436,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.375,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Qatar",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.374,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Spain",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.354,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Panama",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.321,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Brazil",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.3,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Uruguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.293,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Singapore",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.262,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "El Salvador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.253,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Italy",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.223,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Bahrain",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.199,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Slovakia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.198,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.192,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Poland",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.182,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Uzbekistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.174,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Lithuania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.149,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Colombia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.125,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Slovenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.118,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Nicaragua",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.105,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Kosovo",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.1,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Argentina",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.086,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Romania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 6.07,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 6.046,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ecuador",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 6.028,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Kuwait",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 6.021,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Thailand",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 6.008,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Latvia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.94,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "South Korea",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.895,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Estonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.893,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Jamaica",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.89,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Mauritius",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.888,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Japan",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.886,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Honduras",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.86,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Kazakhstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.809,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bolivia",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.779,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Hungary",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.758,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Paraguay",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.743,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "N. Cyprus",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.718,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Peru",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.697,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Portugal",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.693,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Pakistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.653,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Russia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.648,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Philippines",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.631,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Serbia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.603,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Moldova",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.529,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Libya",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.525,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Montenegro",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.523,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Tajikistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.467,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Croatia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.432,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Hong Kong",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.43,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Dominican Rep.",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 5.425,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.386,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Turkey",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.373,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Malaysia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.339,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Belarus",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.323,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Greece",
+   "Region": "Western Europe",
+   "Happiness_Score": 5.287,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mongolia",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.285,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Macedonia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.274,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Nigeria",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.265,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.261,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Turkmenistan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.247,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Algeria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.211,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Morocco",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.208,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Azerbaijan",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.208,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Lebanon",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 5.197,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Indonesia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.192,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "China",
+   "Region": "Eastern Asia",
+   "Happiness_Score": 5.191,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Vietnam",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 5.175,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Bhutan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 5.082,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Cameroon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 5.044,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bulgaria",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 5.011,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ghana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.996,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ivory Coast",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.944,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Nepal",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.913,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Jordan",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.906,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Benin",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.883,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.812,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Gabon",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.799,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Laos",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.796,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "South Africa",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.722,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Albania",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.719,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Venezuela",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 4.707,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Cambodia",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.7,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Palestinian Territories",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.696,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Senegal",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.681,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Somalia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.668,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Namibia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.639,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Niger",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.628,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Burkina Faso",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.587,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Armenia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.559,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Iran",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.548,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Guinea",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.534,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Georgia",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.519,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Gambia",
+   "Region": "#N/A",
+   "Happiness_Score": 4.516,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Kenya",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.509,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mauritania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.49,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Mozambique",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.466,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Tunisia",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.461,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Bangladesh",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.456,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Iraq",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.437,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Dem. Rep. Congo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.418,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Mali",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.39,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sierra Leone",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.374,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Sri Lanka",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.366,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Myanmar",
+   "Region": "Southeastern Asia",
+   "Happiness_Score": 4.36,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Chad",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.35,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Ukraine",
+   "Region": "Central and Eastern Europe",
+   "Happiness_Score": 4.332,
+   "Year": 2019,
+   "Continent": "Europe"
+ },
+ {
+   "Country": "Ethiopia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.286,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Swaziland",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.212,
+   "Year": 2019,
+   "Continent": "South America"
+ },
+ {
+   "Country": "Uganda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.189,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Egypt",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 4.166,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zambia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.107,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Togo",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 4.085,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "India",
+   "Region": "Southern Asia",
+   "Happiness_Score": 4.015,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Liberia",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.975,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Comoros",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.973,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Madagascar",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.933,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Lesotho",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.802,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Burundi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.775,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Zimbabwe",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.663,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Haiti",
+   "Region": "Latin America and Caribbean",
+   "Happiness_Score": 3.597,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "Botswana",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.488,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Syria",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.462,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Malawi",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.41,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Yemen",
+   "Region": "Middle East and Northern Africa",
+   "Happiness_Score": 3.38,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Rwanda",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.334,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Tanzania",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.231,
+   "Year": 2019,
+   "Continent": "Africa"
+ },
+ {
+   "Country": "Afghanistan",
+   "Region": "Southern Asia",
+   "Happiness_Score": 3.203,
+   "Year": 2019,
+   "Continent": "Asia"
+ },
+ {
+   "Country": "Central African Rep.",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 3.083,
+   "Year": 2019,
+   "Continent": "North America"
+ },
+ {
+   "Country": "S. Sudan",
+   "Region": "Sub-Saharan Africa",
+   "Happiness_Score": 2.853,
+   "Year": 2019,
+   "Continent": "Africa"
+ }
+]
