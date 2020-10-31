@@ -99,7 +99,7 @@ Lesotho,Sub-Saharan Africa,4.898,2015,Africa,97
 Dominican Rep.,Latin America and Caribbean,4.885,2015,North America,98
 Laos,Southeastern Asia,4.876,2015,Asia,99
 Mongolia,Eastern Asia,4.874,2015,Asia,100
-Swaziland,Sub-Saharan Africa,4.867,2015,South America,101
+eSwatini,Sub-Saharan Africa,4.867,2015,South America,101
 Greece,Western Europe,4.857,2015,Europe,102
 Lebanon,Middle East and Northern Africa,4.839,2015,Asia,103
 Hungary,Central and Eastern Europe,4.8,2015,Europe,104
@@ -149,7 +149,7 @@ Madagascar,Sub-Saharan Africa,3.681,2015,Africa,147
 Central African Rep.,Sub-Saharan Africa,3.678,2015,Africa,148
 Chad,Sub-Saharan Africa,3.667,2015,Africa,149
 Guinea,Sub-Saharan Africa,3.656,2015,Africa,150
-Ivory Coast,Sub-Saharan Africa,3.655,2015,Europe,151
+Côte d'Ivoire,Sub-Saharan Africa,3.655,2015,Europe,151
 Burkina Faso,Sub-Saharan Africa,3.587,2015,Africa,152
 Afghanistan,Southern Asia,3.575,2015,Asia,153
 Rwanda,Sub-Saharan Africa,3.465,2015,Africa,154
@@ -295,7 +295,7 @@ Mali,Sub-Saharan Africa,4.073,2016,Africa,135
 Haiti,Latin America and Caribbean,4.028,2016,North America,136
 Botswana,Sub-Saharan Africa,3.974,2016,Africa,137
 Comoros,Sub-Saharan Africa,3.956,2016,Africa,138
-Ivory Coast,Sub-Saharan Africa,3.916,2016,Europe,139
+Côte d'Ivoire,Sub-Saharan Africa,3.916,2016,Europe,139
 Cambodia,Southeastern Asia,3.907,2016,Asia,140
 Angola,Sub-Saharan Africa,3.866,2016,Africa,141
 Niger,Sub-Saharan Africa,3.856,2016,Africa,142
@@ -441,7 +441,7 @@ Congo,Sub-Saharan Africa,4.290999889,2017,Africa,124
 Georgia,Central and Eastern Europe,4.285999775,2017,Europe,125
 Dem. Rep. Congo,Sub-Saharan Africa,4.28000021,2017,Africa,126
 Mali,Sub-Saharan Africa,4.190000057,2017,Africa,127
-Ivory Coast,Sub-Saharan Africa,4.179999828,2017,Europe,128
+Côte d'Ivoire,Sub-Saharan Africa,4.179999828,2017,Europe,128
 Cambodia,Southeastern Asia,4.168000221,2017,Asia,129
 Sudan,Sub-Saharan Africa,4.138999939,2017,Africa,130
 Ghana,Sub-Saharan Africa,4.119999886,2017,Africa,131
@@ -575,7 +575,7 @@ Gabon,Sub-Saharan Africa,4.758,2018,Africa,103
 Palestinian Territories,Middle East and Northern Africa,4.743,2018,Asia,104
 South Africa,Sub-Saharan Africa,4.724,2018,Africa,105
 Iran,Middle East and Northern Africa,4.707,2018,Asia,106
-Ivory Coast,Sub-Saharan Africa,4.671,2018,Europe,107
+Côte d'Ivoire,Sub-Saharan Africa,4.671,2018,Europe,107
 Ghana,Sub-Saharan Africa,4.657,2018,Africa,108
 Senegal,Sub-Saharan Africa,4.631,2018,Africa,109
 Laos,Southeastern Asia,4.623,2018,Asia,110
@@ -723,7 +723,7 @@ Bhutan,Southern Asia,5.082,2019,Asia,95
 Cameroon,Sub-Saharan Africa,5.044,2019,Africa,96
 Bulgaria,Central and Eastern Europe,5.011,2019,Europe,97
 Ghana,Sub-Saharan Africa,4.996,2019,Africa,98
-Ivory Coast,Sub-Saharan Africa,4.944,2019,Europe,99
+Côte d'Ivoire,Sub-Saharan Africa,4.944,2019,Europe,99
 Nepal,Southern Asia,4.913,2019,Asia,100
 Jordan,Middle East and Northern Africa,4.906,2019,Asia,101
 Benin,Sub-Saharan Africa,4.883,2019,Africa,102
@@ -759,7 +759,7 @@ Myanmar,Southeastern Asia,4.36,2019,Asia,131
 Chad,Sub-Saharan Africa,4.35,2019,Africa,132
 Ukraine,Central and Eastern Europe,4.332,2019,Europe,133
 Ethiopia,Sub-Saharan Africa,4.286,2019,Africa,134
-Swaziland,Sub-Saharan Africa,4.212,2019,South America,135
+eSwatini,Sub-Saharan Africa,4.212,2019,South America,135
 Uganda,Sub-Saharan Africa,4.189,2019,Africa,136
 Egypt,Middle East and Northern Africa,4.166,2019,Africa,137
 Zambia,Sub-Saharan Africa,4.107,2019,Africa,138
