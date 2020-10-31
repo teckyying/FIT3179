@@ -1,783 +1,783 @@
-Country,Region,Happiness_Score,Year,Continent
-Switzerland,Western Europe,7.587,2015,Europe
-Iceland,Western Europe,7.561,2015,Europe
-Denmark,Western Europe,7.527,2015,Europe
-Norway,Western Europe,7.522,2015,Europe
-Canada,North America,7.427,2015,North America
-Finland,Western Europe,7.406,2015,Europe
-Netherlands,Western Europe,7.378,2015,Europe
-Sweden,Western Europe,7.364,2015,Europe
-New Zealand,Australia and New Zealand,7.286,2015,Oceania
-Australia,Australia and New Zealand,7.284,2015,Oceania
-Israel,Middle East and Northern Africa,7.278,2015,Asia
-Costa Rica,Latin America and Caribbean,7.226,2015,North America
-Austria,Western Europe,7.2,2015,Europe
-Mexico,Latin America and Caribbean,7.187,2015,North America
-United States of America,North America,7.119,2015,North America
-Brazil,Latin America and Caribbean,6.983,2015,South America
-Luxembourg,Western Europe,6.946,2015,Europe
-Ireland,Western Europe,6.94,2015,Europe
-Belgium,Western Europe,6.937,2015,Europe
-United Arab Emirates,Middle East and Northern Africa,6.901,2015,Asia
-United Kingdom,Western Europe,6.867,2015,Europe
-Oman,Middle East and Northern Africa,6.853,2015,Asia
-Venezuela,Latin America and Caribbean,6.81,2015,South America
-Singapore,Southeastern Asia,6.798,2015,Asia
-Panama,Latin America and Caribbean,6.786,2015,North America
-Germany,Western Europe,6.75,2015,Europe
-Chile,Latin America and Caribbean,6.67,2015,South America
-Qatar,Middle East and Northern Africa,6.611,2015,Asia
-France,Western Europe,6.575,2015,Europe
-Argentina,Latin America and Caribbean,6.574,2015,South America
-Czech Republic,Central and Eastern Europe,6.505,2015,Europe
-Uruguay,Latin America and Caribbean,6.485,2015,North America
-Colombia,Latin America and Caribbean,6.477,2015,South America
-Thailand,Southeastern Asia,6.455,2015,Asia
-Saudi Arabia,Middle East and Northern Africa,6.411,2015,Asia
-Spain,Western Europe,6.329,2015,Europe
-Malta,Western Europe,6.302,2015,Europe
-Taiwan,Eastern Asia,6.298,2015,Asia
-Kuwait,Middle East and Northern Africa,6.295,2015,Asia
-Suriname,Latin America and Caribbean,6.269,2015,South America
-Trinidad and Tobago,Latin America and Caribbean,6.168,2015,North America
-El Salvador,Latin America and Caribbean,6.13,2015,North America
-Guatemala,Latin America and Caribbean,6.123,2015,North America
-Uzbekistan,Central and Eastern Europe,6.003,2015,Asia
-Slovakia,Central and Eastern Europe,5.995,2015,Europe
-Japan,Eastern Asia,5.987,2015,Asia
-South Korea,Eastern Asia,5.984,2015,Africa
-Ecuador,Latin America and Caribbean,5.975,2015,South America
-Bahrain,Middle East and Northern Africa,5.96,2015,Asia
-Italy,Western Europe,5.948,2015,Europe
-Bolivia,Latin America and Caribbean,5.89,2015,South America
-Moldova,Central and Eastern Europe,5.889,2015,Europe
-Paraguay,Latin America and Caribbean,5.878,2015,South America
-Kazakhstan,Central and Eastern Europe,5.855,2015,Asia
-Slovenia,Central and Eastern Europe,5.848,2015,Europe
-Lithuania,Central and Eastern Europe,5.833,2015,Europe
-Nicaragua,Latin America and Caribbean,5.828,2015,North America
-Peru,Latin America and Caribbean,5.824,2015,South America
-Belarus,Central and Eastern Europe,5.813,2015,Europe
-Poland,Central and Eastern Europe,5.791,2015,Europe
-Malaysia,Southeastern Asia,5.77,2015,Asia
-Croatia,Central and Eastern Europe,5.759,2015,Europe
-Libya,Middle East and Northern Africa,5.754,2015,Africa
-Russia,Central and Eastern Europe,5.716,2015,Europe
-Jamaica,Latin America and Caribbean,5.709,2015,North America
-N. Cyprus,Western Europe,5.695,2015,Africa
-Cyprus,Western Europe,5.689,2015,Europe
-Algeria,Middle East and Northern Africa,5.605,2015,Africa
-Kosovo,Central and Eastern Europe,5.589,2015,Europe
-Turkmenistan,Central and Eastern Europe,5.548,2015,Asia
-Mauritius,Sub-Saharan Africa,5.477,2015,Africa
-Hong Kong,Eastern Asia,5.474,2015,North America
-Estonia,Central and Eastern Europe,5.429,2015,Europe
-Indonesia,Southeastern Asia,5.399,2015,Asia
-Vietnam,Southeastern Asia,5.36,2015,Asia
-Turkey,Middle East and Northern Africa,5.332,2015,Asia
-Kyrgyzstan,Central and Eastern Europe,5.286,2015,Asia
-Nigeria,Sub-Saharan Africa,5.268,2015,Africa
-Bhutan,Southern Asia,5.253,2015,Asia
-Azerbaijan,Central and Eastern Europe,5.212,2015,Europe
-Pakistan,Southern Asia,5.194,2015,Asia
-Jordan,Middle East and Northern Africa,5.192,2015,Asia
-Montenegro,Central and Eastern Europe,5.192,2015,Europe
-China,Eastern Asia,5.14,2015,Asia
-Zambia,Sub-Saharan Africa,5.129,2015,Africa
-Romania,Central and Eastern Europe,5.124,2015,Europe
-Serbia,Central and Eastern Europe,5.123,2015,Europe
-Portugal,Western Europe,5.102,2015,Europe
-Latvia,Central and Eastern Europe,5.098,2015,Europe
-Philippines,Southeastern Asia,5.073,2015,Asia
-Somaliland region,Sub-Saharan Africa,5.057,2015,Africa
-Morocco,Middle East and Northern Africa,5.013,2015,Africa
-Macedonia,Central and Eastern Europe,5.007,2015,Europe
-Mozambique,Sub-Saharan Africa,4.971,2015,Africa
-Albania,Central and Eastern Europe,4.959,2015,Europe
-Bosnia and Herzegovina,Central and Eastern Europe,4.949,2015,Europe
-Lesotho,Sub-Saharan Africa,4.898,2015,Africa
-Dominican Rep.,Latin America and Caribbean,4.885,2015,North America
-Laos,Southeastern Asia,4.876,2015,Asia
-Mongolia,Eastern Asia,4.874,2015,Asia
-Swaziland,Sub-Saharan Africa,4.867,2015,South America
-Greece,Western Europe,4.857,2015,Europe
-Lebanon,Middle East and Northern Africa,4.839,2015,Asia
-Hungary,Central and Eastern Europe,4.8,2015,Europe
-Honduras,Latin America and Caribbean,4.788,2015,North America
-Tajikistan,Central and Eastern Europe,4.786,2015,Asia
-Tunisia,Middle East and Northern Africa,4.739,2015,Africa
-Palestinian Territories,Middle East and Northern Africa,4.715,2015,Asia
-Bangladesh,Southern Asia,4.694,2015,Asia
-Iran,Middle East and Northern Africa,4.686,2015,Asia
-Ukraine,Central and Eastern Europe,4.681,2015,Europe
-Iraq,Middle East and Northern Africa,4.677,2015,Asia
-South Africa,Sub-Saharan Africa,4.642,2015,Africa
-Ghana,Sub-Saharan Africa,4.633,2015,Africa
-Zimbabwe,Sub-Saharan Africa,4.61,2015,Africa
-Liberia,Sub-Saharan Africa,4.571,2015,Africa
-India,Southern Asia,4.565,2015,Asia
-Sudan,Sub-Saharan Africa,4.55,2015,Africa
-Haiti,Latin America and Caribbean,4.518,2015,North America
-Dem. Rep. Congo,Sub-Saharan Africa,4.517,2015,Europe
-Nepal,Southern Asia,4.514,2015,Asia
-Ethiopia,Sub-Saharan Africa,4.512,2015,Africa
-Sierra Leone,Sub-Saharan Africa,4.507,2015,Africa
-Mauritania,Sub-Saharan Africa,4.436,2015,Africa
-Kenya,Sub-Saharan Africa,4.419,2015,Africa
-Djibouti,Sub-Saharan Africa,4.369,2015,Africa
-Armenia,Central and Eastern Europe,4.35,2015,Europe
-Botswana,Sub-Saharan Africa,4.332,2015,Africa
-Myanmar,Southeastern Asia,4.307,2015,Africa
-Georgia,Central and Eastern Europe,4.297,2015,Europe
-Malawi,Sub-Saharan Africa,4.292,2015,Africa
-Sri Lanka,Southern Asia,4.271,2015,Asia
-Cameroon,Sub-Saharan Africa,4.252,2015,Africa
-Bulgaria,Central and Eastern Europe,4.218,2015,Europe
-Egypt,Middle East and Northern Africa,4.194,2015,Africa
-Yemen,Middle East and Northern Africa,4.077,2015,Asia
-Angola,Sub-Saharan Africa,4.033,2015,Africa
-Mali,Sub-Saharan Africa,3.995,2015,Africa
-Congo,Sub-Saharan Africa,3.989,2015,Africa
-Comoros,Sub-Saharan Africa,3.956,2015,Africa
-Uganda,Sub-Saharan Africa,3.931,2015,Africa
-Senegal,Sub-Saharan Africa,3.904,2015,Africa
-Gabon,Sub-Saharan Africa,3.896,2015,Africa
-Niger,Sub-Saharan Africa,3.845,2015,Africa
-Cambodia,Southeastern Asia,3.819,2015,Asia
-Tanzania,Sub-Saharan Africa,3.781,2015,Africa
-Madagascar,Sub-Saharan Africa,3.681,2015,Africa
-Central African Rep.,Sub-Saharan Africa,3.678,2015,North America
-Chad,Sub-Saharan Africa,3.667,2015,Africa
-Guinea,Sub-Saharan Africa,3.656,2015,Africa
-Ivory Coast,Sub-Saharan Africa,3.655,2015,Europe
-Burkina Faso,Sub-Saharan Africa,3.587,2015,Africa
-Afghanistan,Southern Asia,3.575,2015,Asia
-Rwanda,Sub-Saharan Africa,3.465,2015,Africa
-Benin,Sub-Saharan Africa,3.34,2015,Africa
-Syria,Middle East and Northern Africa,3.006,2015,Asia
-Burundi,Sub-Saharan Africa,2.905,2015,Africa
-Togo,Sub-Saharan Africa,2.839,2015,Africa
-Denmark,Western Europe,7.526,2016,Europe
-Switzerland,Western Europe,7.509,2016,Europe
-Iceland,Western Europe,7.501,2016,Europe
-Norway,Western Europe,7.498,2016,Europe
-Finland,Western Europe,7.413,2016,Europe
-Canada,North America,7.404,2016,North America
-Netherlands,Western Europe,7.339,2016,Europe
-New Zealand,Australia and New Zealand,7.334,2016,Oceania
-Australia,Australia and New Zealand,7.313,2016,Oceania
-Sweden,Western Europe,7.291,2016,Europe
-Israel,Middle East and Northern Africa,7.267,2016,Asia
-Austria,Western Europe,7.119,2016,Europe
-United States of America,North America,7.104,2016,North America
-Costa Rica,Latin America and Caribbean,7.087,2016,North America
-Puerto Rico,Latin America and Caribbean,7.039,2016,Europe
-Germany,Western Europe,6.994,2016,Europe
-Brazil,Latin America and Caribbean,6.952,2016,South America
-Belgium,Western Europe,6.929,2016,Europe
-Ireland,Western Europe,6.907,2016,Europe
-Luxembourg,Western Europe,6.871,2016,Europe
-Mexico,Latin America and Caribbean,6.778,2016,North America
-Singapore,Southeastern Asia,6.739,2016,Asia
-United Kingdom,Western Europe,6.725,2016,Europe
-Chile,Latin America and Caribbean,6.705,2016,South America
-Panama,Latin America and Caribbean,6.701,2016,North America
-Argentina,Latin America and Caribbean,6.65,2016,South America
-Czech Republic,Central and Eastern Europe,6.596,2016,Europe
-United Arab Emirates,Middle East and Northern Africa,6.573,2016,Asia
-Uruguay,Latin America and Caribbean,6.545,2016,North America
-Malta,Western Europe,6.488,2016,Europe
-Colombia,Latin America and Caribbean,6.481,2016,South America
-France,Western Europe,6.478,2016,Europe
-Thailand,Southeastern Asia,6.474,2016,Asia
-Saudi Arabia,Middle East and Northern Africa,6.379,2016,Asia
-Taiwan,Eastern Asia,6.379,2016,Asia
-Qatar,Middle East and Northern Africa,6.375,2016,Asia
-Spain,Western Europe,6.361,2016,Europe
-Algeria,Middle East and Northern Africa,6.355,2016,Africa
-Guatemala,Latin America and Caribbean,6.324,2016,North America
-Suriname,Latin America and Caribbean,6.269,2016,South America
-Kuwait,Middle East and Northern Africa,6.239,2016,Asia
-Bahrain,Middle East and Northern Africa,6.218,2016,Asia
-Trinidad and Tobago,Latin America and Caribbean,6.168,2016,North America
-Venezuela,Latin America and Caribbean,6.084,2016,South America
-Slovakia,Central and Eastern Europe,6.078,2016,Europe
-El Salvador,Latin America and Caribbean,6.068,2016,North America
-Malaysia,Southeastern Asia,6.005,2016,Asia
-Nicaragua,Latin America and Caribbean,5.992,2016,North America
-Uzbekistan,Central and Eastern Europe,5.987,2016,Asia
-Italy,Western Europe,5.977,2016,Europe
-Ecuador,Latin America and Caribbean,5.976,2016,South America
-Belize,Latin America and Caribbean,5.956,2016,North America
-Japan,Eastern Asia,5.921,2016,Asia
-Kazakhstan,Central and Eastern Europe,5.919,2016,Asia
-Moldova,Central and Eastern Europe,5.897,2016,Europe
-Russia,Central and Eastern Europe,5.856,2016,Europe
-Poland,Central and Eastern Europe,5.835,2016,Europe
-South Korea,Eastern Asia,5.835,2016,Africa
-Bolivia,Latin America and Caribbean,5.822,2016,South America
-Lithuania,Central and Eastern Europe,5.813,2016,Europe
-Belarus,Central and Eastern Europe,5.802,2016,Europe
-N. Cyprus,Western Europe,5.771,2016,Africa
-Slovenia,Central and Eastern Europe,5.768,2016,Europe
-Peru,Latin America and Caribbean,5.743,2016,South America
-Turkmenistan,Central and Eastern Europe,5.658,2016,Asia
-Mauritius,Sub-Saharan Africa,5.648,2016,Africa
-Libya,Middle East and Northern Africa,5.615,2016,Africa
-Latvia,Central and Eastern Europe,5.56,2016,Europe
-Cyprus,Western Europe,5.546,2016,Europe
-Paraguay,Latin America and Caribbean,5.538,2016,South America
-Romania,Central and Eastern Europe,5.528,2016,Europe
-Estonia,Central and Eastern Europe,5.517,2016,Europe
-Jamaica,Latin America and Caribbean,5.51,2016,North America
-Croatia,Central and Eastern Europe,5.488,2016,Europe
-Hong Kong,Eastern Asia,5.458,2016,North America
-Somalia,Sub-Saharan Africa,5.44,2016,Africa
-Kosovo,Central and Eastern Europe,5.401,2016,Europe
-Turkey,Middle East and Northern Africa,5.389,2016,Asia
-Indonesia,Southeastern Asia,5.314,2016,Asia
-Jordan,Middle East and Northern Africa,5.303,2016,Asia
-Azerbaijan,Central and Eastern Europe,5.291,2016,Europe
-Philippines,Southeastern Asia,5.279,2016,Asia
-China,Eastern Asia,5.245,2016,Asia
-Bhutan,Southern Asia,5.196,2016,Asia
-Kyrgyzstan,Central and Eastern Europe,5.185,2016,Asia
-Serbia,Central and Eastern Europe,5.177,2016,Europe
-Bosnia and Herzegovina,Central and Eastern Europe,5.163,2016,Europe
-Montenegro,Central and Eastern Europe,5.161,2016,Europe
-Dominican Rep.,Latin America and Caribbean,5.155,2016,North America
-Morocco,Middle East and Northern Africa,5.151,2016,Africa
-Hungary,Central and Eastern Europe,5.145,2016,Europe
-Pakistan,Southern Asia,5.132,2016,Asia
-Lebanon,Middle East and Northern Africa,5.129,2016,Asia
-Portugal,Western Europe,5.123,2016,Europe
-Macedonia,Central and Eastern Europe,5.121,2016,Europe
-Vietnam,Southeastern Asia,5.061,2016,Asia
-Somaliland Region,Sub-Saharan Africa,5.057,2016,Africa
-Tunisia,Middle East and Northern Africa,5.045,2016,Africa
-Greece,Western Europe,5.033,2016,Europe
-Tajikistan,Central and Eastern Europe,4.996,2016,Asia
-Mongolia,Eastern Asia,4.907,2016,Asia
-Laos,Southeastern Asia,4.876,2016,Asia
-Nigeria,Sub-Saharan Africa,4.875,2016,Africa
-Honduras,Latin America and Caribbean,4.871,2016,North America
-Iran,Middle East and Northern Africa,4.813,2016,Asia
-Zambia,Sub-Saharan Africa,4.795,2016,Africa
-Nepal,Southern Asia,4.793,2016,Asia
-Palestinian Territories,Middle East and Northern Africa,4.754,2016,Asia
-Albania,Central and Eastern Europe,4.655,2016,Europe
-Bangladesh,Southern Asia,4.643,2016,Asia
-Sierra Leone,Sub-Saharan Africa,4.635,2016,Africa
-Iraq,Middle East and Northern Africa,4.575,2016,Asia
-Namibia,Sub-Saharan Africa,4.574,2016,Africa
-Cameroon,Sub-Saharan Africa,4.513,2016,Africa
-Ethiopia,Sub-Saharan Africa,4.508,2016,Africa
-South Africa,Sub-Saharan Africa,4.459,2016,Africa
-Sri Lanka,Southern Asia,4.415,2016,Asia
-India,Southern Asia,4.404,2016,Asia
-Myanmar,Southeastern Asia,4.395,2016,Africa
-Egypt,Middle East and Northern Africa,4.362,2016,Africa
-Armenia,Central and Eastern Europe,4.36,2016,Europe
-Kenya,Sub-Saharan Africa,4.356,2016,Africa
-Ukraine,Central and Eastern Europe,4.324,2016,Europe
-Ghana,Sub-Saharan Africa,4.276,2016,Africa
-Dem. Rep. Congo,Sub-Saharan Africa,4.272,2016,Europe
-Georgia,Central and Eastern Europe,4.252,2016,Europe
-Congo,Sub-Saharan Africa,4.236,2016,Africa
-Senegal,Sub-Saharan Africa,4.219,2016,Africa
-Bulgaria,Central and Eastern Europe,4.217,2016,Europe
-Mauritania,Sub-Saharan Africa,4.201,2016,Africa
-Zimbabwe,Sub-Saharan Africa,4.193,2016,Africa
-Malawi,Sub-Saharan Africa,4.156,2016,Africa
-Sudan,Sub-Saharan Africa,4.139,2016,Africa
-Gabon,Sub-Saharan Africa,4.121,2016,Africa
-Mali,Sub-Saharan Africa,4.073,2016,Africa
-Haiti,Latin America and Caribbean,4.028,2016,North America
-Botswana,Sub-Saharan Africa,3.974,2016,Africa
-Comoros,Sub-Saharan Africa,3.956,2016,Africa
-Ivory Coast,Sub-Saharan Africa,3.916,2016,Europe
-Cambodia,Southeastern Asia,3.907,2016,Asia
-Angola,Sub-Saharan Africa,3.866,2016,Africa
-Niger,Sub-Saharan Africa,3.856,2016,Africa
-S. Sudan,Sub-Saharan Africa,3.832,2016,Africa
-Chad,Sub-Saharan Africa,3.763,2016,Africa
-Burkina Faso,Sub-Saharan Africa,3.739,2016,Africa
-Uganda,Sub-Saharan Africa,3.739,2016,Africa
-Yemen,Middle East and Northern Africa,3.724,2016,Asia
-Madagascar,Sub-Saharan Africa,3.695,2016,Africa
-Tanzania,Sub-Saharan Africa,3.666,2016,Africa
-Liberia,Sub-Saharan Africa,3.622,2016,Africa
-Guinea,Sub-Saharan Africa,3.607,2016,Africa
-Rwanda,Sub-Saharan Africa,3.515,2016,Africa
-Benin,Sub-Saharan Africa,3.484,2016,Africa
-Afghanistan,Southern Asia,3.36,2016,Asia
-Togo,Sub-Saharan Africa,3.303,2016,Africa
-Syria,Middle East and Northern Africa,3.069,2016,Asia
-Burundi,Sub-Saharan Africa,2.905,2016,Africa
-Norway,Western Europe,7.537000179,2017,Europe
-Denmark,Western Europe,7.521999836,2017,Europe
-Iceland,Western Europe,7.504000187,2017,Europe
-Switzerland,Western Europe,7.493999958,2017,Europe
-Finland,Western Europe,7.468999863,2017,Europe
-Netherlands,Western Europe,7.376999855,2017,Europe
-Canada,North America,7.315999985,2017,North America
-New Zealand,Australia and New Zealand,7.31400013,2017,Oceania
-Sweden,Western Europe,7.28399992,2017,Europe
-Australia,Australia and New Zealand,7.28399992,2017,Oceania
-Israel,Middle East and Northern Africa,7.212999821,2017,Asia
-Costa Rica,Latin America and Caribbean,7.078999996,2017,North America
-Austria,Western Europe,7.006000042,2017,Europe
-United States of America,North America,6.993000031,2017,North America
-Ireland,Western Europe,6.977000237,2017,Europe
-Germany,Western Europe,6.951000214,2017,Europe
-Belgium,Western Europe,6.890999794,2017,Europe
-Luxembourg,Western Europe,6.862999916,2017,Europe
-United Kingdom,Western Europe,6.714000225,2017,Europe
-Chile,Latin America and Caribbean,6.65199995,2017,South America
-United Arab Emirates,Middle East and Northern Africa,6.647999763,2017,Asia
-Brazil,Latin America and Caribbean,6.635000229,2017,South America
-Czech Republic,Central and Eastern Europe,6.609000206,2017,Europe
-Argentina,Latin America and Caribbean,6.598999977,2017,South America
-Mexico,Latin America and Caribbean,6.578000069,2017,North America
-Singapore,Southeastern Asia,6.572000027,2017,Asia
-Malta,Western Europe,6.52699995,2017,Europe
-Uruguay,Latin America and Caribbean,6.453999996,2017,North America
-Guatemala,Latin America and Caribbean,6.453999996,2017,North America
-Panama,Latin America and Caribbean,6.452000141,2017,North America
-France,Western Europe,6.441999912,2017,Europe
-Thailand,Southeastern Asia,6.423999786,2017,Asia
-Taiwan,Eastern Asia,6.421999931,2017,Asia
-Spain,Western Europe,6.402999878,2017,Europe
-Qatar,Middle East and Northern Africa,6.375,2017,Asia
-Colombia,Latin America and Caribbean,6.356999874,2017,South America
-Saudi Arabia,Middle East and Northern Africa,6.343999863,2017,Asia
-Trinidad and Tobago,Latin America and Caribbean,6.168000221,2017,North America
-Kuwait,Middle East and Northern Africa,6.105000019,2017,Asia
-Slovakia,Central and Eastern Europe,6.09800005,2017,Europe
-Bahrain,Middle East and Northern Africa,6.086999893,2017,Asia
-Malaysia,Southeastern Asia,6.084000111,2017,Asia
-Nicaragua,Latin America and Caribbean,6.071000099,2017,North America
-Ecuador,Latin America and Caribbean,6.007999897,2017,South America
-El Salvador,Latin America and Caribbean,6.002999783,2017,North America
-Poland,Central and Eastern Europe,5.97300005,2017,Europe
-Uzbekistan,Central and Eastern Europe,5.971000195,2017,Asia
-Italy,Western Europe,5.964000225,2017,Europe
-Russia,Central and Eastern Europe,5.962999821,2017,Europe
-Belize,Latin America and Caribbean,5.955999851,2017,North America
-Japan,Eastern Asia,5.920000076,2017,Asia
-Lithuania,Central and Eastern Europe,5.90199995,2017,Europe
-Algeria,Middle East and Northern Africa,5.872000217,2017,Africa
-Latvia,Central and Eastern Europe,5.849999905,2017,Europe
-South Korea,Eastern Asia,5.837999821,2017,Africa
-Moldova,Central and Eastern Europe,5.837999821,2017,Europe
-Romania,Central and Eastern Europe,5.824999809,2017,Europe
-Bolivia,Latin America and Caribbean,5.822999954,2017,South America
-Turkmenistan,Central and Eastern Europe,5.822000027,2017,Asia
-Kazakhstan,Central and Eastern Europe,5.818999767,2017,Asia
-N. Cyprus,Western Europe,5.809999943,2017,Africa
-Slovenia,Central and Eastern Europe,5.757999897,2017,Europe
-Peru,Latin America and Caribbean,5.715000153,2017,South America
-Mauritius,Sub-Saharan Africa,5.629000187,2017,Africa
-Cyprus,Western Europe,5.620999813,2017,Europe
-Estonia,Central and Eastern Europe,5.611000061,2017,Europe
-Belarus,Central and Eastern Europe,5.568999767,2017,Europe
-Libya,Middle East and Northern Africa,5.525000095,2017,Africa
-Turkey,Middle East and Northern Africa,5.5,2017,Asia
-Paraguay,Latin America and Caribbean,5.493000031,2017,South America
-Hong Kong,Eastern Asia,5.472000122,2017,North America
-Philippines,Southeastern Asia,5.429999828,2017,Asia
-Serbia,Central and Eastern Europe,5.394999981,2017,Europe
-Jordan,Middle East and Northern Africa,5.335999966,2017,Asia
-Hungary,Central and Eastern Europe,5.323999882,2017,Europe
-Jamaica,Latin America and Caribbean,5.31099987,2017,North America
-Croatia,Central and Eastern Europe,5.293000221,2017,Europe
-Kosovo,Central and Eastern Europe,5.278999805,2017,Europe
-China,Eastern Asia,5.272999763,2017,Asia
-Pakistan,Southern Asia,5.269000053,2017,Asia
-Indonesia,Southeastern Asia,5.262000084,2017,Asia
-Venezuela,Latin America and Caribbean,5.25,2017,South America
-Montenegro,Central and Eastern Europe,5.236999989,2017,Europe
-Morocco,Middle East and Northern Africa,5.235000134,2017,Africa
-Azerbaijan,Central and Eastern Europe,5.234000206,2017,Europe
-Dominican Rep.,Latin America and Caribbean,5.230000019,2017,North America
-Greece,Western Europe,5.227000237,2017,Europe
-Lebanon,Middle East and Northern Africa,5.224999905,2017,Asia
-Portugal,Western Europe,5.195000172,2017,Europe
-Bosnia and Herzegovina,Central and Eastern Europe,5.18200016,2017,Europe
-Honduras,Latin America and Caribbean,5.181000233,2017,North America
-Macedonia,Central and Eastern Europe,5.175000191,2017,Europe
-Somalia,Sub-Saharan Africa,5.151000023,2017,Africa
-Vietnam,Southeastern Asia,5.073999882,2017,Asia
-Nigeria,Sub-Saharan Africa,5.073999882,2017,Africa
-Tajikistan,Central and Eastern Europe,5.040999889,2017,Asia
-Bhutan,Southern Asia,5.011000156,2017,Asia
-Kyrgyzstan,Central and Eastern Europe,5.004000187,2017,Asia
-Nepal,Southern Asia,4.961999893,2017,Asia
-Mongolia,Eastern Asia,4.954999924,2017,Asia
-South Africa,Sub-Saharan Africa,4.828999996,2017,Africa
-Tunisia,Middle East and Northern Africa,4.804999828,2017,Africa
-Palestinian Territories,Middle East and Northern Africa,4.775000095,2017,Asia
-Egypt,Middle East and Northern Africa,4.735000134,2017,Africa
-Bulgaria,Central and Eastern Europe,4.714000225,2017,Europe
-Sierra Leone,Sub-Saharan Africa,4.709000111,2017,Africa
-Cameroon,Sub-Saharan Africa,4.695000172,2017,Africa
-Iran,Middle East and Northern Africa,4.691999912,2017,Asia
-Albania,Central and Eastern Europe,4.644000053,2017,Europe
-Bangladesh,Southern Asia,4.607999802,2017,Asia
-Namibia,Sub-Saharan Africa,4.573999882,2017,Africa
-Kenya,Sub-Saharan Africa,4.552999973,2017,Africa
-Mozambique,Sub-Saharan Africa,4.550000191,2017,Africa
-Myanmar,Southeastern Asia,4.545000076,2017,Africa
-Senegal,Sub-Saharan Africa,4.534999847,2017,Africa
-Zambia,Sub-Saharan Africa,4.513999939,2017,Africa
-Iraq,Middle East and Northern Africa,4.497000217,2017,Asia
-Gabon,Sub-Saharan Africa,4.465000153,2017,Africa
-Ethiopia,Sub-Saharan Africa,4.460000038,2017,Africa
-Sri Lanka,Southern Asia,4.440000057,2017,Asia
-Armenia,Central and Eastern Europe,4.375999928,2017,Europe
-India,Southern Asia,4.315000057,2017,Asia
-Mauritania,Sub-Saharan Africa,4.291999817,2017,Africa
-Congo,Sub-Saharan Africa,4.290999889,2017,Africa
-Georgia,Central and Eastern Europe,4.285999775,2017,Europe
-Dem. Rep. Congo,Sub-Saharan Africa,4.28000021,2017,Europe
-Mali,Sub-Saharan Africa,4.190000057,2017,Africa
-Ivory Coast,Sub-Saharan Africa,4.179999828,2017,Europe
-Cambodia,Southeastern Asia,4.168000221,2017,Asia
-Sudan,Sub-Saharan Africa,4.138999939,2017,Africa
-Ghana,Sub-Saharan Africa,4.119999886,2017,Africa
-Ukraine,Central and Eastern Europe,4.096000195,2017,Europe
-Uganda,Sub-Saharan Africa,4.080999851,2017,Africa
-Burkina Faso,Sub-Saharan Africa,4.032000065,2017,Africa
-Niger,Sub-Saharan Africa,4.027999878,2017,Africa
-Malawi,Sub-Saharan Africa,3.970000029,2017,Africa
-Chad,Sub-Saharan Africa,3.936000109,2017,Africa
-Zimbabwe,Sub-Saharan Africa,3.875,2017,Africa
-Lesotho,Sub-Saharan Africa,3.808000088,2017,Africa
-Angola,Sub-Saharan Africa,3.795000076,2017,Africa
-Afghanistan,Southern Asia,3.79399991,2017,Asia
-Botswana,Sub-Saharan Africa,3.766000032,2017,Africa
-Benin,Sub-Saharan Africa,3.657000065,2017,Africa
-Madagascar,Sub-Saharan Africa,3.644000053,2017,Africa
-Haiti,Latin America and Caribbean,3.602999926,2017,North America
-Yemen,Middle East and Northern Africa,3.592999935,2017,Asia
-S. Sudan,Sub-Saharan Africa,3.59100008,2017,Africa
-Liberia,Sub-Saharan Africa,3.532999992,2017,Africa
-Guinea,Sub-Saharan Africa,3.506999969,2017,Africa
-Togo,Sub-Saharan Africa,3.494999886,2017,Africa
-Rwanda,Sub-Saharan Africa,3.470999956,2017,Africa
-Syria,Middle East and Northern Africa,3.461999893,2017,Asia
-Tanzania,Sub-Saharan Africa,3.348999977,2017,Africa
-Burundi,Sub-Saharan Africa,2.904999971,2017,Africa
-Central African Rep.,Sub-Saharan Africa,2.693000078,2017,North America
-Finland,Western Europe,7.632,2018,Europe
-Norway,Western Europe,7.594,2018,Europe
-Denmark,Western Europe,7.555,2018,Europe
-Iceland,Western Europe,7.495,2018,Europe
-Switzerland,Western Europe,7.487,2018,Europe
-Netherlands,Western Europe,7.441,2018,Europe
-Canada,North America,7.328,2018,North America
-New Zealand,Australia and New Zealand,7.324,2018,Oceania
-Sweden,Western Europe,7.314,2018,Europe
-Australia,Australia and New Zealand,7.272,2018,Oceania
-United Kingdom,Western Europe,7.19,2018,Europe
-Austria,Western Europe,7.139,2018,Europe
-Costa Rica,Latin America and Caribbean,7.072,2018,North America
-Ireland,Western Europe,6.977,2018,Europe
-Germany,Western Europe,6.965,2018,Europe
-Belgium,Western Europe,6.927,2018,Europe
-Luxembourg,Western Europe,6.91,2018,Europe
-United States of America,North America,6.886,2018,North America
-Israel,Middle East and Northern Africa,6.814,2018,Asia
-United Arab Emirates,Middle East and Northern Africa,6.774,2018,Asia
-Czech Republic,Central and Eastern Europe,6.711,2018,Europe
-Malta,Western Europe,6.627,2018,Europe
-France,Western Europe,6.489,2018,Europe
-Mexico,Latin America and Caribbean,6.488,2018,North America
-Chile,Latin America and Caribbean,6.476,2018,South America
-Taiwan,Eastern Asia,6.441,2018,Asia
-Panama,Latin America and Caribbean,6.43,2018,North America
-Brazil,Latin America and Caribbean,6.419,2018,South America
-Argentina,Latin America and Caribbean,6.388,2018,South America
-Guatemala,Latin America and Caribbean,6.382,2018,North America
-Uruguay,Latin America and Caribbean,6.379,2018,North America
-Qatar,Middle East and Northern Africa,6.374,2018,Asia
-Saudi Arabia,Middle East and Northern Africa,6.371,2018,Asia
-Singapore,Southeastern Asia,6.343,2018,Asia
-Malaysia,Southeastern Asia,6.322,2018,Asia
-Spain,Western Europe,6.31,2018,Europe
-Colombia,Latin America and Caribbean,6.26,2018,South America
-Trinidad and Tobago,Latin America and Caribbean,6.192,2018,North America
-Slovakia,Central and Eastern Europe,6.173,2018,Europe
-El Salvador,Latin America and Caribbean,6.167,2018,North America
-Nicaragua,Latin America and Caribbean,6.141,2018,North America
-Poland,Central and Eastern Europe,6.123,2018,Europe
-Bahrain,Middle East and Northern Africa,6.105,2018,Asia
-Uzbekistan,Central and Eastern Europe,6.096,2018,Asia
-Kuwait,Middle East and Northern Africa,6.083,2018,Asia
-Thailand,Southeastern Asia,6.072,2018,Asia
-Italy,Western Europe,6,2018,Europe
-Ecuador,Latin America and Caribbean,5.973,2018,South America
-Belize,Latin America and Caribbean,5.956,2018,North America
-Lithuania,Central and Eastern Europe,5.952,2018,Europe
-Slovenia,Central and Eastern Europe,5.948,2018,Europe
-Romania,Central and Eastern Europe,5.945,2018,Europe
-Latvia,Central and Eastern Europe,5.933,2018,Europe
-Japan,Eastern Asia,5.915,2018,Asia
-Mauritius,Sub-Saharan Africa,5.891,2018,Africa
-Jamaica,Latin America and Caribbean,5.89,2018,North America
-South Korea,Eastern Asia,5.875,2018,Africa
-N. Cyprus,Western Europe,5.835,2018,Africa
-Russia,Central and Eastern Europe,5.81,2018,Europe
-Kazakhstan,Central and Eastern Europe,5.79,2018,Asia
-Cyprus,Western Europe,5.762,2018,Europe
-Bolivia,Latin America and Caribbean,5.752,2018,South America
-Estonia,Central and Eastern Europe,5.739,2018,Europe
-Paraguay,Latin America and Caribbean,5.681,2018,South America
-Peru,Latin America and Caribbean,5.663,2018,South America
-Kosovo,Central and Eastern Europe,5.662,2018,Europe
-Moldova,Central and Eastern Europe,5.64,2018,Europe
-Turkmenistan,Central and Eastern Europe,5.636,2018,Asia
-Hungary,Central and Eastern Europe,5.62,2018,Europe
-Libya,Middle East and Northern Africa,5.566,2018,Africa
-Philippines,Southeastern Asia,5.524,2018,Asia
-Honduras,Latin America and Caribbean,5.504,2018,North America
-Belarus,Central and Eastern Europe,5.483,2018,Europe
-Turkey,Middle East and Northern Africa,5.483,2018,Asia
-Pakistan,Southern Asia,5.472,2018,Asia
-Hong Kong,Eastern Asia,5.43,2018,North America
-Portugal,Western Europe,5.41,2018,Europe
-Serbia,Central and Eastern Europe,5.398,2018,Europe
-Greece,Western Europe,5.358,2018,Europe
-Lebanon,Middle East and Northern Africa,5.358,2018,Asia
-Montenegro,Central and Eastern Europe,5.347,2018,Europe
-Croatia,Central and Eastern Europe,5.321,2018,Europe
-Dominican Rep.,Latin America and Caribbean,5.302,2018,North America
-Algeria,Middle East and Northern Africa,5.295,2018,Africa
-Morocco,Middle East and Northern Africa,5.254,2018,Africa
-China,Eastern Asia,5.246,2018,Asia
-Azerbaijan,Central and Eastern Europe,5.201,2018,Europe
-Tajikistan,Central and Eastern Europe,5.199,2018,Asia
-Macedonia,Central and Eastern Europe,5.185,2018,Europe
-Jordan,Middle East and Northern Africa,5.161,2018,Asia
-Nigeria,Sub-Saharan Africa,5.155,2018,Africa
-Kyrgyzstan,Central and Eastern Europe,5.131,2018,Asia
-Bosnia and Herzegovina,Central and Eastern Europe,5.129,2018,Europe
-Mongolia,Eastern Asia,5.125,2018,Asia
-Vietnam,Southeastern Asia,5.103,2018,Asia
-Indonesia,Southeastern Asia,5.093,2018,Asia
-Bhutan,Southern Asia,5.082,2018,Asia
-Somalia,Sub-Saharan Africa,4.982,2018,Africa
-Cameroon,Sub-Saharan Africa,4.975,2018,Africa
-Bulgaria,Central and Eastern Europe,4.933,2018,Europe
-Nepal,Southern Asia,4.88,2018,Asia
-Venezuela,Latin America and Caribbean,4.806,2018,South America
-Gabon,Sub-Saharan Africa,4.758,2018,Africa
-Palestinian Territories,Middle East and Northern Africa,4.743,2018,Asia
-South Africa,Sub-Saharan Africa,4.724,2018,Africa
-Iran,Middle East and Northern Africa,4.707,2018,Asia
-Ivory Coast,Sub-Saharan Africa,4.671,2018,Europe
-Ghana,Sub-Saharan Africa,4.657,2018,Africa
-Senegal,Sub-Saharan Africa,4.631,2018,Africa
-Laos,Southeastern Asia,4.623,2018,Asia
-Tunisia,Middle East and Northern Africa,4.592,2018,Africa
-Albania,Central and Eastern Europe,4.586,2018,Europe
-Sierra Leone,Sub-Saharan Africa,4.571,2018,Africa
-Congo,Sub-Saharan Africa,4.559,2018,Africa
-Bangladesh,Southern Asia,4.5,2018,Asia
-Sri Lanka,Southern Asia,4.471,2018,Asia
-Iraq,Middle East and Northern Africa,4.456,2018,Asia
-Mali,Sub-Saharan Africa,4.447,2018,Africa
-Namibia,Sub-Saharan Africa,4.441,2018,Africa
-Cambodia,Southeastern Asia,4.433,2018,Asia
-Burkina Faso,Sub-Saharan Africa,4.424,2018,Africa
-Egypt,Middle East and Northern Africa,4.419,2018,Africa
-Mozambique,Sub-Saharan Africa,4.417,2018,Africa
-Kenya,Sub-Saharan Africa,4.41,2018,Africa
-Zambia,Sub-Saharan Africa,4.377,2018,Africa
-Mauritania,Sub-Saharan Africa,4.356,2018,Africa
-Ethiopia,Sub-Saharan Africa,4.35,2018,Africa
-Georgia,Central and Eastern Europe,4.34,2018,Europe
-Armenia,Central and Eastern Europe,4.321,2018,Europe
-Myanmar,Southeastern Asia,4.308,2018,Africa
-Chad,Sub-Saharan Africa,4.301,2018,Africa
-Dem. Rep. Congo,Sub-Saharan Africa,4.245,2018,Europe
-India,Southern Asia,4.19,2018,Asia
-Niger,Sub-Saharan Africa,4.166,2018,Africa
-Uganda,Sub-Saharan Africa,4.161,2018,Africa
-Benin,Sub-Saharan Africa,4.141,2018,Africa
-Sudan,Sub-Saharan Africa,4.139,2018,Africa
-Ukraine,Central and Eastern Europe,4.103,2018,Europe
-Togo,Sub-Saharan Africa,3.999,2018,Africa
-Guinea,Sub-Saharan Africa,3.964,2018,Africa
-Lesotho,Sub-Saharan Africa,3.808,2018,Africa
-Angola,Sub-Saharan Africa,3.795,2018,Africa
-Madagascar,Sub-Saharan Africa,3.774,2018,Africa
-Zimbabwe,Sub-Saharan Africa,3.692,2018,Africa
-Afghanistan,Southern Asia,3.632,2018,Asia
-Botswana,Sub-Saharan Africa,3.59,2018,Africa
-Malawi,Sub-Saharan Africa,3.587,2018,Africa
-Haiti,Latin America and Caribbean,3.582,2018,North America
-Liberia,Sub-Saharan Africa,3.495,2018,Africa
-Syria,Middle East and Northern Africa,3.462,2018,Asia
-Rwanda,Sub-Saharan Africa,3.408,2018,Africa
-Yemen,Middle East and Northern Africa,3.355,2018,Asia
-Tanzania,Sub-Saharan Africa,3.303,2018,Africa
-S. Sudan,Sub-Saharan Africa,3.254,2018,Africa
-Central African Rep.,Sub-Saharan Africa,3.083,2018,North America
-Burundi,Sub-Saharan Africa,2.905,2018,Africa
-Finland,Western Europe,7.769,2019,Europe
-Denmark,Western Europe,7.6,2019,Europe
-Norway,Western Europe,7.554,2019,Europe
-Iceland,Western Europe,7.494,2019,Europe
-Netherlands,Western Europe,7.488,2019,Europe
-Switzerland,Western Europe,7.48,2019,Europe
-Sweden,Western Europe,7.343,2019,Europe
-New Zealand,Australia and New Zealand,7.307,2019,Oceania
-Canada,North America,7.278,2019,North America
-Austria,Western Europe,7.246,2019,Europe
-Australia,Australia and New Zealand,7.228,2019,Oceania
-Costa Rica,Latin America and Caribbean,7.167,2019,North America
-Israel,Middle East and Northern Africa,7.139,2019,Asia
-Luxembourg,Western Europe,7.09,2019,Europe
-United Kingdom,Western Europe,7.054,2019,Europe
-Ireland,Western Europe,7.021,2019,Europe
-Germany,Western Europe,6.985,2019,Europe
-Belgium,Western Europe,6.923,2019,Europe
-United States of America,North America,6.892,2019,North America
-Czech Republic,Central and Eastern Europe,6.852,2019,Europe
-United Arab Emirates,Middle East and Northern Africa,6.825,2019,Asia
-Malta,Western Europe,6.726,2019,Europe
-Mexico,Latin America and Caribbean,6.595,2019,North America
-France,Western Europe,6.592,2019,Europe
-Taiwan,Eastern Asia,6.446,2019,Asia
-Chile,Latin America and Caribbean,6.444,2019,South America
-Guatemala,Latin America and Caribbean,6.436,2019,North America
-Saudi Arabia,Middle East and Northern Africa,6.375,2019,Asia
-Qatar,Middle East and Northern Africa,6.374,2019,Asia
-Spain,Western Europe,6.354,2019,Europe
-Panama,Latin America and Caribbean,6.321,2019,North America
-Brazil,Latin America and Caribbean,6.3,2019,South America
-Uruguay,Latin America and Caribbean,6.293,2019,North America
-Singapore,Southeastern Asia,6.262,2019,Asia
-El Salvador,Latin America and Caribbean,6.253,2019,North America
-Italy,Western Europe,6.223,2019,Europe
-Bahrain,Middle East and Northern Africa,6.199,2019,Asia
-Slovakia,Central and Eastern Europe,6.198,2019,Europe
-Trinidad and Tobago,Latin America and Caribbean,6.192,2019,North America
-Poland,Central and Eastern Europe,6.182,2019,Europe
-Uzbekistan,Central and Eastern Europe,6.174,2019,Asia
-Lithuania,Central and Eastern Europe,6.149,2019,Europe
-Colombia,Latin America and Caribbean,6.125,2019,South America
-Slovenia,Central and Eastern Europe,6.118,2019,Europe
-Nicaragua,Latin America and Caribbean,6.105,2019,North America
-Kosovo,Central and Eastern Europe,6.1,2019,Europe
-Argentina,Latin America and Caribbean,6.086,2019,South America
-Romania,Central and Eastern Europe,6.07,2019,Europe
-Cyprus,Western Europe,6.046,2019,Europe
-Ecuador,Latin America and Caribbean,6.028,2019,South America
-Kuwait,Middle East and Northern Africa,6.021,2019,Asia
-Thailand,Southeastern Asia,6.008,2019,Asia
-Latvia,Central and Eastern Europe,5.94,2019,Europe
-South Korea,Eastern Asia,5.895,2019,Africa
-Estonia,Central and Eastern Europe,5.893,2019,Europe
-Jamaica,Latin America and Caribbean,5.89,2019,North America
-Mauritius,Sub-Saharan Africa,5.888,2019,Africa
-Japan,Eastern Asia,5.886,2019,Asia
-Honduras,Latin America and Caribbean,5.86,2019,North America
-Kazakhstan,Central and Eastern Europe,5.809,2019,Asia
-Bolivia,Latin America and Caribbean,5.779,2019,South America
-Hungary,Central and Eastern Europe,5.758,2019,Europe
-Paraguay,Latin America and Caribbean,5.743,2019,South America
-N. Cyprus,Western Europe,5.718,2019,Africa
-Peru,Latin America and Caribbean,5.697,2019,South America
-Portugal,Western Europe,5.693,2019,Europe
-Pakistan,Southern Asia,5.653,2019,Asia
-Russia,Central and Eastern Europe,5.648,2019,Europe
-Philippines,Southeastern Asia,5.631,2019,Asia
-Serbia,Central and Eastern Europe,5.603,2019,Europe
-Moldova,Central and Eastern Europe,5.529,2019,Europe
-Libya,Middle East and Northern Africa,5.525,2019,Africa
-Montenegro,Central and Eastern Europe,5.523,2019,Europe
-Tajikistan,Central and Eastern Europe,5.467,2019,Asia
-Croatia,Central and Eastern Europe,5.432,2019,Europe
-Hong Kong,Eastern Asia,5.43,2019,North America
-Dominican Rep.,Latin America and Caribbean,5.425,2019,North America
-Bosnia and Herzegovina,Central and Eastern Europe,5.386,2019,Europe
-Turkey,Middle East and Northern Africa,5.373,2019,Asia
-Malaysia,Southeastern Asia,5.339,2019,Asia
-Belarus,Central and Eastern Europe,5.323,2019,Europe
-Greece,Western Europe,5.287,2019,Europe
-Mongolia,Eastern Asia,5.285,2019,Asia
-Macedonia,Central and Eastern Europe,5.274,2019,Europe
-Nigeria,Sub-Saharan Africa,5.265,2019,Africa
-Kyrgyzstan,Central and Eastern Europe,5.261,2019,Asia
-Turkmenistan,Central and Eastern Europe,5.247,2019,Asia
-Algeria,Middle East and Northern Africa,5.211,2019,Africa
-Morocco,Middle East and Northern Africa,5.208,2019,Africa
-Azerbaijan,Central and Eastern Europe,5.208,2019,Europe
-Lebanon,Middle East and Northern Africa,5.197,2019,Asia
-Indonesia,Southeastern Asia,5.192,2019,Asia
-China,Eastern Asia,5.191,2019,Asia
-Vietnam,Southeastern Asia,5.175,2019,Asia
-Bhutan,Southern Asia,5.082,2019,Asia
-Cameroon,Sub-Saharan Africa,5.044,2019,Africa
-Bulgaria,Central and Eastern Europe,5.011,2019,Europe
-Ghana,Sub-Saharan Africa,4.996,2019,Africa
-Ivory Coast,Sub-Saharan Africa,4.944,2019,Europe
-Nepal,Southern Asia,4.913,2019,Asia
-Jordan,Middle East and Northern Africa,4.906,2019,Asia
-Benin,Sub-Saharan Africa,4.883,2019,Africa
-Congo,Sub-Saharan Africa,4.812,2019,Africa
-Gabon,Sub-Saharan Africa,4.799,2019,Africa
-Laos,Southeastern Asia,4.796,2019,Asia
-South Africa,Sub-Saharan Africa,4.722,2019,Africa
-Albania,Central and Eastern Europe,4.719,2019,Europe
-Venezuela,Latin America and Caribbean,4.707,2019,South America
-Cambodia,Southeastern Asia,4.7,2019,Asia
-Palestinian Territories,Middle East and Northern Africa,4.696,2019,Asia
-Senegal,Sub-Saharan Africa,4.681,2019,Africa
-Somalia,Sub-Saharan Africa,4.668,2019,Africa
-Namibia,Sub-Saharan Africa,4.639,2019,Africa
-Niger,Sub-Saharan Africa,4.628,2019,Africa
-Burkina Faso,Sub-Saharan Africa,4.587,2019,Africa
-Armenia,Central and Eastern Europe,4.559,2019,Europe
-Iran,Middle East and Northern Africa,4.548,2019,Asia
-Guinea,Sub-Saharan Africa,4.534,2019,Africa
-Georgia,Central and Eastern Europe,4.519,2019,Europe
-Gambia,#N/A,4.516,2019,Africa
-Kenya,Sub-Saharan Africa,4.509,2019,Africa
-Mauritania,Sub-Saharan Africa,4.49,2019,Africa
-Mozambique,Sub-Saharan Africa,4.466,2019,Africa
-Tunisia,Middle East and Northern Africa,4.461,2019,Africa
-Bangladesh,Southern Asia,4.456,2019,Asia
-Iraq,Middle East and Northern Africa,4.437,2019,Asia
-Dem. Rep. Congo,Sub-Saharan Africa,4.418,2019,Europe
-Mali,Sub-Saharan Africa,4.39,2019,Africa
-Sierra Leone,Sub-Saharan Africa,4.374,2019,Africa
-Sri Lanka,Southern Asia,4.366,2019,Asia
-Myanmar,Southeastern Asia,4.36,2019,Africa
-Chad,Sub-Saharan Africa,4.35,2019,Africa
-Ukraine,Central and Eastern Europe,4.332,2019,Europe
-Ethiopia,Sub-Saharan Africa,4.286,2019,Africa
-Swaziland,Sub-Saharan Africa,4.212,2019,South America
-Uganda,Sub-Saharan Africa,4.189,2019,Africa
-Egypt,Middle East and Northern Africa,4.166,2019,Africa
-Zambia,Sub-Saharan Africa,4.107,2019,Africa
-Togo,Sub-Saharan Africa,4.085,2019,Africa
-India,Southern Asia,4.015,2019,Asia
-Liberia,Sub-Saharan Africa,3.975,2019,Africa
-Comoros,Sub-Saharan Africa,3.973,2019,Africa
-Madagascar,Sub-Saharan Africa,3.933,2019,Africa
-Lesotho,Sub-Saharan Africa,3.802,2019,Africa
-Burundi,Sub-Saharan Africa,3.775,2019,Africa
-Zimbabwe,Sub-Saharan Africa,3.663,2019,Africa
-Haiti,Latin America and Caribbean,3.597,2019,North America
-Botswana,Sub-Saharan Africa,3.488,2019,Africa
-Syria,Middle East and Northern Africa,3.462,2019,Asia
-Malawi,Sub-Saharan Africa,3.41,2019,Africa
-Yemen,Middle East and Northern Africa,3.38,2019,Asia
-Rwanda,Sub-Saharan Africa,3.334,2019,Africa
-Tanzania,Sub-Saharan Africa,3.231,2019,Africa
-Afghanistan,Southern Asia,3.203,2019,Asia
-Central African Rep.,Sub-Saharan Africa,3.083,2019,North America
-S. Sudan,Sub-Saharan Africa,2.853,2019,Africa
+Country,Region,Happiness_Score,Year,Continent,Rank
+Switzerland,Western Europe,7.587,2015,Europe,1
+Iceland,Western Europe,7.561,2015,Europe,2
+Denmark,Western Europe,7.527,2015,Europe,3
+Norway,Western Europe,7.522,2015,Europe,4
+Canada,North America,7.427,2015,North America,5
+Finland,Western Europe,7.406,2015,Europe,6
+Netherlands,Western Europe,7.378,2015,Europe,7
+Sweden,Western Europe,7.364,2015,Europe,8
+New Zealand,Australia and New Zealand,7.286,2015,Oceania,9
+Australia,Australia and New Zealand,7.284,2015,Oceania,10
+Israel,Middle East and Northern Africa,7.278,2015,Asia,11
+Costa Rica,Latin America and Caribbean,7.226,2015,North America,12
+Austria,Western Europe,7.2,2015,Europe,13
+Mexico,Latin America and Caribbean,7.187,2015,North America,14
+United States of America,North America,7.119,2015,North America,15
+Brazil,Latin America and Caribbean,6.983,2015,South America,16
+Luxembourg,Western Europe,6.946,2015,Europe,17
+Ireland,Western Europe,6.94,2015,Europe,18
+Belgium,Western Europe,6.937,2015,Europe,19
+United Arab Emirates,Middle East and Northern Africa,6.901,2015,Asia,20
+United Kingdom,Western Europe,6.867,2015,Europe,21
+Oman,Middle East and Northern Africa,6.853,2015,Asia,22
+Venezuela,Latin America and Caribbean,6.81,2015,South America,23
+Singapore,Southeastern Asia,6.798,2015,Asia,24
+Panama,Latin America and Caribbean,6.786,2015,North America,25
+Germany,Western Europe,6.75,2015,Europe,26
+Chile,Latin America and Caribbean,6.67,2015,South America,27
+Qatar,Middle East and Northern Africa,6.611,2015,Asia,28
+France,Western Europe,6.575,2015,Europe,29
+Argentina,Latin America and Caribbean,6.574,2015,South America,30
+Czech Republic,Central and Eastern Europe,6.505,2015,Europe,31
+Uruguay,Latin America and Caribbean,6.485,2015,North America,32
+Colombia,Latin America and Caribbean,6.477,2015,South America,33
+Thailand,Southeastern Asia,6.455,2015,Asia,34
+Saudi Arabia,Middle East and Northern Africa,6.411,2015,Asia,35
+Spain,Western Europe,6.329,2015,Europe,36
+Malta,Western Europe,6.302,2015,Europe,37
+Taiwan,Eastern Asia,6.298,2015,Asia,38
+Kuwait,Middle East and Northern Africa,6.295,2015,Asia,39
+Suriname,Latin America and Caribbean,6.269,2015,South America,40
+Trinidad and Tobago,Latin America and Caribbean,6.168,2015,North America,41
+El Salvador,Latin America and Caribbean,6.13,2015,North America,42
+Guatemala,Latin America and Caribbean,6.123,2015,North America,43
+Uzbekistan,Central and Eastern Europe,6.003,2015,Asia,44
+Slovakia,Central and Eastern Europe,5.995,2015,Europe,45
+Japan,Eastern Asia,5.987,2015,Asia,46
+South Korea,Eastern Asia,5.984,2015,Africa,47
+Ecuador,Latin America and Caribbean,5.975,2015,South America,48
+Bahrain,Middle East and Northern Africa,5.96,2015,Asia,49
+Italy,Western Europe,5.948,2015,Europe,50
+Bolivia,Latin America and Caribbean,5.89,2015,South America,51
+Moldova,Central and Eastern Europe,5.889,2015,Europe,52
+Paraguay,Latin America and Caribbean,5.878,2015,South America,53
+Kazakhstan,Central and Eastern Europe,5.855,2015,Asia,54
+Slovenia,Central and Eastern Europe,5.848,2015,Europe,55
+Lithuania,Central and Eastern Europe,5.833,2015,Europe,56
+Nicaragua,Latin America and Caribbean,5.828,2015,North America,57
+Peru,Latin America and Caribbean,5.824,2015,South America,58
+Belarus,Central and Eastern Europe,5.813,2015,Europe,59
+Poland,Central and Eastern Europe,5.791,2015,Europe,60
+Malaysia,Southeastern Asia,5.77,2015,Asia,61
+Croatia,Central and Eastern Europe,5.759,2015,Europe,62
+Libya,Middle East and Northern Africa,5.754,2015,Africa,63
+Russia,Central and Eastern Europe,5.716,2015,Europe,64
+Jamaica,Latin America and Caribbean,5.709,2015,North America,65
+N. Cyprus,Western Europe,5.695,2015,Africa,66
+Cyprus,Western Europe,5.689,2015,Europe,67
+Algeria,Middle East and Northern Africa,5.605,2015,Africa,68
+Kosovo,Central and Eastern Europe,5.589,2015,Europe,69
+Turkmenistan,Central and Eastern Europe,5.548,2015,Asia,70
+Mauritius,Sub-Saharan Africa,5.477,2015,Africa,71
+Hong Kong,Eastern Asia,5.474,2015,North America,72
+Estonia,Central and Eastern Europe,5.429,2015,Europe,73
+Indonesia,Southeastern Asia,5.399,2015,Asia,74
+Vietnam,Southeastern Asia,5.36,2015,Asia,75
+Turkey,Middle East and Northern Africa,5.332,2015,Asia,76
+Kyrgyzstan,Central and Eastern Europe,5.286,2015,Asia,77
+Nigeria,Sub-Saharan Africa,5.268,2015,Africa,78
+Bhutan,Southern Asia,5.253,2015,Asia,79
+Azerbaijan,Central and Eastern Europe,5.212,2015,Europe,80
+Pakistan,Southern Asia,5.194,2015,Asia,81
+Jordan,Middle East and Northern Africa,5.192,2015,Asia,82
+Montenegro,Central and Eastern Europe,5.192,2015,Europe,82
+China,Eastern Asia,5.14,2015,Asia,84
+Zambia,Sub-Saharan Africa,5.129,2015,Africa,85
+Romania,Central and Eastern Europe,5.124,2015,Europe,86
+Serbia,Central and Eastern Europe,5.123,2015,Europe,87
+Portugal,Western Europe,5.102,2015,Europe,88
+Latvia,Central and Eastern Europe,5.098,2015,Europe,89
+Philippines,Southeastern Asia,5.073,2015,Asia,90
+Somaliland region,Sub-Saharan Africa,5.057,2015,Africa,91
+Morocco,Middle East and Northern Africa,5.013,2015,Africa,92
+Macedonia,Central and Eastern Europe,5.007,2015,Europe,93
+Mozambique,Sub-Saharan Africa,4.971,2015,Africa,94
+Albania,Central and Eastern Europe,4.959,2015,Europe,95
+Bosnia and Herzegovina,Central and Eastern Europe,4.949,2015,Europe,96
+Lesotho,Sub-Saharan Africa,4.898,2015,Africa,97
+Dominican Rep.,Latin America and Caribbean,4.885,2015,North America,98
+Laos,Southeastern Asia,4.876,2015,Asia,99
+Mongolia,Eastern Asia,4.874,2015,Asia,100
+Swaziland,Sub-Saharan Africa,4.867,2015,South America,101
+Greece,Western Europe,4.857,2015,Europe,102
+Lebanon,Middle East and Northern Africa,4.839,2015,Asia,103
+Hungary,Central and Eastern Europe,4.8,2015,Europe,104
+Honduras,Latin America and Caribbean,4.788,2015,North America,105
+Tajikistan,Central and Eastern Europe,4.786,2015,Asia,106
+Tunisia,Middle East and Northern Africa,4.739,2015,Africa,107
+Palestinian Territories,Middle East and Northern Africa,4.715,2015,Asia,108
+Bangladesh,Southern Asia,4.694,2015,Asia,109
+Iran,Middle East and Northern Africa,4.686,2015,Asia,110
+Ukraine,Central and Eastern Europe,4.681,2015,Europe,111
+Iraq,Middle East and Northern Africa,4.677,2015,Asia,112
+South Africa,Sub-Saharan Africa,4.642,2015,Africa,113
+Ghana,Sub-Saharan Africa,4.633,2015,Africa,114
+Zimbabwe,Sub-Saharan Africa,4.61,2015,Africa,115
+Liberia,Sub-Saharan Africa,4.571,2015,Africa,116
+India,Southern Asia,4.565,2015,Asia,117
+Sudan,Sub-Saharan Africa,4.55,2015,Africa,118
+Haiti,Latin America and Caribbean,4.518,2015,North America,119
+Dem. Rep. Congo,Sub-Saharan Africa,4.517,2015,Europe,120
+Nepal,Southern Asia,4.514,2015,Asia,121
+Ethiopia,Sub-Saharan Africa,4.512,2015,Africa,122
+Sierra Leone,Sub-Saharan Africa,4.507,2015,Africa,123
+Mauritania,Sub-Saharan Africa,4.436,2015,Africa,124
+Kenya,Sub-Saharan Africa,4.419,2015,Africa,125
+Djibouti,Sub-Saharan Africa,4.369,2015,Africa,126
+Armenia,Central and Eastern Europe,4.35,2015,Europe,127
+Botswana,Sub-Saharan Africa,4.332,2015,Africa,128
+Myanmar,Southeastern Asia,4.307,2015,Africa,129
+Georgia,Central and Eastern Europe,4.297,2015,Europe,130
+Malawi,Sub-Saharan Africa,4.292,2015,Africa,131
+Sri Lanka,Southern Asia,4.271,2015,Asia,132
+Cameroon,Sub-Saharan Africa,4.252,2015,Africa,133
+Bulgaria,Central and Eastern Europe,4.218,2015,Europe,134
+Egypt,Middle East and Northern Africa,4.194,2015,Africa,135
+Yemen,Middle East and Northern Africa,4.077,2015,Asia,136
+Angola,Sub-Saharan Africa,4.033,2015,Africa,137
+Mali,Sub-Saharan Africa,3.995,2015,Africa,138
+Congo,Sub-Saharan Africa,3.989,2015,Africa,139
+Comoros,Sub-Saharan Africa,3.956,2015,Africa,140
+Uganda,Sub-Saharan Africa,3.931,2015,Africa,141
+Senegal,Sub-Saharan Africa,3.904,2015,Africa,142
+Gabon,Sub-Saharan Africa,3.896,2015,Africa,143
+Niger,Sub-Saharan Africa,3.845,2015,Africa,144
+Cambodia,Southeastern Asia,3.819,2015,Asia,145
+Tanzania,Sub-Saharan Africa,3.781,2015,Africa,146
+Madagascar,Sub-Saharan Africa,3.681,2015,Africa,147
+Central African Rep.,Sub-Saharan Africa,3.678,2015,North America,148
+Chad,Sub-Saharan Africa,3.667,2015,Africa,149
+Guinea,Sub-Saharan Africa,3.656,2015,Africa,150
+Ivory Coast,Sub-Saharan Africa,3.655,2015,Europe,151
+Burkina Faso,Sub-Saharan Africa,3.587,2015,Africa,152
+Afghanistan,Southern Asia,3.575,2015,Asia,153
+Rwanda,Sub-Saharan Africa,3.465,2015,Africa,154
+Benin,Sub-Saharan Africa,3.34,2015,Africa,155
+Syria,Middle East and Northern Africa,3.006,2015,Asia,156
+Burundi,Sub-Saharan Africa,2.905,2015,Africa,157
+Togo,Sub-Saharan Africa,2.839,2015,Africa,158
+Denmark,Western Europe,7.526,2016,Europe,1
+Switzerland,Western Europe,7.509,2016,Europe,2
+Iceland,Western Europe,7.501,2016,Europe,3
+Norway,Western Europe,7.498,2016,Europe,4
+Finland,Western Europe,7.413,2016,Europe,5
+Canada,North America,7.404,2016,North America,6
+Netherlands,Western Europe,7.339,2016,Europe,7
+New Zealand,Australia and New Zealand,7.334,2016,Oceania,8
+Australia,Australia and New Zealand,7.313,2016,Oceania,9
+Sweden,Western Europe,7.291,2016,Europe,10
+Israel,Middle East and Northern Africa,7.267,2016,Asia,11
+Austria,Western Europe,7.119,2016,Europe,12
+United States of America,North America,7.104,2016,North America,13
+Costa Rica,Latin America and Caribbean,7.087,2016,North America,14
+Puerto Rico,Latin America and Caribbean,7.039,2016,Europe,15
+Germany,Western Europe,6.994,2016,Europe,16
+Brazil,Latin America and Caribbean,6.952,2016,South America,17
+Belgium,Western Europe,6.929,2016,Europe,18
+Ireland,Western Europe,6.907,2016,Europe,19
+Luxembourg,Western Europe,6.871,2016,Europe,20
+Mexico,Latin America and Caribbean,6.778,2016,North America,21
+Singapore,Southeastern Asia,6.739,2016,Asia,22
+United Kingdom,Western Europe,6.725,2016,Europe,23
+Chile,Latin America and Caribbean,6.705,2016,South America,24
+Panama,Latin America and Caribbean,6.701,2016,North America,25
+Argentina,Latin America and Caribbean,6.65,2016,South America,26
+Czech Republic,Central and Eastern Europe,6.596,2016,Europe,27
+United Arab Emirates,Middle East and Northern Africa,6.573,2016,Asia,28
+Uruguay,Latin America and Caribbean,6.545,2016,North America,29
+Malta,Western Europe,6.488,2016,Europe,30
+Colombia,Latin America and Caribbean,6.481,2016,South America,31
+France,Western Europe,6.478,2016,Europe,32
+Thailand,Southeastern Asia,6.474,2016,Asia,33
+Saudi Arabia,Middle East and Northern Africa,6.379,2016,Asia,34
+Taiwan,Eastern Asia,6.379,2016,Asia,34
+Qatar,Middle East and Northern Africa,6.375,2016,Asia,36
+Spain,Western Europe,6.361,2016,Europe,37
+Algeria,Middle East and Northern Africa,6.355,2016,Africa,38
+Guatemala,Latin America and Caribbean,6.324,2016,North America,39
+Suriname,Latin America and Caribbean,6.269,2016,South America,40
+Kuwait,Middle East and Northern Africa,6.239,2016,Asia,41
+Bahrain,Middle East and Northern Africa,6.218,2016,Asia,42
+Trinidad and Tobago,Latin America and Caribbean,6.168,2016,North America,43
+Venezuela,Latin America and Caribbean,6.084,2016,South America,44
+Slovakia,Central and Eastern Europe,6.078,2016,Europe,45
+El Salvador,Latin America and Caribbean,6.068,2016,North America,46
+Malaysia,Southeastern Asia,6.005,2016,Asia,47
+Nicaragua,Latin America and Caribbean,5.992,2016,North America,48
+Uzbekistan,Central and Eastern Europe,5.987,2016,Asia,49
+Italy,Western Europe,5.977,2016,Europe,50
+Ecuador,Latin America and Caribbean,5.976,2016,South America,51
+Belize,Latin America and Caribbean,5.956,2016,North America,52
+Japan,Eastern Asia,5.921,2016,Asia,53
+Kazakhstan,Central and Eastern Europe,5.919,2016,Asia,54
+Moldova,Central and Eastern Europe,5.897,2016,Europe,55
+Russia,Central and Eastern Europe,5.856,2016,Europe,56
+Poland,Central and Eastern Europe,5.835,2016,Europe,57
+South Korea,Eastern Asia,5.835,2016,Africa,57
+Bolivia,Latin America and Caribbean,5.822,2016,South America,59
+Lithuania,Central and Eastern Europe,5.813,2016,Europe,60
+Belarus,Central and Eastern Europe,5.802,2016,Europe,61
+N. Cyprus,Western Europe,5.771,2016,Africa,62
+Slovenia,Central and Eastern Europe,5.768,2016,Europe,63
+Peru,Latin America and Caribbean,5.743,2016,South America,64
+Turkmenistan,Central and Eastern Europe,5.658,2016,Asia,65
+Mauritius,Sub-Saharan Africa,5.648,2016,Africa,66
+Libya,Middle East and Northern Africa,5.615,2016,Africa,67
+Latvia,Central and Eastern Europe,5.56,2016,Europe,68
+Cyprus,Western Europe,5.546,2016,Europe,69
+Paraguay,Latin America and Caribbean,5.538,2016,South America,70
+Romania,Central and Eastern Europe,5.528,2016,Europe,71
+Estonia,Central and Eastern Europe,5.517,2016,Europe,72
+Jamaica,Latin America and Caribbean,5.51,2016,North America,73
+Croatia,Central and Eastern Europe,5.488,2016,Europe,74
+Hong Kong,Eastern Asia,5.458,2016,North America,75
+Somalia,Sub-Saharan Africa,5.44,2016,Africa,76
+Kosovo,Central and Eastern Europe,5.401,2016,Europe,77
+Turkey,Middle East and Northern Africa,5.389,2016,Asia,78
+Indonesia,Southeastern Asia,5.314,2016,Asia,79
+Jordan,Middle East and Northern Africa,5.303,2016,Asia,80
+Azerbaijan,Central and Eastern Europe,5.291,2016,Europe,81
+Philippines,Southeastern Asia,5.279,2016,Asia,82
+China,Eastern Asia,5.245,2016,Asia,83
+Bhutan,Southern Asia,5.196,2016,Asia,84
+Kyrgyzstan,Central and Eastern Europe,5.185,2016,Asia,85
+Serbia,Central and Eastern Europe,5.177,2016,Europe,86
+Bosnia and Herzegovina,Central and Eastern Europe,5.163,2016,Europe,87
+Montenegro,Central and Eastern Europe,5.161,2016,Europe,88
+Dominican Rep.,Latin America and Caribbean,5.155,2016,North America,89
+Morocco,Middle East and Northern Africa,5.151,2016,Africa,90
+Hungary,Central and Eastern Europe,5.145,2016,Europe,91
+Pakistan,Southern Asia,5.132,2016,Asia,92
+Lebanon,Middle East and Northern Africa,5.129,2016,Asia,93
+Portugal,Western Europe,5.123,2016,Europe,94
+Macedonia,Central and Eastern Europe,5.121,2016,Europe,95
+Vietnam,Southeastern Asia,5.061,2016,Asia,96
+Somaliland Region,Sub-Saharan Africa,5.057,2016,Africa,97
+Tunisia,Middle East and Northern Africa,5.045,2016,Africa,98
+Greece,Western Europe,5.033,2016,Europe,99
+Tajikistan,Central and Eastern Europe,4.996,2016,Asia,100
+Mongolia,Eastern Asia,4.907,2016,Asia,101
+Laos,Southeastern Asia,4.876,2016,Asia,102
+Nigeria,Sub-Saharan Africa,4.875,2016,Africa,103
+Honduras,Latin America and Caribbean,4.871,2016,North America,104
+Iran,Middle East and Northern Africa,4.813,2016,Asia,105
+Zambia,Sub-Saharan Africa,4.795,2016,Africa,106
+Nepal,Southern Asia,4.793,2016,Asia,107
+Palestinian Territories,Middle East and Northern Africa,4.754,2016,Asia,108
+Albania,Central and Eastern Europe,4.655,2016,Europe,109
+Bangladesh,Southern Asia,4.643,2016,Asia,110
+Sierra Leone,Sub-Saharan Africa,4.635,2016,Africa,111
+Iraq,Middle East and Northern Africa,4.575,2016,Asia,112
+Namibia,Sub-Saharan Africa,4.574,2016,Africa,113
+Cameroon,Sub-Saharan Africa,4.513,2016,Africa,114
+Ethiopia,Sub-Saharan Africa,4.508,2016,Africa,115
+South Africa,Sub-Saharan Africa,4.459,2016,Africa,116
+Sri Lanka,Southern Asia,4.415,2016,Asia,117
+India,Southern Asia,4.404,2016,Asia,118
+Myanmar,Southeastern Asia,4.395,2016,Africa,119
+Egypt,Middle East and Northern Africa,4.362,2016,Africa,120
+Armenia,Central and Eastern Europe,4.36,2016,Europe,121
+Kenya,Sub-Saharan Africa,4.356,2016,Africa,122
+Ukraine,Central and Eastern Europe,4.324,2016,Europe,123
+Ghana,Sub-Saharan Africa,4.276,2016,Africa,124
+Dem. Rep. Congo,Sub-Saharan Africa,4.272,2016,Europe,125
+Georgia,Central and Eastern Europe,4.252,2016,Europe,126
+Congo,Sub-Saharan Africa,4.236,2016,Africa,127
+Senegal,Sub-Saharan Africa,4.219,2016,Africa,128
+Bulgaria,Central and Eastern Europe,4.217,2016,Europe,129
+Mauritania,Sub-Saharan Africa,4.201,2016,Africa,130
+Zimbabwe,Sub-Saharan Africa,4.193,2016,Africa,131
+Malawi,Sub-Saharan Africa,4.156,2016,Africa,132
+Sudan,Sub-Saharan Africa,4.139,2016,Africa,133
+Gabon,Sub-Saharan Africa,4.121,2016,Africa,134
+Mali,Sub-Saharan Africa,4.073,2016,Africa,135
+Haiti,Latin America and Caribbean,4.028,2016,North America,136
+Botswana,Sub-Saharan Africa,3.974,2016,Africa,137
+Comoros,Sub-Saharan Africa,3.956,2016,Africa,138
+Ivory Coast,Sub-Saharan Africa,3.916,2016,Europe,139
+Cambodia,Southeastern Asia,3.907,2016,Asia,140
+Angola,Sub-Saharan Africa,3.866,2016,Africa,141
+Niger,Sub-Saharan Africa,3.856,2016,Africa,142
+S. Sudan,Sub-Saharan Africa,3.832,2016,Africa,143
+Chad,Sub-Saharan Africa,3.763,2016,Africa,144
+Burkina Faso,Sub-Saharan Africa,3.739,2016,Africa,145
+Uganda,Sub-Saharan Africa,3.739,2016,Africa,145
+Yemen,Middle East and Northern Africa,3.724,2016,Asia,147
+Madagascar,Sub-Saharan Africa,3.695,2016,Africa,148
+Tanzania,Sub-Saharan Africa,3.666,2016,Africa,149
+Liberia,Sub-Saharan Africa,3.622,2016,Africa,150
+Guinea,Sub-Saharan Africa,3.607,2016,Africa,151
+Rwanda,Sub-Saharan Africa,3.515,2016,Africa,152
+Benin,Sub-Saharan Africa,3.484,2016,Africa,153
+Afghanistan,Southern Asia,3.36,2016,Asia,154
+Togo,Sub-Saharan Africa,3.303,2016,Africa,155
+Syria,Middle East and Northern Africa,3.069,2016,Asia,156
+Burundi,Sub-Saharan Africa,2.905,2016,Africa,157
+Norway,Western Europe,7.537000179,2017,Europe,1
+Denmark,Western Europe,7.521999836,2017,Europe,2
+Iceland,Western Europe,7.504000187,2017,Europe,3
+Switzerland,Western Europe,7.493999958,2017,Europe,4
+Finland,Western Europe,7.468999863,2017,Europe,5
+Netherlands,Western Europe,7.376999855,2017,Europe,6
+Canada,North America,7.315999985,2017,North America,7
+New Zealand,Australia and New Zealand,7.31400013,2017,Oceania,8
+Sweden,Western Europe,7.28399992,2017,Europe,9
+Australia,Australia and New Zealand,7.28399992,2017,Oceania,10
+Israel,Middle East and Northern Africa,7.212999821,2017,Asia,11
+Costa Rica,Latin America and Caribbean,7.078999996,2017,North America,12
+Austria,Western Europe,7.006000042,2017,Europe,13
+United States of America,North America,6.993000031,2017,North America,14
+Ireland,Western Europe,6.977000237,2017,Europe,15
+Germany,Western Europe,6.951000214,2017,Europe,16
+Belgium,Western Europe,6.890999794,2017,Europe,17
+Luxembourg,Western Europe,6.862999916,2017,Europe,18
+United Kingdom,Western Europe,6.714000225,2017,Europe,19
+Chile,Latin America and Caribbean,6.65199995,2017,South America,20
+United Arab Emirates,Middle East and Northern Africa,6.647999763,2017,Asia,21
+Brazil,Latin America and Caribbean,6.635000229,2017,South America,22
+Czech Republic,Central and Eastern Europe,6.609000206,2017,Europe,23
+Argentina,Latin America and Caribbean,6.598999977,2017,South America,24
+Mexico,Latin America and Caribbean,6.578000069,2017,North America,25
+Singapore,Southeastern Asia,6.572000027,2017,Asia,26
+Malta,Western Europe,6.52699995,2017,Europe,27
+Uruguay,Latin America and Caribbean,6.453999996,2017,North America,28
+Guatemala,Latin America and Caribbean,6.453999996,2017,North America,29
+Panama,Latin America and Caribbean,6.452000141,2017,North America,30
+France,Western Europe,6.441999912,2017,Europe,31
+Thailand,Southeastern Asia,6.423999786,2017,Asia,32
+Taiwan,Eastern Asia,6.421999931,2017,Asia,33
+Spain,Western Europe,6.402999878,2017,Europe,34
+Qatar,Middle East and Northern Africa,6.375,2017,Asia,35
+Colombia,Latin America and Caribbean,6.356999874,2017,South America,36
+Saudi Arabia,Middle East and Northern Africa,6.343999863,2017,Asia,37
+Trinidad and Tobago,Latin America and Caribbean,6.168000221,2017,North America,38
+Kuwait,Middle East and Northern Africa,6.105000019,2017,Asia,39
+Slovakia,Central and Eastern Europe,6.09800005,2017,Europe,40
+Bahrain,Middle East and Northern Africa,6.086999893,2017,Asia,41
+Malaysia,Southeastern Asia,6.084000111,2017,Asia,42
+Nicaragua,Latin America and Caribbean,6.071000099,2017,North America,43
+Ecuador,Latin America and Caribbean,6.007999897,2017,South America,44
+El Salvador,Latin America and Caribbean,6.002999783,2017,North America,45
+Poland,Central and Eastern Europe,5.97300005,2017,Europe,46
+Uzbekistan,Central and Eastern Europe,5.971000195,2017,Asia,47
+Italy,Western Europe,5.964000225,2017,Europe,48
+Russia,Central and Eastern Europe,5.962999821,2017,Europe,49
+Belize,Latin America and Caribbean,5.955999851,2017,North America,50
+Japan,Eastern Asia,5.920000076,2017,Asia,51
+Lithuania,Central and Eastern Europe,5.90199995,2017,Europe,52
+Algeria,Middle East and Northern Africa,5.872000217,2017,Africa,53
+Latvia,Central and Eastern Europe,5.849999905,2017,Europe,54
+South Korea,Eastern Asia,5.837999821,2017,Africa,55
+Moldova,Central and Eastern Europe,5.837999821,2017,Europe,56
+Romania,Central and Eastern Europe,5.824999809,2017,Europe,57
+Bolivia,Latin America and Caribbean,5.822999954,2017,South America,58
+Turkmenistan,Central and Eastern Europe,5.822000027,2017,Asia,59
+Kazakhstan,Central and Eastern Europe,5.818999767,2017,Asia,60
+N. Cyprus,Western Europe,5.809999943,2017,Africa,61
+Slovenia,Central and Eastern Europe,5.757999897,2017,Europe,62
+Peru,Latin America and Caribbean,5.715000153,2017,South America,63
+Mauritius,Sub-Saharan Africa,5.629000187,2017,Africa,64
+Cyprus,Western Europe,5.620999813,2017,Europe,65
+Estonia,Central and Eastern Europe,5.611000061,2017,Europe,66
+Belarus,Central and Eastern Europe,5.568999767,2017,Europe,67
+Libya,Middle East and Northern Africa,5.525000095,2017,Africa,68
+Turkey,Middle East and Northern Africa,5.5,2017,Asia,69
+Paraguay,Latin America and Caribbean,5.493000031,2017,South America,70
+Hong Kong,Eastern Asia,5.472000122,2017,North America,71
+Philippines,Southeastern Asia,5.429999828,2017,Asia,72
+Serbia,Central and Eastern Europe,5.394999981,2017,Europe,73
+Jordan,Middle East and Northern Africa,5.335999966,2017,Asia,74
+Hungary,Central and Eastern Europe,5.323999882,2017,Europe,75
+Jamaica,Latin America and Caribbean,5.31099987,2017,North America,76
+Croatia,Central and Eastern Europe,5.293000221,2017,Europe,77
+Kosovo,Central and Eastern Europe,5.278999805,2017,Europe,78
+China,Eastern Asia,5.272999763,2017,Asia,79
+Pakistan,Southern Asia,5.269000053,2017,Asia,80
+Indonesia,Southeastern Asia,5.262000084,2017,Asia,81
+Venezuela,Latin America and Caribbean,5.25,2017,South America,82
+Montenegro,Central and Eastern Europe,5.236999989,2017,Europe,83
+Morocco,Middle East and Northern Africa,5.235000134,2017,Africa,84
+Azerbaijan,Central and Eastern Europe,5.234000206,2017,Europe,85
+Dominican Rep.,Latin America and Caribbean,5.230000019,2017,North America,86
+Greece,Western Europe,5.227000237,2017,Europe,87
+Lebanon,Middle East and Northern Africa,5.224999905,2017,Asia,88
+Portugal,Western Europe,5.195000172,2017,Europe,89
+Bosnia and Herzegovina,Central and Eastern Europe,5.18200016,2017,Europe,90
+Honduras,Latin America and Caribbean,5.181000233,2017,North America,91
+Macedonia,Central and Eastern Europe,5.175000191,2017,Europe,92
+Somalia,Sub-Saharan Africa,5.151000023,2017,Africa,93
+Vietnam,Southeastern Asia,5.073999882,2017,Asia,94
+Nigeria,Sub-Saharan Africa,5.073999882,2017,Africa,95
+Tajikistan,Central and Eastern Europe,5.040999889,2017,Asia,96
+Bhutan,Southern Asia,5.011000156,2017,Asia,97
+Kyrgyzstan,Central and Eastern Europe,5.004000187,2017,Asia,98
+Nepal,Southern Asia,4.961999893,2017,Asia,99
+Mongolia,Eastern Asia,4.954999924,2017,Asia,100
+South Africa,Sub-Saharan Africa,4.828999996,2017,Africa,101
+Tunisia,Middle East and Northern Africa,4.804999828,2017,Africa,102
+Palestinian Territories,Middle East and Northern Africa,4.775000095,2017,Asia,103
+Egypt,Middle East and Northern Africa,4.735000134,2017,Africa,104
+Bulgaria,Central and Eastern Europe,4.714000225,2017,Europe,105
+Sierra Leone,Sub-Saharan Africa,4.709000111,2017,Africa,106
+Cameroon,Sub-Saharan Africa,4.695000172,2017,Africa,107
+Iran,Middle East and Northern Africa,4.691999912,2017,Asia,108
+Albania,Central and Eastern Europe,4.644000053,2017,Europe,109
+Bangladesh,Southern Asia,4.607999802,2017,Asia,110
+Namibia,Sub-Saharan Africa,4.573999882,2017,Africa,111
+Kenya,Sub-Saharan Africa,4.552999973,2017,Africa,112
+Mozambique,Sub-Saharan Africa,4.550000191,2017,Africa,113
+Myanmar,Southeastern Asia,4.545000076,2017,Africa,114
+Senegal,Sub-Saharan Africa,4.534999847,2017,Africa,115
+Zambia,Sub-Saharan Africa,4.513999939,2017,Africa,116
+Iraq,Middle East and Northern Africa,4.497000217,2017,Asia,117
+Gabon,Sub-Saharan Africa,4.465000153,2017,Africa,118
+Ethiopia,Sub-Saharan Africa,4.460000038,2017,Africa,119
+Sri Lanka,Southern Asia,4.440000057,2017,Asia,120
+Armenia,Central and Eastern Europe,4.375999928,2017,Europe,121
+India,Southern Asia,4.315000057,2017,Asia,122
+Mauritania,Sub-Saharan Africa,4.291999817,2017,Africa,123
+Congo,Sub-Saharan Africa,4.290999889,2017,Africa,124
+Georgia,Central and Eastern Europe,4.285999775,2017,Europe,125
+Dem. Rep. Congo,Sub-Saharan Africa,4.28000021,2017,Europe,126
+Mali,Sub-Saharan Africa,4.190000057,2017,Africa,127
+Ivory Coast,Sub-Saharan Africa,4.179999828,2017,Europe,128
+Cambodia,Southeastern Asia,4.168000221,2017,Asia,129
+Sudan,Sub-Saharan Africa,4.138999939,2017,Africa,130
+Ghana,Sub-Saharan Africa,4.119999886,2017,Africa,131
+Ukraine,Central and Eastern Europe,4.096000195,2017,Europe,132
+Uganda,Sub-Saharan Africa,4.080999851,2017,Africa,133
+Burkina Faso,Sub-Saharan Africa,4.032000065,2017,Africa,134
+Niger,Sub-Saharan Africa,4.027999878,2017,Africa,135
+Malawi,Sub-Saharan Africa,3.970000029,2017,Africa,136
+Chad,Sub-Saharan Africa,3.936000109,2017,Africa,137
+Zimbabwe,Sub-Saharan Africa,3.875,2017,Africa,138
+Lesotho,Sub-Saharan Africa,3.808000088,2017,Africa,139
+Angola,Sub-Saharan Africa,3.795000076,2017,Africa,140
+Afghanistan,Southern Asia,3.79399991,2017,Asia,141
+Botswana,Sub-Saharan Africa,3.766000032,2017,Africa,142
+Benin,Sub-Saharan Africa,3.657000065,2017,Africa,143
+Madagascar,Sub-Saharan Africa,3.644000053,2017,Africa,144
+Haiti,Latin America and Caribbean,3.602999926,2017,North America,145
+Yemen,Middle East and Northern Africa,3.592999935,2017,Asia,146
+S. Sudan,Sub-Saharan Africa,3.59100008,2017,Africa,147
+Liberia,Sub-Saharan Africa,3.532999992,2017,Africa,148
+Guinea,Sub-Saharan Africa,3.506999969,2017,Africa,149
+Togo,Sub-Saharan Africa,3.494999886,2017,Africa,150
+Rwanda,Sub-Saharan Africa,3.470999956,2017,Africa,151
+Syria,Middle East and Northern Africa,3.461999893,2017,Asia,152
+Tanzania,Sub-Saharan Africa,3.348999977,2017,Africa,153
+Burundi,Sub-Saharan Africa,2.904999971,2017,Africa,154
+Central African Rep.,Sub-Saharan Africa,2.693000078,2017,North America,155
+Finland,Western Europe,7.632,2018,Europe,1
+Norway,Western Europe,7.594,2018,Europe,2
+Denmark,Western Europe,7.555,2018,Europe,3
+Iceland,Western Europe,7.495,2018,Europe,4
+Switzerland,Western Europe,7.487,2018,Europe,5
+Netherlands,Western Europe,7.441,2018,Europe,6
+Canada,North America,7.328,2018,North America,7
+New Zealand,Australia and New Zealand,7.324,2018,Oceania,8
+Sweden,Western Europe,7.314,2018,Europe,9
+Australia,Australia and New Zealand,7.272,2018,Oceania,10
+United Kingdom,Western Europe,7.19,2018,Europe,11
+Austria,Western Europe,7.139,2018,Europe,12
+Costa Rica,Latin America and Caribbean,7.072,2018,North America,13
+Ireland,Western Europe,6.977,2018,Europe,14
+Germany,Western Europe,6.965,2018,Europe,15
+Belgium,Western Europe,6.927,2018,Europe,16
+Luxembourg,Western Europe,6.91,2018,Europe,17
+United States of America,North America,6.886,2018,North America,18
+Israel,Middle East and Northern Africa,6.814,2018,Asia,19
+United Arab Emirates,Middle East and Northern Africa,6.774,2018,Asia,20
+Czech Republic,Central and Eastern Europe,6.711,2018,Europe,21
+Malta,Western Europe,6.627,2018,Europe,22
+France,Western Europe,6.489,2018,Europe,23
+Mexico,Latin America and Caribbean,6.488,2018,North America,24
+Chile,Latin America and Caribbean,6.476,2018,South America,25
+Taiwan,Eastern Asia,6.441,2018,Asia,26
+Panama,Latin America and Caribbean,6.43,2018,North America,27
+Brazil,Latin America and Caribbean,6.419,2018,South America,28
+Argentina,Latin America and Caribbean,6.388,2018,South America,29
+Guatemala,Latin America and Caribbean,6.382,2018,North America,30
+Uruguay,Latin America and Caribbean,6.379,2018,North America,31
+Qatar,Middle East and Northern Africa,6.374,2018,Asia,32
+Saudi Arabia,Middle East and Northern Africa,6.371,2018,Asia,33
+Singapore,Southeastern Asia,6.343,2018,Asia,34
+Malaysia,Southeastern Asia,6.322,2018,Asia,35
+Spain,Western Europe,6.31,2018,Europe,36
+Colombia,Latin America and Caribbean,6.26,2018,South America,37
+Trinidad and Tobago,Latin America and Caribbean,6.192,2018,North America,38
+Slovakia,Central and Eastern Europe,6.173,2018,Europe,39
+El Salvador,Latin America and Caribbean,6.167,2018,North America,40
+Nicaragua,Latin America and Caribbean,6.141,2018,North America,41
+Poland,Central and Eastern Europe,6.123,2018,Europe,42
+Bahrain,Middle East and Northern Africa,6.105,2018,Asia,43
+Uzbekistan,Central and Eastern Europe,6.096,2018,Asia,44
+Kuwait,Middle East and Northern Africa,6.083,2018,Asia,45
+Thailand,Southeastern Asia,6.072,2018,Asia,46
+Italy,Western Europe,6,2018,Europe,47
+Ecuador,Latin America and Caribbean,5.973,2018,South America,48
+Belize,Latin America and Caribbean,5.956,2018,North America,49
+Lithuania,Central and Eastern Europe,5.952,2018,Europe,50
+Slovenia,Central and Eastern Europe,5.948,2018,Europe,51
+Romania,Central and Eastern Europe,5.945,2018,Europe,52
+Latvia,Central and Eastern Europe,5.933,2018,Europe,53
+Japan,Eastern Asia,5.915,2018,Asia,54
+Mauritius,Sub-Saharan Africa,5.891,2018,Africa,55
+Jamaica,Latin America and Caribbean,5.89,2018,North America,56
+South Korea,Eastern Asia,5.875,2018,Africa,57
+N. Cyprus,Western Europe,5.835,2018,Africa,58
+Russia,Central and Eastern Europe,5.81,2018,Europe,59
+Kazakhstan,Central and Eastern Europe,5.79,2018,Asia,60
+Cyprus,Western Europe,5.762,2018,Europe,61
+Bolivia,Latin America and Caribbean,5.752,2018,South America,62
+Estonia,Central and Eastern Europe,5.739,2018,Europe,63
+Paraguay,Latin America and Caribbean,5.681,2018,South America,64
+Peru,Latin America and Caribbean,5.663,2018,South America,65
+Kosovo,Central and Eastern Europe,5.662,2018,Europe,66
+Moldova,Central and Eastern Europe,5.64,2018,Europe,67
+Turkmenistan,Central and Eastern Europe,5.636,2018,Asia,68
+Hungary,Central and Eastern Europe,5.62,2018,Europe,69
+Libya,Middle East and Northern Africa,5.566,2018,Africa,70
+Philippines,Southeastern Asia,5.524,2018,Asia,71
+Honduras,Latin America and Caribbean,5.504,2018,North America,72
+Belarus,Central and Eastern Europe,5.483,2018,Europe,73
+Turkey,Middle East and Northern Africa,5.483,2018,Asia,74
+Pakistan,Southern Asia,5.472,2018,Asia,75
+Hong Kong,Eastern Asia,5.43,2018,North America,76
+Portugal,Western Europe,5.41,2018,Europe,77
+Serbia,Central and Eastern Europe,5.398,2018,Europe,78
+Greece,Western Europe,5.358,2018,Europe,79
+Lebanon,Middle East and Northern Africa,5.358,2018,Asia,80
+Montenegro,Central and Eastern Europe,5.347,2018,Europe,81
+Croatia,Central and Eastern Europe,5.321,2018,Europe,82
+Dominican Rep.,Latin America and Caribbean,5.302,2018,North America,83
+Algeria,Middle East and Northern Africa,5.295,2018,Africa,84
+Morocco,Middle East and Northern Africa,5.254,2018,Africa,85
+China,Eastern Asia,5.246,2018,Asia,86
+Azerbaijan,Central and Eastern Europe,5.201,2018,Europe,87
+Tajikistan,Central and Eastern Europe,5.199,2018,Asia,88
+Macedonia,Central and Eastern Europe,5.185,2018,Europe,89
+Jordan,Middle East and Northern Africa,5.161,2018,Asia,90
+Nigeria,Sub-Saharan Africa,5.155,2018,Africa,91
+Kyrgyzstan,Central and Eastern Europe,5.131,2018,Asia,92
+Bosnia and Herzegovina,Central and Eastern Europe,5.129,2018,Europe,93
+Mongolia,Eastern Asia,5.125,2018,Asia,94
+Vietnam,Southeastern Asia,5.103,2018,Asia,95
+Indonesia,Southeastern Asia,5.093,2018,Asia,96
+Bhutan,Southern Asia,5.082,2018,Asia,97
+Somalia,Sub-Saharan Africa,4.982,2018,Africa,98
+Cameroon,Sub-Saharan Africa,4.975,2018,Africa,99
+Bulgaria,Central and Eastern Europe,4.933,2018,Europe,100
+Nepal,Southern Asia,4.88,2018,Asia,101
+Venezuela,Latin America and Caribbean,4.806,2018,South America,102
+Gabon,Sub-Saharan Africa,4.758,2018,Africa,103
+Palestinian Territories,Middle East and Northern Africa,4.743,2018,Asia,104
+South Africa,Sub-Saharan Africa,4.724,2018,Africa,105
+Iran,Middle East and Northern Africa,4.707,2018,Asia,106
+Ivory Coast,Sub-Saharan Africa,4.671,2018,Europe,107
+Ghana,Sub-Saharan Africa,4.657,2018,Africa,108
+Senegal,Sub-Saharan Africa,4.631,2018,Africa,109
+Laos,Southeastern Asia,4.623,2018,Asia,110
+Tunisia,Middle East and Northern Africa,4.592,2018,Africa,111
+Albania,Central and Eastern Europe,4.586,2018,Europe,112
+Sierra Leone,Sub-Saharan Africa,4.571,2018,Africa,113
+Congo,Sub-Saharan Africa,4.559,2018,Africa,114
+Bangladesh,Southern Asia,4.5,2018,Asia,115
+Sri Lanka,Southern Asia,4.471,2018,Asia,116
+Iraq,Middle East and Northern Africa,4.456,2018,Asia,117
+Mali,Sub-Saharan Africa,4.447,2018,Africa,118
+Namibia,Sub-Saharan Africa,4.441,2018,Africa,119
+Cambodia,Southeastern Asia,4.433,2018,Asia,120
+Burkina Faso,Sub-Saharan Africa,4.424,2018,Africa,121
+Egypt,Middle East and Northern Africa,4.419,2018,Africa,122
+Mozambique,Sub-Saharan Africa,4.417,2018,Africa,123
+Kenya,Sub-Saharan Africa,4.41,2018,Africa,124
+Zambia,Sub-Saharan Africa,4.377,2018,Africa,125
+Mauritania,Sub-Saharan Africa,4.356,2018,Africa,126
+Ethiopia,Sub-Saharan Africa,4.35,2018,Africa,127
+Georgia,Central and Eastern Europe,4.34,2018,Europe,128
+Armenia,Central and Eastern Europe,4.321,2018,Europe,129
+Myanmar,Southeastern Asia,4.308,2018,Africa,130
+Chad,Sub-Saharan Africa,4.301,2018,Africa,131
+Dem. Rep. Congo,Sub-Saharan Africa,4.245,2018,Europe,132
+India,Southern Asia,4.19,2018,Asia,133
+Niger,Sub-Saharan Africa,4.166,2018,Africa,134
+Uganda,Sub-Saharan Africa,4.161,2018,Africa,135
+Benin,Sub-Saharan Africa,4.141,2018,Africa,136
+Sudan,Sub-Saharan Africa,4.139,2018,Africa,137
+Ukraine,Central and Eastern Europe,4.103,2018,Europe,138
+Togo,Sub-Saharan Africa,3.999,2018,Africa,139
+Guinea,Sub-Saharan Africa,3.964,2018,Africa,140
+Lesotho,Sub-Saharan Africa,3.808,2018,Africa,141
+Angola,Sub-Saharan Africa,3.795,2018,Africa,142
+Madagascar,Sub-Saharan Africa,3.774,2018,Africa,143
+Zimbabwe,Sub-Saharan Africa,3.692,2018,Africa,144
+Afghanistan,Southern Asia,3.632,2018,Asia,145
+Botswana,Sub-Saharan Africa,3.59,2018,Africa,146
+Malawi,Sub-Saharan Africa,3.587,2018,Africa,147
+Haiti,Latin America and Caribbean,3.582,2018,North America,148
+Liberia,Sub-Saharan Africa,3.495,2018,Africa,149
+Syria,Middle East and Northern Africa,3.462,2018,Asia,150
+Rwanda,Sub-Saharan Africa,3.408,2018,Africa,151
+Yemen,Middle East and Northern Africa,3.355,2018,Asia,152
+Tanzania,Sub-Saharan Africa,3.303,2018,Africa,153
+S. Sudan,Sub-Saharan Africa,3.254,2018,Africa,154
+Central African Rep.,Sub-Saharan Africa,3.083,2018,North America,155
+Burundi,Sub-Saharan Africa,2.905,2018,Africa,156
+Finland,Western Europe,7.769,2019,Europe,1
+Denmark,Western Europe,7.6,2019,Europe,2
+Norway,Western Europe,7.554,2019,Europe,3
+Iceland,Western Europe,7.494,2019,Europe,4
+Netherlands,Western Europe,7.488,2019,Europe,5
+Switzerland,Western Europe,7.48,2019,Europe,6
+Sweden,Western Europe,7.343,2019,Europe,7
+New Zealand,Australia and New Zealand,7.307,2019,Oceania,8
+Canada,North America,7.278,2019,North America,9
+Austria,Western Europe,7.246,2019,Europe,10
+Australia,Australia and New Zealand,7.228,2019,Oceania,11
+Costa Rica,Latin America and Caribbean,7.167,2019,North America,12
+Israel,Middle East and Northern Africa,7.139,2019,Asia,13
+Luxembourg,Western Europe,7.09,2019,Europe,14
+United Kingdom,Western Europe,7.054,2019,Europe,15
+Ireland,Western Europe,7.021,2019,Europe,16
+Germany,Western Europe,6.985,2019,Europe,17
+Belgium,Western Europe,6.923,2019,Europe,18
+United States of America,North America,6.892,2019,North America,19
+Czech Republic,Central and Eastern Europe,6.852,2019,Europe,20
+United Arab Emirates,Middle East and Northern Africa,6.825,2019,Asia,21
+Malta,Western Europe,6.726,2019,Europe,22
+Mexico,Latin America and Caribbean,6.595,2019,North America,23
+France,Western Europe,6.592,2019,Europe,24
+Taiwan,Eastern Asia,6.446,2019,Asia,25
+Chile,Latin America and Caribbean,6.444,2019,South America,26
+Guatemala,Latin America and Caribbean,6.436,2019,North America,27
+Saudi Arabia,Middle East and Northern Africa,6.375,2019,Asia,28
+Qatar,Middle East and Northern Africa,6.374,2019,Asia,29
+Spain,Western Europe,6.354,2019,Europe,30
+Panama,Latin America and Caribbean,6.321,2019,North America,31
+Brazil,Latin America and Caribbean,6.3,2019,South America,32
+Uruguay,Latin America and Caribbean,6.293,2019,North America,33
+Singapore,Southeastern Asia,6.262,2019,Asia,34
+El Salvador,Latin America and Caribbean,6.253,2019,North America,35
+Italy,Western Europe,6.223,2019,Europe,36
+Bahrain,Middle East and Northern Africa,6.199,2019,Asia,37
+Slovakia,Central and Eastern Europe,6.198,2019,Europe,38
+Trinidad and Tobago,Latin America and Caribbean,6.192,2019,North America,39
+Poland,Central and Eastern Europe,6.182,2019,Europe,40
+Uzbekistan,Central and Eastern Europe,6.174,2019,Asia,41
+Lithuania,Central and Eastern Europe,6.149,2019,Europe,42
+Colombia,Latin America and Caribbean,6.125,2019,South America,43
+Slovenia,Central and Eastern Europe,6.118,2019,Europe,44
+Nicaragua,Latin America and Caribbean,6.105,2019,North America,45
+Kosovo,Central and Eastern Europe,6.1,2019,Europe,46
+Argentina,Latin America and Caribbean,6.086,2019,South America,47
+Romania,Central and Eastern Europe,6.07,2019,Europe,48
+Cyprus,Western Europe,6.046,2019,Europe,49
+Ecuador,Latin America and Caribbean,6.028,2019,South America,50
+Kuwait,Middle East and Northern Africa,6.021,2019,Asia,51
+Thailand,Southeastern Asia,6.008,2019,Asia,52
+Latvia,Central and Eastern Europe,5.94,2019,Europe,53
+South Korea,Eastern Asia,5.895,2019,Africa,54
+Estonia,Central and Eastern Europe,5.893,2019,Europe,55
+Jamaica,Latin America and Caribbean,5.89,2019,North America,56
+Mauritius,Sub-Saharan Africa,5.888,2019,Africa,57
+Japan,Eastern Asia,5.886,2019,Asia,58
+Honduras,Latin America and Caribbean,5.86,2019,North America,59
+Kazakhstan,Central and Eastern Europe,5.809,2019,Asia,60
+Bolivia,Latin America and Caribbean,5.779,2019,South America,61
+Hungary,Central and Eastern Europe,5.758,2019,Europe,62
+Paraguay,Latin America and Caribbean,5.743,2019,South America,63
+N. Cyprus,Western Europe,5.718,2019,Africa,64
+Peru,Latin America and Caribbean,5.697,2019,South America,65
+Portugal,Western Europe,5.693,2019,Europe,66
+Pakistan,Southern Asia,5.653,2019,Asia,67
+Russia,Central and Eastern Europe,5.648,2019,Europe,68
+Philippines,Southeastern Asia,5.631,2019,Asia,69
+Serbia,Central and Eastern Europe,5.603,2019,Europe,70
+Moldova,Central and Eastern Europe,5.529,2019,Europe,71
+Libya,Middle East and Northern Africa,5.525,2019,Africa,72
+Montenegro,Central and Eastern Europe,5.523,2019,Europe,73
+Tajikistan,Central and Eastern Europe,5.467,2019,Asia,74
+Croatia,Central and Eastern Europe,5.432,2019,Europe,75
+Hong Kong,Eastern Asia,5.43,2019,North America,76
+Dominican Rep.,Latin America and Caribbean,5.425,2019,North America,77
+Bosnia and Herzegovina,Central and Eastern Europe,5.386,2019,Europe,78
+Turkey,Middle East and Northern Africa,5.373,2019,Asia,79
+Malaysia,Southeastern Asia,5.339,2019,Asia,80
+Belarus,Central and Eastern Europe,5.323,2019,Europe,81
+Greece,Western Europe,5.287,2019,Europe,82
+Mongolia,Eastern Asia,5.285,2019,Asia,83
+Macedonia,Central and Eastern Europe,5.274,2019,Europe,84
+Nigeria,Sub-Saharan Africa,5.265,2019,Africa,85
+Kyrgyzstan,Central and Eastern Europe,5.261,2019,Asia,86
+Turkmenistan,Central and Eastern Europe,5.247,2019,Asia,87
+Algeria,Middle East and Northern Africa,5.211,2019,Africa,88
+Morocco,Middle East and Northern Africa,5.208,2019,Africa,89
+Azerbaijan,Central and Eastern Europe,5.208,2019,Europe,90
+Lebanon,Middle East and Northern Africa,5.197,2019,Asia,91
+Indonesia,Southeastern Asia,5.192,2019,Asia,92
+China,Eastern Asia,5.191,2019,Asia,93
+Vietnam,Southeastern Asia,5.175,2019,Asia,94
+Bhutan,Southern Asia,5.082,2019,Asia,95
+Cameroon,Sub-Saharan Africa,5.044,2019,Africa,96
+Bulgaria,Central and Eastern Europe,5.011,2019,Europe,97
+Ghana,Sub-Saharan Africa,4.996,2019,Africa,98
+Ivory Coast,Sub-Saharan Africa,4.944,2019,Europe,99
+Nepal,Southern Asia,4.913,2019,Asia,100
+Jordan,Middle East and Northern Africa,4.906,2019,Asia,101
+Benin,Sub-Saharan Africa,4.883,2019,Africa,102
+Congo,Sub-Saharan Africa,4.812,2019,Africa,103
+Gabon,Sub-Saharan Africa,4.799,2019,Africa,104
+Laos,Southeastern Asia,4.796,2019,Asia,105
+South Africa,Sub-Saharan Africa,4.722,2019,Africa,106
+Albania,Central and Eastern Europe,4.719,2019,Europe,107
+Venezuela,Latin America and Caribbean,4.707,2019,South America,108
+Cambodia,Southeastern Asia,4.7,2019,Asia,109
+Palestinian Territories,Middle East and Northern Africa,4.696,2019,Asia,110
+Senegal,Sub-Saharan Africa,4.681,2019,Africa,111
+Somalia,Sub-Saharan Africa,4.668,2019,Africa,112
+Namibia,Sub-Saharan Africa,4.639,2019,Africa,113
+Niger,Sub-Saharan Africa,4.628,2019,Africa,114
+Burkina Faso,Sub-Saharan Africa,4.587,2019,Africa,115
+Armenia,Central and Eastern Europe,4.559,2019,Europe,116
+Iran,Middle East and Northern Africa,4.548,2019,Asia,117
+Guinea,Sub-Saharan Africa,4.534,2019,Africa,118
+Georgia,Central and Eastern Europe,4.519,2019,Europe,119
+Gambia,#N/A,4.516,2019,Africa,120
+Kenya,Sub-Saharan Africa,4.509,2019,Africa,121
+Mauritania,Sub-Saharan Africa,4.49,2019,Africa,122
+Mozambique,Sub-Saharan Africa,4.466,2019,Africa,123
+Tunisia,Middle East and Northern Africa,4.461,2019,Africa,124
+Bangladesh,Southern Asia,4.456,2019,Asia,125
+Iraq,Middle East and Northern Africa,4.437,2019,Asia,126
+Dem. Rep. Congo,Sub-Saharan Africa,4.418,2019,Europe,127
+Mali,Sub-Saharan Africa,4.39,2019,Africa,128
+Sierra Leone,Sub-Saharan Africa,4.374,2019,Africa,129
+Sri Lanka,Southern Asia,4.366,2019,Asia,130
+Myanmar,Southeastern Asia,4.36,2019,Africa,131
+Chad,Sub-Saharan Africa,4.35,2019,Africa,132
+Ukraine,Central and Eastern Europe,4.332,2019,Europe,133
+Ethiopia,Sub-Saharan Africa,4.286,2019,Africa,134
+Swaziland,Sub-Saharan Africa,4.212,2019,South America,135
+Uganda,Sub-Saharan Africa,4.189,2019,Africa,136
+Egypt,Middle East and Northern Africa,4.166,2019,Africa,137
+Zambia,Sub-Saharan Africa,4.107,2019,Africa,138
+Togo,Sub-Saharan Africa,4.085,2019,Africa,139
+India,Southern Asia,4.015,2019,Asia,140
+Liberia,Sub-Saharan Africa,3.975,2019,Africa,141
+Comoros,Sub-Saharan Africa,3.973,2019,Africa,142
+Madagascar,Sub-Saharan Africa,3.933,2019,Africa,143
+Lesotho,Sub-Saharan Africa,3.802,2019,Africa,144
+Burundi,Sub-Saharan Africa,3.775,2019,Africa,145
+Zimbabwe,Sub-Saharan Africa,3.663,2019,Africa,146
+Haiti,Latin America and Caribbean,3.597,2019,North America,147
+Botswana,Sub-Saharan Africa,3.488,2019,Africa,148
+Syria,Middle East and Northern Africa,3.462,2019,Asia,149
+Malawi,Sub-Saharan Africa,3.41,2019,Africa,150
+Yemen,Middle East and Northern Africa,3.38,2019,Asia,151
+Rwanda,Sub-Saharan Africa,3.334,2019,Africa,152
+Tanzania,Sub-Saharan Africa,3.231,2019,Africa,153
+Afghanistan,Southern Asia,3.203,2019,Asia,154
+Central African Rep.,Sub-Saharan Africa,3.083,2019,North America,155
+S. Sudan,Sub-Saharan Africa,2.853,2019,Africa,156

@@ -25,10 +25,12 @@
   <p>Figure 1: Map showing countries with their respective happiness level.</p>
 </div>
   
-
+<div class = "box-2">
   <h2>Happiest Country in the World</h2>
   <div id="horizontal_bar_chart"></div>
   <p>Figure 2: Finland has the highest happiness score in 2019.</p>
+</div>
+
 
   <script type="text/javascript">
     var vis1 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/chloropleth_map_happiness_level.vl.json";
@@ -40,9 +42,9 @@
     vegaEmbed('#horizontal_bar_chart', vis2).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
+  
   </script>
 
-  
 
 </body>
 </html>
