@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "background": "whitesmoke",
-  "width": "800",
-  "height": "400",
+  "width": 800,
+  "height": 400,
   "title": {
     "text": "World Happiness from 2015 to 2019",
     "subtitle": ["Let's find out which is the happiest country! 🌏"],

@@ -39,33 +39,41 @@
       </p>
     </div>
 
-    <div class="first-map"> 
-      <div id="choropleth_map" class="vis-container"></div>
+    <div class="chloroplethmap"> 
+      <div id="chloroplethmap"></div>
     </div>
 
   
-    
     <div class = 'subheader1'>
       <h2>
-        Happiest and Saddest countries
+        Happiest and Saddest Countries
       </h2>      
     </div>
 
+    <div class="bar_and_line"> 
+      <div id="horizontalBarChart_slopechart"></div>
+    </div>
+
     
-    
- 
-    
-  <div class = "box-2">
-    <h2>Happiest Country in the World</h2>
-    <div id="horizontalBarChart_slopechart"></div>
-    <p>Figure 2: Click to see the trend.</p>
-  </div>
+  
+
+  <div class = 'subheader2'>
+    <h2>
+      Factors Affecting Happiness
+    </h2>      
+  </div> 
 
   <div class = "box-2">
-    <h2>What's the factors affecting happiness?</h2>
     <div id="scatterplot_zoom"></div>
     <p>Figure 3: Choose the option.</p>
   </div>
+
+  <div class = 'subheader3'>
+    <h2>
+      Worldwide Average Happiness
+    </h2>      
+  </div> 
+
 
   <div class = "box-2">
     <h2>Overall Happiness Level for The Past 14 Year</h2>
@@ -74,28 +82,36 @@
   </div>
 
 
-    <script type="text/javascript">
-      var vis1 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/chloropleth_top_coutries.json";
-      vegaEmbed('#choropleth_map', vis1).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-      
-      var vis2 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/horizontalBarChart_slopechart.json";
-      vegaEmbed('#horizontalBarChart_slopechart', vis2).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-    
-      var vis3 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/scatterplot_zoom.vl.json";
-      vegaEmbed('#scatterplot_zoom', vis3).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
+  <script type="text/javascript">
+    var chloroplethmap = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/chloropleth_top_coutries.json";
+    var horizontalBarChart_slopechart = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/horizontalBarChart_slopechart.json";
+    var scatterplot_zoom = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/scatterplot_zoom.vl.json";
+    var waterfall = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/waterfall.json";
 
-      var vis4 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/waterfall.json";
-      vegaEmbed('#waterfall', vis4).then(function(result) {
-        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-      }).catch(console.error);
-    </script>
+    vegaEmbed('#chloroplethmap', chloroplethmap, {
+      "actions": false
+    }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
 
+    vegaEmbed('#horizontalBarChart_slopechart', horizontalBarChart_slopechart, {
+      "actions": false
+    }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#scatterplot_zoom', scatterplot_zoom, {
+      "actions": false
+    }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#waterfall', waterfall, {
+      "actions": false
+    }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
 
   </body>
 </html>

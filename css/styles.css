@@ -19,56 +19,51 @@ body{
 	font-size: 30px;
 	font-family: serif;
 	height: 125px;
+	width: 100%;
 	font-weight: bolder;
 }
 
 .intro_1{
-	padding-left: 7%;
-	padding-right: 7%;
+	padding-left: 10%;
+	padding-right: 10%;
 	font-size: 30px;
 }
 	
 
 .intro_2{
-	padding-left: 7%;
-	padding-right: 7%;
+	padding-left: 10%;
+	padding-right: 10%;
 	font-size: 20px;
 }
 
-.first-map{
+.chloroplethmap{
 	margin-top: 16px;
 	width: 100%;
 	display: flex;
 	justify-content: center;
-	 font-size: 10px;
+	padding-bottom: 20px;
+	font-size: 15px;
 }
 
-#choropleth_map {
-	left: 100px;
-	right: 100px;
-	height: 200px;
-	width: 100px;
-}
 
-.subheader1{
+.subheader1, .subheader2, .subheader3{
 	background-color:lightsteelblue;
-	padding-left: 7%;
-	padding-right: 7%;
+	padding-left: 10%;
+	padding-right: 10%;
 	padding-top: 8px;
 	padding-bottom: 8px;
 	font-size: 30px;
 	font-family: serif;
-
 }
 
 
-
-
-#horizontalBarChart_slopechart {
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
+#bar_and_line{
+	margin-top: 16px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 20px;
+	font-size: 15px;
 }
 
 

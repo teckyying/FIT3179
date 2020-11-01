@@ -43,15 +43,15 @@
       "selection": {
         "click": {"fields": ["Country"], "type": "single", "clear": false}
       },
-      "width": 400,
-      "height": 800
+      "width": 300,
+      "height": 550
     },
     {
       "data": {
         "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2015_to_2019.csv"
       },
       "width": 350,
-      "height": 500,
+      "height": 400,
       "transform": [
         {"filter": {"selection": "click"}},
         {
