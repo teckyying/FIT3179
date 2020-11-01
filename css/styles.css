@@ -36,14 +36,14 @@ body{
 }
 
 .first-map{
-	margin-top: 100px;
-	 width: 50%;
-
-	 justify-content: center;
+	margin-top: 16px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	 font-size: 10px;
 }
 
 #choropleth_map {
-	align-items: center;
 	left: 100px;
 	right: 100px;
 	height: 200px;
