@@ -57,7 +57,7 @@ body{
 }
 
 
-#bar_and_line{
+.bar_and_line{
 	margin-top: 16px;
 	width: 100%;
 	display: flex;
@@ -66,9 +66,14 @@ body{
 	font-size: 15px;
 }
 
+.description2{
+	font-size: 10px;
+	padding-left: 10%;
+	padding-right: 10%;
+	line-height: 1.2em;
+}
 
-
-#scatterplot_zoom{
+.scatterplot_zoom{
 	left: 50px;
 	right: 50px;
 	height: 1000px;

@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "spacing": 50,
+  "spacing": 100,
   "hconcat": [
     {
       "description": "A bar chart that sorts the y-values by the x-values.",
