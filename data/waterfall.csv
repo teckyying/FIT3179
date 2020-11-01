@@ -13,6 +13,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.460421473,5.194424683,0.061007189,Worldwide,Worldwide
 2018,5.502134341,5.194424683,0.041712868,Worldwide,Worldwide
 2019,5.407096154,5.194424683,-0.095038187,Worldwide,Worldwide
+Total,0,5.194424683,0,Worldwide,Worldwide
 2006,5.256085453,5.256085453,0,Continent,Asia
 2007,5.335582256,5.256085453,0.079496803,Continent,Asia
 2008,5.156052214,5.256085453,-0.179530043,Continent,Asia
@@ -27,6 +28,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.297621914,5.256085453,-0.08131516,Continent,Asia
 2018,5.212482214,5.256085453,-0.0851397,Continent,Asia
 2019,5.272536585,5.256085453,0.060054371,Continent,Asia
+Total,0,5.256085453,0,Continent,Asia
 2006,5.769219828,5.769219828,0,Continent,Europe
 2007,5.628680891,5.769219828,-0.140538937,Continent,Europe
 2008,6.328368444,5.769219828,0.699687553,Continent,Europe
@@ -41,6 +43,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,6.126504135,5.769219828,0.096560627,Continent,Europe
 2018,6.245694331,5.769219828,0.119190196,Continent,Europe
 2019,6.138622222,5.769219828,-0.107072109,Continent,Europe
+Total,0,5.769219828,0,Continent,Europe
 2006,4.07425033,4.07425033,0,Continent,Africa
 2007,4.435917366,4.07425033,0.361667037,Continent,Africa
 2008,4.296342859,4.07425033,-0.139574507,Continent,Africa
@@ -55,6 +58,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,4.39852553,4.07425033,0.128276402,Continent,Africa
 2018,4.578618137,4.07425033,0.180092607,Continent,Africa
 2019,4.389431818,4.07425033,-0.189186319,Continent,Africa
+Total,0,4.07425033,0,Continent,Africa
 2006,5.627871037,5.627871037,0,Continent,South America
 2007,5.670537419,5.627871037,0.042666382,Continent,South America
 2008,5.782561255,5.627871037,0.112023836,Continent,South America
@@ -69,6 +73,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.917078447,5.627871037,-0.004379558,Continent,South America
 2018,5.771580029,5.627871037,-0.145498419,Continent,South America
 2019,5.764909091,5.627871037,-0.006670938,Continent,South America
+Total,0,5.627871037,0,Continent,South America
 2006,7.305014133,7.305014133,0,Continent,Oceania
 2007,7.444782019,7.305014133,0.139767886,Continent,Oceania
 2008,7.317464114,7.305014133,-0.127317905,Continent,Oceania
@@ -83,6 +88,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,7.292110205,7.305014133,0.05422616,Continent,Oceania
 2018,7.273639679,7.305014133,-0.018470526,Continent,Oceania
 2019,7.2675,7.305014133,-0.006139679,Continent,Oceania
+Total,0,7.305014133,0,Continent,Oceania
 2006,5.703043504,5.703043504,0,Continent,North America
 2007,6.259375811,6.259375811,0.556332306,Continent,North America
 2008,6.074319601,6.259375811,-0.18505621,Continent,North America
@@ -97,6 +103,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,6.252402581,6.259375811,0.17271997,Continent,North America
 2018,6.155329683,6.259375811,-0.097072898,Continent,North America
 2019,6.154692308,6.259375811,-0.000637375,Continent,North America
+Total,0,6.259375811,0,Continent,North America
 2006,4.644593358,4.644593358,0,Region,Southern Asia
 2007,4.893733215,4.644593358,0.249139857,Region,Southern Asia
 2008,4.53449885,4.644593358,-0.359234365,Region,Southern Asia
@@ -111,6 +118,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,4.319351474,4.644593358,-0.401355465,Region,Southern Asia
 2018,4.29890879,4.644593358,-0.020442685,Region,Southern Asia
 2019,4.526857143,4.644593358,0.227948353,Region,Southern Asia
+Total,0,4.644593358,0,Region,Southern Asia
 2006,5.018338621,5.018338621,0,Region,Central and Eastern Europe
 2007,5.046239109,5.018338621,0.027900489,Region,Central and Eastern Europe
 2008,5.203582414,5.018338621,0.157343305,Region,Central and Eastern Europe
@@ -125,6 +133,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.579567597,5.018338621,0.138188773,Region,Central and Eastern Europe
 2018,5.647239245,5.018338621,0.067671648,Region,Central and Eastern Europe
 2019,5.561517241,5.018338621,-0.085722004,Region,Central and Eastern Europe
+Total,0,5.018338621,0,Region,Central and Eastern Europe
 2006,5.870535564,5.870535564,0,Region,Middle East and Northern Africa
 2007,5.604300857,5.870535564,-0.266234708,Region,Middle East and Northern Africa
 2008,5.277528238,5.870535564,-0.326772618,Region,Middle East and Northern Africa
@@ -139,6 +148,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.286947559,5.870535564,-0.094548688,Region,Middle East and Northern Africa
 2018,5.067794102,5.870535564,-0.219153457,Region,Middle East and Northern Africa
 2019,5.237,5.870535564,0.169205898,Region,Middle East and Northern Africa
+Total,0,5.870535564,0,Region,Middle East and Northern Africa
 2006,4.07425033,4.07425033,0,Region,Sub-Saharan Africa
 2007,4.380687702,4.07425033,0.306437372,Region,Sub-Saharan Africa
 2008,4.283442928,4.07425033,-0.097244773,Region,Sub-Saharan Africa
@@ -153,6 +163,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,4.35324504,4.07425033,0.235121642,Region,Sub-Saharan Africa
 2018,4.519968664,4.07425033,0.166723624,Region,Sub-Saharan Africa
 2019,4.30005,4.07425033,-0.219918664,Region,Sub-Saharan Africa
+Total,0,4.07425033,0,Region,Sub-Saharan Africa
 2006,5.589606536,5.589606536,0,Region,Latin America and Caribbean
 2007,5.802009078,5.589606536,0.212402542,Region,Latin America and Caribbean
 2008,5.797572899,5.589606536,-0.004436179,Region,Latin America and Caribbean
@@ -167,6 +178,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,6.002161446,5.589606536,0.105180232,Region,Latin America and Caribbean
 2018,5.953037805,5.589606536,-0.049123641,Region,Latin America and Caribbean
 2019,5.954428571,5.589606536,0.001390766,Region,Latin America and Caribbean
+Total,0,5.589606536,0,Region,Latin America and Caribbean
 2006,7.305014133,7.305014133,0,Region,Australia and New Zealand
 2007,7.444782019,7.305014133,0.139767886,Region,Australia and New Zealand
 2008,7.317464114,7.305014133,-0.127317905,Region,Australia and New Zealand
@@ -181,6 +193,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,7.292110205,7.305014133,0.05422616,Region,Australia and New Zealand
 2018,7.273639679,7.305014133,-0.018470526,Region,Australia and New Zealand
 2019,7.2675,7.305014133,-0.006139679,Region,Australia and New Zealand
+Total,0,7.305014133,0,Region,Australia and New Zealand
 2006,6.881718397,6.881718397,0,Region,Western Europe
 2007,7.020117071,6.881718397,0.138398674,Region,Western Europe
 2008,7.165480423,6.881718397,0.145363352,Region,Western Europe
@@ -195,6 +208,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,6.891960478,6.881718397,0.125034212,Region,Western Europe
 2018,6.898085189,6.881718397,0.006124711,Region,Western Europe
 2019,6.842190476,6.881718397,-0.055894713,Region,Western Europe
+Total,0,6.881718397,0,Region,Western Europe
 2006,5.239425778,5.239425778,0,Region,Southeastern Asia
 2007,5.496604979,5.239425778,0.257179201,Region,Southeastern Asia
 2008,5.309534073,5.239425778,-0.187070906,Region,Southeastern Asia
@@ -209,6 +223,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.193576038,5.239425778,-0.066556138,Region,Southeastern Asia
 2018,5.402425766,5.239425778,0.208849728,Region,Southeastern Asia
 2019,5.273666667,5.239425778,-0.128759099,Region,Southeastern Asia
+Total,0,5.239425778,0,Region,Southeastern Asia
 2006,7.18179369,7.18179369,0,Region,North America
 2007,7.497220278,7.18179369,0.315426588,Region,North America
 2008,7.38299489,7.18179369,-0.114225388,Region,North America
@@ -223,6 +238,7 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,7.203313828,7.18179369,0.179090977,Region,North America
 2018,7.029090643,7.18179369,-0.174223185,Region,North America
 2019,7.085,7.18179369,0.055909357,Region,North America
+Total,0,7.18179369,0,Region,North America
 2006,5.398227573,5.398227573,0,Region,Eastern Asia
 2007,5.369348764,5.398227573,-0.028878809,Region,Eastern Asia
 2008,5.220758836,5.398227573,-0.148589929,Region,Eastern Asia
@@ -237,3 +253,4 @@ Year,happinessScore,startScore,difference,area,areaName
 2017,5.656566858,5.398227573,-0.063173532,Region,Eastern Asia
 2018,5.739373684,5.398227573,0.082806826,Region,Eastern Asia
 2019,5.688833333,5.398227573,-0.050540351,Region,Eastern Asia
+Total,0,5.398227573,0,Region,Eastern Asia
