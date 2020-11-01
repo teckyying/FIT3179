@@ -1,3 +1,69 @@
+body{
+	
+	background-color: whitesmoke; /*default background colour*/
+	color: black;  /*default word colour*/
+
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	font-weight: normal; /*include a value:100*/
+
+	line-height: 1.4em;
+}
+
+.mainHeader{
+	background-color:lightgray;
+	border: 10px lightgray solid;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: center;
+	font-size: 30px;
+	font-family: serif;
+	height: 125px;
+	font-weight: bolder;
+}
+
+.intro_1{
+	padding-left: 7%;
+	padding-right: 7%;
+	font-size: 30px;
+}
+	
+
+.intro_2{
+	padding-left: 7%;
+	padding-right: 7%;
+	font-size: 20px;
+}
+
+.first-map{
+	margin-top: 100px;
+	 width: 50%;
+
+	 justify-content: center;
+}
+
+#choropleth_map {
+	align-items: center;
+	left: 100px;
+	right: 100px;
+	height: 200px;
+	width: 100px;
+}
+
+.subheader1{
+	background-color:lightsteelblue;
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 30px;
+	font-family: serif;
+
+}
+
+
+
+
 #horizontalBarChart_slopechart {
 	left: 100px;
 	right: 100px;
@@ -5,12 +71,7 @@
 	width: 800px;*/
 }
 
-#choropleth_map {
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
-}
+
 
 #scatterplot_zoom{
 	left: 50px;
@@ -19,32 +80,3 @@
 	width: 800px; 
 }
 
-body{
-	font-family: 'Source Sans Pro', sans-serif;
-
-}
-
-.container{
-	width: 100%;
-	/* height: 100px; */
-	/* margin: auto; */
-	
-}
-.box-1{
-	background-color: lightsteelblue;
-	border: 10px lightsteelblue solid;
-	padding-left: 70px;
-	padding-right: 70px;
-	text-align: left;
-	font-size: 30px;
-	font-family: serif;
-}
-
-.box-2{
-	background-color:whitesmoke;
-	padding-top: 10px;
-	padding-left: 70px;
-	padding-right: 70px;
-	padding-bottom: 10px;
-
-}

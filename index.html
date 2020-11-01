@@ -6,55 +6,96 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
     <!-- Import vega-embed -->
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-    
     <!-- CSS file -->
     <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+   
+    <!-- Import pure.css -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
   </head>
 
-<body>
-  <div class = "container">
-    <div class = "box-1">
-      <h1>Happiness and Life Satisfaction</h1>
+  <body>
+     <!-- Header for title of visualisation -->
+    <div class = 'mainHeader'>
+      <h1>Happiness Across The Worls</h1>
     </div>
-  </div>
-  
-  
-<div class = "box-2">
-  <h2>Happiness Across The World</h2>
-  <div id="choropleth_map"></div>
-  <p>Figure 1: Map showing countries with their respective happiness level.</p>
-</div>
-  
-<div class = "box-2">
-  <h2>Happiest Country in the World</h2>
-  <div id="horizontalBarChart_slopechart"></div>
-  <p>Figure 2: Finland has the highest happiness score in 2019.</p>
-</div>
-
-<div class = "box-2">
-  <h2>Happiest Country in the World</h2>
-  <div id="scatterplot_zoom"></div>
-  <p>Figure 3: Finland has the highest happiness score in 2019.</p>
-</div>
-
-
-  <script type="text/javascript">
-    var vis1 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/chloropleth_top_coutries.json";
-    vegaEmbed('#choropleth_map', vis1).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+   
     
-    var vis2 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/horizontalBarChart_slopechart.json";
-    vegaEmbed('#horizontalBarChart_slopechart', vis2).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
+    <div class="intro_1">
+      <P>
+        Money cannot buy happiness - at least six other factors are critical for nations to have happy people.
+      </P> 
+    </div>
+
+    <div class = "intro_2">
+      <p>  
+        How happy are people today? Were people happier in the past? How satisfied with their lives are people in different countries? How do our living conditions affect our happiness? 
+      </p>
+      <p>
+        These are difficult questions to answer; but they are questions that undoubtedly matter for each of us personally.
+        Let's find out by taking a look at the visualisation below!
+      </p>
+    </div>
+
+    <div class="first-map"> 
+      <div id="choropleth_map" class="vis-container"></div>
+    </div>
+
   
-    var vis3 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/scatterplot_zoom.vl.json";
-    vegaEmbed('#scatterplot_zoom', vis3).then(function(result) {
-      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-    }).catch(console.error);
-  </script>
+    
+    <div class = 'subheader1'>
+      <h2>
+        Happiest and Saddest countries
+      </h2>      
+    </div>
+
+    
+    
+ 
+    
+  <div class = "box-2">
+    <h2>Happiest Country in the World</h2>
+    <div id="horizontalBarChart_slopechart"></div>
+    <p>Figure 2: Click to see the trend.</p>
+  </div>
+
+  <div class = "box-2">
+    <h2>What's the factors affecting happiness?</h2>
+    <div id="scatterplot_zoom"></div>
+    <p>Figure 3: Choose the option.</p>
+  </div>
+
+  <div class = "box-2">
+    <h2>Overall Happiness Level for The Past 14 Year</h2>
+    <div id="waterfall"></div>
+    <p>Figure 4: Happiness filtered by region.</p>
+  </div>
 
 
-</body>
+    <script type="text/javascript">
+      var vis1 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/chloropleth_top_coutries.json";
+      vegaEmbed('#choropleth_map', vis1).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      
+      var vis2 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/horizontalBarChart_slopechart.json";
+      vegaEmbed('#horizontalBarChart_slopechart', vis2).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    
+      var vis3 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/scatterplot_zoom.vl.json";
+      vegaEmbed('#scatterplot_zoom', vis3).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+
+      var vis4 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/waterfall.json";
+      vegaEmbed('#waterfall', vis4).then(function(result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+    </script>
+
+
+  </body>
 </html>
