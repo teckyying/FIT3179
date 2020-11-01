@@ -8,6 +8,31 @@
   },
   "params": [
     {
+      "name": "factor",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "GDP_per_capita",
+          "SocialSupport",
+          "HealthyLifeExpectancy",
+          "FreedomToMakeLifeChoices",
+          "Generosity",
+          "PerceptionsOfCorruption"
+        ],
+        "labels": [
+          "Choose factor",
+          "GDP Per Capita",
+          "Social Support",
+          "Healthy Life Expentancy",
+          "Freedom To Make Life Choices",
+          "Generosity",
+          "Perceptions Of Corruption"
+        ],
+        "name": "Explained by: "
+      }
+    },
+    {
       "name": "Population_Above",
       "value": 0,
       "bind": {
@@ -16,29 +41,6 @@
         "max": 300000000,
         "step": 10000,
         "name": "Population: "
-      }
-    },
-    {
-      "name": "factor",
-      "bind": {
-        "input": "select",
-        "options": [
-          "SocialSupport",
-          "GDP_per_capita",
-          "HealthyLifeExpectancy",
-          "FreedomToMakeLifeChoices",
-          "Generosity",
-          "PerceptionsOfCorruption"
-        ],
-        "labels": [
-          "Social Support",
-          "GDP Per Capita",
-          "Healthy Life Expentancy",
-          "Freedom To Make Life Choices",
-          "Generosity",
-          "Perceptions Of Corruption"
-        ],
-        "name": "Explained by: "
       }
     },
     {
@@ -77,15 +79,16 @@
   ],
   "encoding": {
     "x": {
-      "field": "SocialSupport",
+      "field": "GDP_per_capita",
       "type": "quantitative",
-      "title": "Social Support",
+      "title": "",
       "axis": {"tickCount": 4},
       "scale": {"type": "linear", "domain": [-0.5, 2]}
     },
     "y": {
       "field": "Happiness_Score",
       "type": "quantitative",
+      "title": "Happiness Score",
       "axis": {"tickCount": 8},
       "scale": {"type": "linear", "domain": [0, 8]}
     }
@@ -106,84 +109,9 @@
         },
         "grid": {"type": "interval", "bind": "scales"}
       },
-      "transform": [{"filter": "factor=='SocialSupport'"}],
-      "mark": {"type": "point", "filled": true},
-      "encoding": {
-        "size": {
-          "field": "Population",
-          "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
-            "range": [10, 20, 200, 1000, 2000, 10000]
-          },
-          "legend": {"format": ".1s"}
-        },
-        "stroke": {
-          "condition": {"selection": "hover", "value": "black"},
-          "value": null
-        },
-        "color": {
-          "field": "Continent",
-          "type": "nominal",
-          "scale": {
-            "domain": [
-              "Africa",
-              "Asia",
-              "Europe",
-              "North America",
-              "Oceania",
-              "South America"
-            ],
-            "range": [
-              "#800000",
-              "#74a9cf",
-              "#8c6bb1",
-              "#08589e",
-              "#ff8080",
-              "#99d8c9"
-            ]
-          }
-        },
-        "opacity": {
-          "condition": {"selection": "continent_highlight", "value": 0.65},
-          "value": 0.15
-        },
-        "tooltip": [
-          {"field": "Country", "type": "nominal"},
-          {
-            "field": "Happiness_Score",
-            "type": "quantitative",
-            "title": "Happiness Score"
-          },
-          {
-            "field": "SocialSupport",
-            "type": "quantitative",
-            "title": "Social Support"
-          },
-          {"field": "Region", "type": "nominal", "title": "Region"},
-          {"field": "Continent", "type": "nominal", "title": "Continent"},
-          {"field": "Population", "type": "quantitative", "title": "Population"}
-        ]
-      }
-    },
-    {
       "transform": [{"filter": "factor=='GDP_per_capita'"}],
       "mark": {"type": "point", "filled": true},
       "encoding": {
-        "x": {
-          "field": "GDP_per_capita",
-          "type": "quantitative",
-          "title": "GDP Per Capita",
-          "axis": {"tickCount": 4},
-          "scale": {"type": "linear", "domain": [0, 2]}
-        },
-        "y": {
-          "field": "Happiness_Score",
-          "type": "quantitative",
-          "axis": {"tickCount": 8},
-          "scale": {"type": "linear", "domain": [0, 8]}
-        },
         "size": {
           "field": "Population",
           "type": "quantitative",
@@ -221,7 +149,7 @@
           }
         },
         "opacity": {
-          "condition": {"selection": "continent_highlight", "value": 0.65},
+          "condition": {"selection": "continent_highlight", "value": 0.6},
           "value": 0.15
         },
         "tooltip": [
@@ -243,13 +171,13 @@
       }
     },
     {
-      "transform": [{"filter": "factor=='HealthyLifeExpectancy'"}],
+      "transform": [{"filter": "factor=='SocialSupport'"}],
       "mark": {"type": "point", "filled": true},
       "encoding": {
         "x": {
-          "field": "HealthyLifeExpectancy",
+          "field": "SocialSupport",
           "type": "quantitative",
-          "title": "Healthy Life Expentancy",
+          "title": "",
           "axis": {"tickCount": 4},
           "scale": {"type": "linear", "domain": [0, 2]}
         },
@@ -294,6 +222,85 @@
               "#99d8c9"
             ]
           }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.6},
+          "value": 0.15
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {
+            "field": "SocialSupport",
+            "type": "quantitative",
+            "title": "Social Support"
+          },
+          {"field": "Region", "type": "nominal", "title": "Region"},
+          {"field": "Continent", "type": "nominal", "title": "Continent"},
+          {"field": "Population", "type": "quantitative", "title": "Population"}
+        ]
+      }
+    },
+    {
+      "transform": [{"filter": "factor=='HealthyLifeExpectancy'"}],
+      "mark": {"type": "point", "filled": true},
+      "encoding": {
+        "x": {
+          "field": "HealthyLifeExpectancy",
+          "type": "quantitative",
+          "title": "",
+          "axis": {"tickCount": 4},
+          "scale": {"type": "linear", "domain": [0, 2]}
+        },
+        "y": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "axis": {"tickCount": 8},
+          "scale": {"type": "linear", "domain": [0, 8]}
+        },
+        "size": {
+          "field": "Population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "range": [10, 20, 200, 1000, 2000, 10000]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "stroke": {
+          "condition": {"selection": "hover", "value": "black"},
+          "value": null
+        },
+        "color": {
+          "field": "Continent",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
+            "range": [
+              "#800000",
+              "#74a9cf",
+              "#8c6bb1",
+              "#08589e",
+              "#ff8080",
+              "#99d8c9"
+            ]
+          }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.6},
+          "value": 0.15
         },
         "tooltip": [
           {"field": "Country", "type": "nominal"},
@@ -320,7 +327,7 @@
         "x": {
           "field": "FreedomToMakeLifeChoices",
           "type": "quantitative",
-          "title": "Freedom To Make Life Choices",
+          "title": "",
           "axis": {"tickCount": 4},
           "scale": {"type": "linear", "domain": [0, 2]}
         },
@@ -365,6 +372,10 @@
               "#99d8c9"
             ]
           }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.6},
+          "value": 0.15
         },
         "tooltip": [
           {"field": "Country", "type": "nominal"},
@@ -391,7 +402,7 @@
         "x": {
           "field": "Generosity",
           "type": "quantitative",
-          "title": "Generosity",
+          "title": "",
           "axis": {"tickCount": 4},
           "scale": {"type": "linear", "domain": [0, 2]}
         },
@@ -436,6 +447,10 @@
               "#99d8c9"
             ]
           }
+        },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.6},
+          "value": 0.15
         },
         "tooltip": [
           {"field": "Country", "type": "nominal"},
@@ -462,7 +477,7 @@
         "x": {
           "field": "PerceptionsOfCorruption",
           "type": "quantitative",
-          "title": "Perceptions Of Corruption",
+          "title": "",
           "axis": {"tickCount": 4},
           "scale": {"type": "linear", "domain": [0, 2]}
         },
@@ -508,6 +523,10 @@
             ]
           }
         },
+        "opacity": {
+          "condition": {"selection": "continent_highlight", "value": 0.6},
+          "value": 0.15
+        },
         "tooltip": [
           {"field": "Country", "type": "nominal"},
           {
@@ -530,7 +549,7 @@
       "mark": {
         "type": "text",
         "align": "right",
-        "baseline": "middle",
+        "baseline": "top",
         "dx": -12,
         "fontSize": 12,
         "fontStyle": "italic"
@@ -540,7 +559,7 @@
         "color": {"value": "black"},
         "opacity": {
           "condition": {
-            "test": "datum['Country'] == 'China' || datum['Country'] == 'Finland' || datum['Country'] == 'Australia' || datum['Country'] == 'Japan' || datum['Country'] == 'S. Sudan' || datum['Country'] == 'Syria' ||  datum['Country'] == 'United States of America' ||  datum['Country'] == 'Malaysia' ||  datum['Country'] == 'South Korea'",
+            "test": "datum['Country'] == 'China' || datum['Country'] == 'Finland' || datum['Country'] == 'Australia' || datum['Country'] == 'Japan' || datum['Country'] == 'S. Sudan' || datum['Country'] == 'Syria' ||  datum['Country'] == 'United States of America' ||  datum['Country'] == 'Malaysia'",
             "value": 1
           },
           "value": 0

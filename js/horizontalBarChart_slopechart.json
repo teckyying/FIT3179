@@ -1,0 +1,171 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "spacing": 50,
+  "hconcat": [
+    {
+      "description": "A bar chart that sorts the y-values by the x-values.",
+      "title": {
+        "text": "20 Happiest  and Saddest Countries in the World",
+        "subtitle": ["Click to see trend 📉"],
+        "subtitleFont": "Overpass",
+        "subtitleFontSize": 18,
+        "subtitlePadding": 10
+      },
+      "data": {
+        "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2019.csv"
+      },
+      "transform": [
+        {
+          "window": [{"op": "rank", "as": "rank"}],
+          "sort": [{"field": "Happiness_Score", "order": "descending"}]
+        },
+        {"filter": "(datum.rank <= 20) || (datum.rank > 136)"}
+      ],
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "aggregate": "sum",
+          "field": "Happiness_Score",
+          "title": "Happiness Score"
+        },
+        "y": {"field": "Country", "sort": "-x", "title": "Countries"},
+        "color": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "scale": {"scheme": "redpurple"},
+          "legend": {"title": "Happiness Score"}
+        },
+        "tooltip": [
+          {"field": "Country", "title": "Country"},
+          {"field": "rank", "title": "rank"}
+        ]
+      },
+      "selection": {
+        "click": {"fields": ["Country"], "type": "single", "clear": false}
+      },
+      "width": 400,
+      "height": 800
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2015_to_2019.csv"
+      },
+      "width": 350,
+      "height": 500,
+      "transform": [
+        {"filter": {"selection": "click"}},
+        {
+          "window": [{"op": "rank", "as": "Rank"}],
+          "groupby": ["Year"],
+          "frame": [null, null]
+        }
+      ],
+      "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field": "Happiness_Score", "type": "quantitative"}
+      },
+      "layer": [
+        {
+          "mark": {"type": "line", "strokeWidth": 4},
+          "selection": {
+            "highlight_bump": {"type": "multi", "fields": ["Country"]}
+          },
+          "encoding": {
+            "color": {
+              "field": "Country",
+              "type": "nominal",
+              "scale": {"scheme": "redpurple"}
+            },
+            "opacity": {
+              "condition": {"selection": "highlight_bump", "value": 1},
+              "value": 0.1
+            }
+          }
+        },
+        {
+          "mark": {"type": "rule", "orient": "vertical"},
+          "selection": {
+            "highlight_bump_text": {
+              "type": "single",
+              "fields": ["Year"],
+              "nearest": true,
+              "on": "mouseover",
+              "empty": "none",
+              "clear": "mouseout"
+            }
+          },
+          "encoding": {
+            "color": {"field": "Country", "type": "nominal"},
+            "tooltip": [
+              {"field": "Country", "type": "nominal", "title": "Country"},
+              {"field": "Year", "type": "ordinal"},
+              {
+                "field": "Happiness_Score",
+                "type": "quantitative",
+                "title": "Happiness Score"
+              },
+              {"field": "Rank", "type": "ordinal"}
+            ],
+            "opacity": {
+              "condition": {"value": 1, "selection": "highlight_bump_text"},
+              "value": 0
+            }
+          }
+        },
+        {
+          "mark": {"type": "circle", "orient": "vertical", "size": 100},
+          "encoding": {
+            "color": {"field": "Country", "type": "nominal", "legend": null},
+            "opacity": {
+              "condition": {"selection": "highlight_bump", "value": 0.8},
+              "value": 0.1
+            }
+          },
+          "title": {
+            "text": ["Happiness Score of Each Country"],
+            "fontSize": 20,
+            "offset": 20
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "align": "left",
+            "dx": 10,
+            "fontStyle": "italic",
+            "fontSize": 15
+          },
+          "encoding": {
+            "text": {"field": "Country"},
+            "opacity": {
+              "condition": {"selection": "highlight_bump", "value": 0.5},
+              "value": 0.2
+            },
+            "fillOpacity": {
+              "condition": {"test": "datum.Year == 2019", "value": 0},
+              "value": 0
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {
+      "grid": false,
+      "labelFont": "Overpass",
+      "titleFont": "Overpass",
+      "labelFontSize": 15
+    },
+    "background": "whitesmoke",
+    "legend": {
+      "labelFont": "Overpass",
+      "titleFont": "Overpass",
+      "labelFontSize": 15
+    },
+    "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "mark": {"font": "Overpass"},
+    "title": {"font": "Overpass", "fontSize": 20}
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "spacing": 50,
+  "hconcat": [
+    {
+      "description": "A bar chart that sorts the y-values by the x-values.",
+      "title": "20 Happiest Countries in the World",
+      "data": {
+        "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2019.csv"
+      },
+      "transform": [
+        {
+          "window": [{"op": "rank", "as": "rank"}],
+          "sort": [{"field": "Happiness_Score", "order": "descending"}]
+        },
+        {"filter": "datum.rank <= 20"}
+      ],
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "aggregate": "sum",
+          "field": "Happiness_Score",
+          "title": "Happiness Score"
+        },
+        "y": {"field": "Country", "sort": "-x", "title": "Countries"},
+        "color": {
+          "field": "Happiness_Score",
+          "type": "quantitative",
+          "scale": {"scheme": "redpurple"},
+          "legend": {"title": "Happiness Score"}
+        },
+        "tooltip": [
+          {"field": "Country", "title": "Country"},
+          {"field": "rank", "title": "rank"}
+        ]
+      },
+      "selection": {
+        "click": {"fields": ["ethnicity"], "type": "single", "clear": false}
+      },
+      "width": 400,
+      "height": 500
+    },
+    {
+      "width": 300,
+      "title": "Drivers with most podiums",
+      "description": "A simple radial chart with embedded data.",
+      "data": {"url": "https://akus0005.github.io/FIT3179/f1_data.csv"},
+      "layer": [
+        {"mark": {"type": "arc", "innerRadius": 100, "stroke": "#fff"}},
+        {
+          "mark": {"type": "text", "radiusOffset": 80, "fill": "#202630"},
+          "encoding": {"text": {"field": "abbreviation", "type": "nominal"}}
+        }
+      ],
+      "transform": [{"filter": "datum.Num_podiums"}],
+      "encoding": {
+        "theta": {
+          "field": "Num_podiums",
+          "type": "quantitative",
+          "stack": true
+        },
+        "radius": {
+          "field": "Num_podiums",
+          "scale": {"type": "sqrt", "zero": true, "rangeMin": 100}
+        },
+        "color": {"field": "Podiums for 5 years", "type": "nominal"},
+        "order": {"field": "Podiums for 5 years", "sort": "ascending"},
+        "tooltip": [
+          {"field": "Podiums for 5 years", "type": "nominal"},
+          {"field": "Num_podiums", "type": "quantitative"}
+        ]
+      },
+      "view": {"stroke": null}
+    }
+  ],
+  "config": {}
+}

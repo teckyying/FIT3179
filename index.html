@@ -27,8 +27,14 @@
   
 <div class = "box-2">
   <h2>Happiest Country in the World</h2>
-  <div id="horizontal_bar_chart"></div>
+  <div id="horizontalBarChart_slopechart"></div>
   <p>Figure 2: Finland has the highest happiness score in 2019.</p>
+</div>
+
+<div class = "box-2">
+  <h2>Happiest Country in the World</h2>
+  <div id="scatterplot_zoom"></div>
+  <p>Figure 3: Finland has the highest happiness score in 2019.</p>
 </div>
 
 
@@ -39,10 +45,14 @@
     }).catch(console.error);
     
     var vis2 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/horizontal_bar_20_happiest_countries.vl.json";
-    vegaEmbed('#horizontal_bar_chart', vis2).then(function(result) {
+    vegaEmbed('#horizontalBarChart_slopechart', vis2).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
   
+    var vis3 = "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/scatterplot_zoom.vl.json";
+    vegaEmbed('#scatterplot_zoom', vis3).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
   </script>
 
 

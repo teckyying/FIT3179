@@ -37,7 +37,7 @@ Rank,Country,Happiness_Score,GDP_per_capita,SocialSupport,HealthyLifeExpectancy,
 36,Italy,6.223,1.294,1.488,1.039,0.231,0.158,0.03,60479424,Europe,Western Europe
 37,Bahrain,6.199,1.362,1.368,0.871,0.536,0.255,0.11,1688629,Asia,Middle East and Northern Africa
 38,Slovakia,6.198,1.246,1.504,0.881,0.334,0.121,0.014,5459116,Europe,Central and Eastern Europe
-39,Trinidad & Tobago,6.192,1.231,1.477,0.713,0.489,0.185,0.016,1398579,North America,Latin America and Caribbean
+39,Trinidad and Tobago,6.192,1.231,1.477,0.713,0.489,0.185,0.016,1398579,North America,Latin America and Caribbean
 40,Poland,6.182,1.206,1.438,0.884,0.483,0.117,0.05,37854825,Europe,Central and Eastern Europe
 41,Uzbekistan,6.174,0.745,1.529,0.756,0.631,0.322,0.24,33368859,Asia,Central and Eastern Europe
 42,Lithuania,6.149,1.238,1.515,0.818,0.291,0.043,0.042,2729553,Europe,Central and Eastern Europe
