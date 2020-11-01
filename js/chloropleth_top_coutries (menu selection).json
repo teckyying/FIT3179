@@ -1,0 +1,127 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "background": "whitesmoke",
+  "width": 950,
+  "height": 500,
+  "title": {
+    "text": "World Happiness from 2015 to 2019",
+    "subtitle": ["Let's find out which is the happiest country! 🌏"],
+    "subtitlePadding": 10
+  },
+  "projection": {"type": "equirectangular"},
+  "params": [
+    {
+      "name": "Top_Happiest_Countries",
+      "value": 158,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 158,
+        "step": 1,
+        "name": "Top Nth Happiest Countries:"
+      }
+    },
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "labels": [
+          "Worldwide",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
+      }
+    },
+    {
+      "name": "year_selection",
+      "bind": {
+        "input": "select",
+        "options": ["2019", "2018", "2017", "2016", "2015"],
+        "labels": ["2019", "2018", "2017", "2016", "2015"],
+        "name": "Year: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgray",
+        "stroke": "whitesmoke",
+        "strokeWidth": 0.4
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "properties.NAME",
+            "type": "nominal",
+            "title": "Country (No Data)"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/js/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/world_happiness_2015_to_2019.csv"
+            },
+            "key": "Country",
+            "fields": ["Happiness_Score", "Rank", "Region", "Continent", "Year"]
+          }
+        },
+        {"filter": "datum.Rank <= Top_Happiest_Countries"},
+        {
+          "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+        },
+        {"filter": "datum.Year == year_selection"}
+      ],
+      "mark": {"type": "geoshape", "stroke": "whitesmoke", "strokeWidth": 0.4},
+      "encoding": {
+        "color": {
+          "field": "Rank",
+          "type": "quantitative",
+          "scale": {"scheme": {"name": "redpurple", "extent": [1, 0]}},
+          "legend": {"title": ["Happiness", "Rank"]}
+        },
+        "tooltip": [
+          {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+          {"field": "Region", "type": "nominal"},
+          {"field": "Continent", "type": "nominal"},
+          {
+            "field": "Happiness_Score",
+            "type": "quantitative",
+            "title": "Happiness Score"
+          },
+          {"field": "Rank", "type": "quantitative", "title": "Happiness Rank"},
+          {"field": "Year", "type": "ordinal", "title": "Year"}
+        ]
+      }
+    }
+  ],
+  "config": {"title": {"fontSize": 20, "color": "rebeccapurple"}}
+}
