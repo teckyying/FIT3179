@@ -3,11 +3,11 @@
   "data": {
     "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/waterfall.csv"
   },
-  "width": 800,
+  "width": 1000,
   "height": 600,
   "params": [
     {
-      "name": "state_selection",
+      "name": "region_selection",
       "value": "Worldwide",
       "bind": {
         "input": "select",
@@ -29,7 +29,7 @@
     }
   ],
   "transform": [
-    {"filter": "datum.areaName === state_selection"},
+    {"filter": "datum.areaName === region_selection"},
     {"window": [{"op": "sum", "field": "difference", "as": "sum"}]},
     {"window": [{"op": "lead", "field": "Year", "as": "lead"}]},
     {
@@ -77,8 +77,8 @@
       "calculate": "datum.label_sum_inc !== '' ? datum.label_sum_inc : datum.label_sum_dec",
       "as": "current_score"
     },
-    {"calculate": "datum.text_amount + ' change'", "as": "change_label"},
-    {"calculate": "datum.current_score + ' score'", "as": "score_label"}
+    {"calculate": "datum.text_amount + ' '", "as": "change_label"},
+    {"calculate": "datum.current_score + ' '", "as": "score_label"}
   ],
   "encoding": {
     "x": {
@@ -95,22 +95,22 @@
         "y": {
           "field": "previous_sum",
           "type": "quantitative",
-          "title": "Changes in Happiness"
+          "title": "Change in Happiness Score"
         },
         "y2": {"field": "sum"},
         "color": {
           "condition": [
             {
-              "test": "datum.year === 2006 || datum.year === 'Total'",
-              "value": "red"
+              "test": "datum.Year === 2006 || datum.Year === 'Total'",
+              "value": "darkcyan"
             },
             {"test": "datum.sum < datum.previous_sum", "value": "salmon"}
           ],
           "value": "powderblue"
         },
         "tooltip": [
-          {"field": "state", "title": "State"},
-          {"field": "year", "title": "Year"},
+          {"field": "areaName", "title": "Region"},
+          {"field": "Year", "title": "Year"},
           {"field": "change_label", "title": "Change"},
           {"field": "score_label", "title": "Score"}
         ]
@@ -119,11 +119,11 @@
     {
       "mark": {
         "type": "rule",
-        "color": "black",
+        "color": "slategray",
         "opacity": 1,
         "strokeWidth": 2,
-        "xOffset": -30,
-        "x2Offset": 30
+        "xOffset": -20,
+        "x2Offset": 20
       },
       "encoding": {
         "x2": {"field": "lead"},
@@ -138,10 +138,7 @@
         "fontSize": 10,
         "baseline": "bottom"
       },
-      "encoding": {
-        "y": {"field": "sum_inc", "type": "quantitative"},
-        "text": {"field": "label_sum_inc", "type": "nominal"}
-      }
+      "encoding": {"y": {"field": "sum_inc", "type": "quantitative"}}
     },
     {
       "mark": {
@@ -151,10 +148,7 @@
         "fontSize": 10,
         "baseline": "top"
       },
-      "encoding": {
-        "y": {"field": "sum_dec", "type": "quantitative"},
-        "text": {"field": "label_sum_dec", "type": "nominal"}
-      }
+      "encoding": {"y": {"field": "sum_dec", "type": "quantitative"}}
     },
     {
       "mark": {
@@ -166,26 +160,31 @@
       },
       "encoding": {
         "y": {"field": "center", "type": "quantitative"},
-        "text": {"field": "text_amount", "type": "nominal"},
+        "text": {"field": "text_amount", "type": "nominal", "format": ".5f"},
         "color": {
           "condition": [
             {
-              "test": "datum.year === 2006 || datum.year === 'Total'",
-              "value": "red"
+              "test": "datum.Year === 2006 || datum.Year === 'Total'",
+              "value": "white"
             }
           ],
-          "value": "midnightblue"
+          "value": "dimgrey"
         }
       }
     }
   ],
   "config": {
     "view": {"stroke": null},
-    "axis": {"grid": false, "labelFont": "Overpass", "titleFont": "Overpass"},
+    "axis": {
+      "grid": true,
+      "labelFont": "Overpass",
+      "titleFont": "Overpass",
+      "labelFontSize": 15
+    },
     "background": "whitesmoke",
     "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
     "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
     "mark": {"font": "Overpass"},
-    "title": {"font": "Overpass", "fontSize": 16}
+    "title": {"font": "Overpass", "fontSize": 15}
   }
 }

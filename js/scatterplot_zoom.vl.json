@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "background": "whitesmoke",
+  "title": "Factors Affecting Happiness Score in Each Country",
   "width": 400,
   "height": 500,
   "data": {
@@ -139,11 +140,11 @@
               "South America"
             ],
             "range": [
-              "#800000",
-              "#74a9cf",
+              "#ff8080",
               "#8c6bb1",
               "#08589e",
-              "#ff8080",
+              "#74a9cf",
+              "#800000",
               "#99d8c9"
             ]
           }
@@ -214,11 +215,11 @@
               "South America"
             ],
             "range": [
-              "#800000",
-              "#74a9cf",
+              "#ff8080",
               "#8c6bb1",
               "#08589e",
-              "#ff8080",
+              "#74a9cf",
+              "#800000",
               "#99d8c9"
             ]
           }
@@ -289,11 +290,11 @@
               "South America"
             ],
             "range": [
-              "#800000",
-              "#74a9cf",
+              "#ff8080",
               "#8c6bb1",
               "#08589e",
-              "#ff8080",
+              "#74a9cf",
+              "#800000",
               "#99d8c9"
             ]
           }
@@ -364,11 +365,11 @@
               "South America"
             ],
             "range": [
-              "#800000",
-              "#74a9cf",
+              "#ff8080",
               "#8c6bb1",
               "#08589e",
-              "#ff8080",
+              "#74a9cf",
+              "#800000",
               "#99d8c9"
             ]
           }
@@ -439,11 +440,11 @@
               "South America"
             ],
             "range": [
-              "#800000",
-              "#74a9cf",
+              "#ff8080",
               "#8c6bb1",
               "#08589e",
-              "#ff8080",
+              "#74a9cf",
+              "#800000",
               "#99d8c9"
             ]
           }
@@ -514,11 +515,11 @@
               "South America"
             ],
             "range": [
-              "#800000",
-              "#74a9cf",
+              "#ff8080",
               "#8c6bb1",
               "#08589e",
-              "#ff8080",
+              "#74a9cf",
+              "#800000",
               "#99d8c9"
             ]
           }
