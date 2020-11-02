@@ -45,17 +45,6 @@
         ],
         "name": "Continent Selection: "
       }
-    },
-    {
-      "name": "year_slider",
-      "value": 2019,
-      "bind": {
-        "input": "range",
-        "min": 2015,
-        "max": 2019,
-        "step": 1,
-        "name": "Year"
-      }
     }
   ],
   "layer": [
@@ -99,8 +88,7 @@
         {"filter": "datum.Rank <= Top_Happiest_Countries"},
         {
           "filter": "Continent_selection == null || datum.Continent == Continent_selection"
-        },
-        {"filter": "datum.Year == year_slider"}
+        }
       ],
       "mark": {"type": "geoshape", "stroke": "whitesmoke", "strokeWidth": 0.4},
       "encoding": {
