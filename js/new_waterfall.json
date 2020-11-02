@@ -1,0 +1,178 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/waterfall.csv"
+  },
+  "width": 900,
+  "height": 500,
+  "params": [
+    {
+      "name": "region_selection",
+      "value": "Worldwide",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Worldwide",
+          "Southern Asia",
+          "Central and Eastern Europe",
+          "Middle East and Northern Africa",
+          "Sub-Saharan Africa",
+          "Latin America and Caribbean",
+          "Australia and New Zealand",
+          "Western Europe",
+          "Southeastern Asia",
+          "North America",
+          "Eastern Asia"
+        ],
+        "name": "Region:"
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.areaName === region_selection"},
+    {"window": [{"op": "sum", "field": "difference", "as": "sum"}]},
+    {"window": [{"op": "lead", "field": "Year", "as": "lead"}]},
+    {
+      "calculate": "datum.lead === null ? datum.Year : datum.lead",
+      "as": "lead"
+    },
+    {
+      "calculate": "datum.Year === 'Total' ? 0 : datum.sum - datum.difference",
+      "as": "previous_sum"
+    },
+    {
+      "calculate": "datum.Year === 'Total' ? datum.sum : datum.difference",
+      "as": "difference"
+    },
+    {
+      "calculate": "(datum.Year !== '2006' && datum.Year !== 'Total' && datum.differrence > 0 ? '+' : '') + datum.difference",
+      "as": "text_amount"
+    },
+    {"calculate": "(datum.sum + datum.previous_sum) / 2", "as": "center"},
+    {
+      "calculate": "datum.sum < datum.previous_sum ? datum.sum : ''",
+      "as": "sum_dec"
+    },
+    {
+      "calculate": "datum.sum > datum.previous_sum ? datum.sum : ''",
+      "as": "sum_inc"
+    },
+    {
+      "calculate": "(datum.Year !== 2006 && datum.Year !== 'Total' && datum.difference > 0 ? '+' : '') + datum.difference",
+      "as": "text_amount"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "sort": null,
+      "axis": {"labelAngle": 0, "title": "Years"}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "bar", "size": 55},
+      "encoding": {
+        "y": {
+          "field": "previous_sum",
+          "type": "quantitative",
+          "title": "Change in Happiness Score"
+        },
+        "y2": {"field": "sum"},
+        "color": {
+          "condition": [
+            {
+              "test": "datum.Year === '2006' || datum.Year === 'Total'",
+              "value": "darkcyan"
+            },
+            {"test": "datum.sum < datum.previous_sum", "value": "salmon"}
+          ],
+          "value": "powderblue"
+        },
+        "tooltip": [
+          {"field": "areaName", "title": "Region"},
+          {"field": "Year", "title": "Year"},
+          {"field": "text_amount", "title": "Change"},
+          {"field": "happinessScore", "title": "Score"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "rule",
+        "color": "slategray",
+        "opacity": 1,
+        "strokeWidth": 2,
+        "xOffset": -23,
+        "x2Offset": 23
+      },
+      "encoding": {
+        "x2": {"field": "lead"},
+        "y": {"field": "sum", "type": "quantitative"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": -4,
+        "font": "Overpass",
+        "fontSize": 10,
+        "baseline": "bottom"
+      },
+      "encoding": {
+        "y": {"field": "sum_inc", "type": "quantitative"},
+        "text": {"field": "sum_inc", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": 4,
+        "font": "Overpass",
+        "fontSize": 10,
+        "baseline": "top"
+      },
+      "encoding": {
+        "y": {"field": "sum_dec", "type": "quantitative"},
+        "text": {"field": "sum_dec", "type": "nominal"}
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "font": "Overpass",
+        "fontSize": 15,
+        "fontWeight": "bold",
+        "baseline": "middle"
+      },
+      "encoding": {
+        "y": {"field": "center", "type": "quantitative"},
+        "text": {"field": "text_amount", "type": "nominal", "format": ".5f"},
+        "color": {
+          "condition": [
+            {
+              "test": "datum.Year === '2006' || datum.Year === 'Total'",
+              "value": "white"
+            }
+          ],
+          "value": "dimgrey"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {"stroke": null},
+    "axis": {
+      "grid": true,
+      "labelFont": "Overpass",
+      "titleFont": "Overpass",
+      "labelFontSize": 15
+    },
+    "background": "whitesmoke",
+    "legend": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "header": {"labelFont": "Overpass", "titleFont": "Overpass"},
+    "mark": {"font": "Overpass"},
+    "title": {"font": "Overpass", "fontSize": 15}
+  }
+}
