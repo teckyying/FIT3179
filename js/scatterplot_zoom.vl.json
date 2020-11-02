@@ -560,7 +560,7 @@
         "color": {"value": "black"},
         "opacity": {
           "condition": {
-            "test": "datum['Country'] == 'China' || datum['Country'] == 'Finland' || datum['Country'] == 'Australia' || datum['Country'] == 'Japan' || datum['Country'] == 'S. Sudan' || datum['Country'] == 'Syria' ||  datum['Country'] == 'United States of America' ||  datum['Country'] == 'Malaysia'",
+            "test": "datum['Country'] == '' || datum['Country'] == '' || datum[''] == '' || datum[''] == '' || datum['Country'] == '' || datum['Country'] == '' ||  datum['Country'] == '' ||  datum['Country'] == ''",
             "value": 1
           },
           "value": 0
