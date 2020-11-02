@@ -31,11 +31,21 @@
 
     <div class = "intro_2">
       <p>  
+        <em>
         How happy are people today? Were people happier in the past? How satisfied with their lives are people in different countries? How do our living conditions affect our happiness? 
-      </p>
+      </em>
+      </p> 
       <p>
-        These are difficult questions to answer; but they are questions that undoubtedly matter for each of us personally.
-        Let's find out by taking a look at the visualisation below!
+        These are difficult questions to answer, but they are questions that undoubtedly matter for each of us personally.  
+        Every year the World Happiness Report surveys <strong>156 countries</strong> and ranks them according to how happy they are. This report is a 
+        publication by the Sustainable Development Solutions Network. The scores are instead based on <strong>individuals’ own assessments of their lives</strong> , 
+        revealed by their answers to the Cantril ladder question that invites survey participants to imagine their current position on a ladder with
+        steps numbered from 0 to 10, where the top represents the best possible and the bottom the
+        worst possible life for themselves. 
+        <p>
+        Continue reading to find out more!
+        </p>
+
       </p>
     </div>
 
@@ -61,51 +71,98 @@
     </h2>      
   </div> 
 
-  <!-- pure grid group -->
-  <div class="pure-g">
-    <div class="pure-u-1-3">
-      <div class="description description-left">
-        <br>  
-        <div class = "description2">
-          <h2>Number of Cases</h2>
-          <p>This chart shows the Number of Active Cases each Month per Continent.</p>
-          
-        
-          <br>  
-          <h2>Number of Cases</h2>
-          <p>This chart shows the Number of Active Cases each Month per Continent.</p>
-         
-          <br>  
-          <h2>Number of Cases</h2>
-          <p>This chart shows the Number of Active Cases each Month per Continent.</p>
-          
-          <br>  
-          <h2>Number of Cases</h2>
-          <p>This chart shows the Number of Active Cases each Month per Continent.</p>
-          
-          <br>  
-          <h2>Number of Cases</h2>
-          <p>This chart shows the Number of Active Cases each Month per Continent.</p>
-          <br>  
-          <h2>Number of Cases</h2>
-          <p>This chart shows the Number of Active Cases each Month per Continent.</p>
-          
-        </div>
-        
-      </div>
-    </div>
-    <div class="pure-u-2-3">
-      <br>
-      <div id="scatterplot_zoom" class="vis-container"></div>
-    </div>
-
+<div class = 'subheader2_info'>
+  <p>In this section we will present how six key variables contribute to explaining the national average happiness scores and higher life evaluations in the year 2019.
+    These variables are Gross Domestic Product (GDP) per capita, social support, healthy life expectancy, freedom, generosity, and absence of corruption. 
+  </p>
+ 
+  <p>
+    Note that we do not construct our happiness measure in each country using these six variables. Rather, We use the six
+    variables to explain the variation of happiness across countries.
+  </p>
 </div>
-<!-- end pure grid group -->
 
-  <!-- <div class = "box-2">
-    <div id="scatterplot_zoom"></div>
-    <p>Figure 3: Choose the option.</p>
-  </div> -->
+
+
+  <div class = "subheader2_graph">
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-3">
+        
+        <div class="description description-left">
+          
+            <h2>GDP per capita</h2>
+            <p class = "explanation1">
+              GDP per capita is in terms of Purchasing
+              Power Parity (PPP) adjusted to constant
+              2011 international dollars, taken from
+              the World Development Indicators
+              (WDI) released by the World Bank on
+              November 28, 2019.</p>
+
+            <br>
+            <h2>Social Support</h2>
+            <p class = "explanation1">
+                Social support is the national average to
+                the Gallup World Poll (GWP) question, “If
+                you were in trouble, do you have relatives
+                or friends you can count on to help you
+                whenever you need them, or not?”              
+              </p>
+              
+              <br>
+            <h2>Healthy Life Expentancy</h2>
+            <p class = "explanation1">
+              The time series of healthy life expectancy
+              at birth are constructed based on data
+              from the World Health Organization
+              (WHO) Global Health Observatory data
+              repository.
+            </p>
+           
+            <br>
+            <h2>Freedom To Make Life Choices</h2>
+            <p class = "explanation1">
+              Freedom to make life choices is the
+              national average of binary responses
+              to the GWP question, “Are you satisfied
+              or dissatisfied with your freedom to
+              choose what you do with your life?” 
+            </p>
+        
+            <br>
+            <h2>Generosity</h2>
+            <p class = "explanation1">
+            Generosity is the residual of regressing
+            the national average of GWP responses
+            to the question, “Have you donated
+            money to a charity in the past month?”
+            on GDP per capita. 
+            </p>
+
+            <br>
+            <h2>Perceptions of Corruption</h2>
+            <p class = "explanation1">
+              Perceptions of corruption are the average
+              of binary answers to two GWP questions:
+              “Is corruption widespread throughout the
+              government or not?” and “Is corruption
+              widespread within businesses or not?”.
+            </p>
+        </div>
+      </div>
+      
+      <div class="pure-u-2-3">
+        <div class = "scatter_padding">
+          
+        <div id="scatterplot_zoom" class="vis-container"></div>
+        </div>
+      
+    </div>
+    <!-- end pure grid group -->
+    </div>
+
+  </div>
 
   <div class = 'subheader3'>
     <h2>
@@ -114,10 +171,8 @@
   </div> 
 
 
-  <div class = "box-2">
-    <h2>Overall Happiness Level for The Past 14 Year</h2>
+  <div class = "waterfall">
     <div id="waterfall"></div>
-    <p>Figure 4: Happiness filtered by region.</p>
   </div>
 
 

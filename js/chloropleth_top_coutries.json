@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "background": "whitesmoke",
-  "width": 800,
-  "height": 400,
+  "width": 1000,
+  "height": 550,
   "title": {
     "text": "World Happiness from 2015 to 2019",
     "subtitle": ["Let's find out which is the happiest country! 🌏"],
@@ -47,14 +47,12 @@
       }
     },
     {
-      "name": "year_slider",
-      "value": 2019,
+      "name": "year_selection",
       "bind": {
-        "input": "range",
-        "min": 2015,
-        "max": 2019,
-        "step": 1,
-        "name": "Year"
+        "input": "select",
+        "options": ["2019", "2018", "2017", "2016", "2015"],
+        "labels": ["2019", "2018", "2017", "2016", "2015"],
+        "name": "Year: "
       }
     }
   ],
@@ -100,7 +98,7 @@
         {
           "filter": "Continent_selection == null || datum.Continent == Continent_selection"
         },
-        {"filter": "datum.Year == year_slider"}
+        {"filter": "datum.Year == year_selection"}
       ],
       "mark": {"type": "geoshape", "stroke": "whitesmoke", "strokeWidth": 0.4},
       "encoding": {
@@ -125,5 +123,5 @@
       }
     }
   ],
-  "config": {"title": {"fontSize": 20, "color": "black"}}
+  "config": {"title": {"fontSize": 20, "color": "rebeccapurple"}}
 }

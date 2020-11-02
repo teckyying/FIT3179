@@ -3,8 +3,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/teckyying/FIT3179/master/data/waterfall.csv"
   },
-  "width": 1000,
-  "height": 600,
+  "width": 900,
+  "height": 500,
   "params": [
     {
       "name": "region_selection",
