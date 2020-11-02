@@ -4,7 +4,7 @@
   "width": 1000,
   "height": 550,
   "title": {
-    "text": "World Happiness from 2015 to 2019",
+    "text": " ",
     "subtitle": ["Let's find out which is the happiest country! 🌏"],
     "subtitlePadding": 10
   },
@@ -125,5 +125,5 @@
       }
     }
   ],
-  "config": {"title": {"fontSize": 20, "color": "rebeccapurple"}}
+  "config": {"title": {"fontSize": 20, "color": "Black"}}
 }
