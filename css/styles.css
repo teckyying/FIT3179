@@ -4,10 +4,10 @@ body{
 	color: black;  /*default word colour*/
 
 	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: normal; /*include a value:100*/
 
-	line-height: 1.5em;
+	line-height: 1.7em;
 }
 
 .mainHeader{
@@ -31,7 +31,7 @@ body{
 }
 	
 
-.intro_2, .subheader2_info{
+.intro_2, .subheader2_info, .waterfall_info{
 	padding-left: 10%;
 	padding-right: 10%;
 	font-size: 20px;
@@ -42,7 +42,7 @@ body{
 	width: 100%;
 	display: flex;
 	justify-content: center;
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 	font-size: 15px;
 }
 
@@ -55,6 +55,15 @@ body{
 	padding-bottom: 8px;
 	font-size: 30px;
 	font-family: serif;
+}
+
+.donut-caption {
+    position: absolute;
+    width: 700px;
+	margin-top: -350px;
+    margin-left: 50%;
+	font-size: 0px;
+	padding-bottom: 20px;
 }
 
 
@@ -82,6 +91,16 @@ body{
 	width: 100%;
 }
 
+.block{
+	float:left;
+	width: 50%;
+	padding-left :10%;
+	padding-right: 10%;
+	box-sizing: border-box;
+	font-size: 20px;
+	padding-bottom: 10%;
+}
+
 .authorship {
     margin-bottom: 5px;
     font-size: 12px;
@@ -94,3 +113,4 @@ body{
     font-size: 12px;
     text-align: center;
 }
+
