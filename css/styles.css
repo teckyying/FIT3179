@@ -8,6 +8,7 @@ body{
 	font-weight: normal; /*include a value:100*/
 	line-height: 2em;
 	padding: 0px;
+	text-align: justify;
 }
 
 .header {
